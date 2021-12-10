@@ -1,34 +1,52 @@
-# Web Starter NodeJS
+# SIC Code Finder Prototype
 
 ## Overview
 
-The aim of this template is to give you a head start in setting up a new web application for Companies House.
+This web app allows you to enter keywords for a SIC code lookup
 
-The template uses [Express](https://expressjs.com), [TypeScript](https://typescriptlang.org) and the [GovUK Frontend](https://github.com/alphagov/govuk-frontend) toolkit to set up a simple example of a web application that runs on NodeJS.
+This Node.js application is based on the [Node Web Starter](https://github.com/companieshouse/node-web-starter) template and uses:
 
-**You can create a new project from this template by clicking the [Use this template](https://github.com/companieshouse/node-web-starter/generate) button.**
+- [Express](https://expressjs.com),
+- [TypeScript](https://typescriptlang.org),
+- Add MongoDB
+- [GovUK Frontend](https://github.com/alphagov/govuk-frontend).
 
 ## Contents
 
-- [Quick start](#quick-start)
-- [Prerequisites](#prerequisites)
-- [Running the server](#running-the-server)
-- [Static assets](#static-assets)
-- [Compiling the application](#compiling-the-application)
-- [Linting](#linting)
-- [Testing](#testing)
+- [SIC Code Finder Prototype](#sic-code-finder-prototype)
+  - [Overview](#overview)
+  - [Contents](#contents)
+    - [Quick start](#quick-start)
+    - [Environment Variables](#environment-variables)
+    - [Datafiles](#datafiles)
+    - [Prerequisites](#prerequisites)
+    - [Running the server](#running-the-server)
+    - [Static assets](#static-assets)
+    - [Compiling the application](#compiling-the-application)
+    - [Linting](#linting)
 
 ### Quick start
 
-If you are familiar with NodeJS development and already have it installed, simply run the `init` make task
+Install the dependencies
 
-    make init
-    
+  `make init`
+
 And then start the application
-    
-    npm start
-    
+
+  `npm start`
+
 Then go to [http://localhost:3000](http://localhost:3000).
+
+### Environment Variables
+
+The following is a list of environment variables for the service to run:
+
+Name                                        | Description                                                               | Example Value
+------------------------------------------- | ------------------------------------------------------------------------- | ------------------------
+
+### Datafiles
+
+These are `csv` files in the `./datafiles` and can be loaded into MongoDB. Examples below use Mongo running in a docker container.
 
 ### Prerequisites
 
@@ -44,41 +62,37 @@ Once you have that installed, you will need to install the dependencies (locally
 
     npm i
     npm install gulp-cli -g
-    
+
 ### Running the server
 
 There are two ways to run the server in development. You run it in normal mode;
 
-    npm start
-    
-Or, automatically reload the server once you make changes to source code;
+  `npm start`
 
-    npm run start:watch
+Update following (get `nodemon` working)
+
+Or, automatically reload the server once you make changes to source code (this uses `nodemon`);
+
+  `npm run dev`
 
 ### Static assets
 
-Sass is used to compile the css from GovUK Frontend. The `static` gulp task will build the necessary files and output them to the [dist](./dist) folder.
+Sass is used to compile the css from GovUK Frontend. The `static` gulp task will build the necessary files and output them to the [`dist`](./dist) folder.
 
-    gulp static
-    
+  `gulp static`
+
 During development, static assets are served from this folder using the url prefix `/static`.
 
 ### Compiling the application
 
-TypeScript compiles down the JavaScript code that eventually gets run via NodeJS. The `build` npm task will write the JavaScript to the [dist](./dist) folder.
+TypeScript compiles down the JavaScript code that eventually gets run via NodeJS. The `build` npm task will write the JavaScript to the [`dist`](./dist) folder.
 
-    npm run build
-    
+  `npm run build`
+
 **It is this code that gets run in production.**
 
 ### Linting
 
 [TSLint](https://palantir.github.io/tslint/) is used to perform static analysis on code style.
 
-    npm run lint
-
-### Testing
-
-Tests can be found in the directory [src/test](./src/test). The framework used is [Jest](https://jestjs.io) along with [Supertest](https://github.com/visionmedia/supertest) to dispatch handlers that can have assertions made against the responses. Execute the following to run the tests;
-
-    npm t
+  `npm run lint`

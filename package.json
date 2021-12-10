@@ -1,11 +1,11 @@
 {
-  "name": "web-starter-nodejs",
+  "name": "sic-code-finder-prototype",
   "version": "1.0.0",
   "description": "A starter web application",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=development ts-node ./src/server.ts",
-    "start:watch": "NODE_ENV=development nodemon",
+    "dev": "NODE_ENV=development nodemon",
     "build": "NODE_ENV=production tsc",
     "postbuild": "copyfiles -f -V src/views/* dist/app/views",
     "lint": "tslint -p .",
@@ -41,7 +41,7 @@
     "watch": [
       "./src"
     ],
-    "ext": "ts",
+    "ext": "ts,njk",
     "legacyWatch": true,
     "ignore": [
       "**/*.spec.ts"

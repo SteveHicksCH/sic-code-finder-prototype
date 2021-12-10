@@ -1,7 +1,7 @@
 import * as express from "express";
 import * as nunjucks from "nunjucks";
 import * as path from "path";
-import router from "./routers";
+import router from "./routers/routes";
 
 const app = express();
 
@@ -23,11 +23,7 @@ const env = nunjucks.configure([
 });
 
 app.set("views", viewPath);
-app.set("view engine", "html");
-
-// add global variables to all templates
-env.addGlobal("PIWIK_URL", "https://example.com");
-env.addGlobal("PIWIK_SITE_ID", "123");
+app.set("view engine", "njk");
 
 // serve static assets in development. this will not execute in production.
 if (process.env.NODE_ENV === "development") {
