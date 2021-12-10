@@ -41,8 +41,14 @@ Then go to [http://localhost:3000](http://localhost:3000).
 
 The following is a list of environment variables for the service to run:
 
-Name                                        | Description                                                               | Example Value
-------------------------------------------- | ------------------------------------------------------------------------- | ------------------------
+Name                                        | Description                                                            | Example Value
+------------------------------------------- | ---------------------------------------------------------------------- | ------------------------
+
+The following is a list of environmental variables required to load the database
+
+Name                                        | Description                                                            | Example Value
+------------------------------------------- | ---------------------------------------------------------------------- | ------------------------
+MONGO_DOCKER_NAME                           | Name of the MongoDB Docker container                                   | docker-mongo_1
 
 ### Datafiles
 
