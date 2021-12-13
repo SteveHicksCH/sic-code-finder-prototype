@@ -17,18 +17,28 @@ then
 fi
 
 script_dir=$(dirname "$0")
-condensed_sic_code_filename=SIC07_CH_condensed_list_en.csv
-condensed_sic_code_datafile=${script_dir}/../datafiles/${condensed_sic_code_filename}
-if [[ ! -f "${condensed_sic_code_datafile}" ]]
-then  
-   echo "Condensed SIC Code file '$condensed_sic_code_datafile' is not found"
-   exit 1
-fi 
 
-echo "Copying over Condensed SIC Codes ${condensed_sic_code_datafile} to Docker container"
-#docker cp src/test/resources/restricted-word-import.json docker-chs-development_mongo_1:/tmp/restricted-word-import.json
+import_csv() {
+    local csv_filename="$1"
+    local mongo_collection="$2"
 
-docker cp "${condensed_sic_code_datafile}" "${MONGO_DOCKER_NAME}:/tmp/${condensed_sic_code_filename.csv}"
+    local csv_file_full_path=${script_dir}/../datafiles/${csv_filename}
+    if [[ ! -f "${csv_file_full_path}" ]]
+    then  
+        echo "CSV Input file ${csv_file_full_path} is not found, exiting script"
+        exit 1
+    fi 
 
-echo "Importing the Condensed SIC Codes"
-docker exec "${MONGO_DOCKER_NAME}" mongoimport --db sic_code --collection condensed_sic_codes --file /tmp/${condensed_sic_code_filename.csv} --drop --type=csv --headerline
+    echo "Copying over CSV Input file ${csv_file_full_path} to Docker container"
+    docker cp "${csv_file_full_path}" "${MONGO_DOCKER_NAME}:/tmp/${csv_filename}"
+
+    echo "Importing the CSV to Collection ${mongo_collection}"
+    docker exec "${MONGO_DOCKER_NAME}" mongoimport --db sic_code --collection ${mongo_collection} --file /tmp/${csv_filename} --drop --type=csv --headerline
+
+}
+
+import_csv SIC07_CH_condensed_list_en.csv condensed_sic_codes
+
+import_csv ch_created_activity_sic_codes.csv ch_created_activity_sic_codes
+
+import_csv uksic_2007_alphabetica_index_nov_2020.csv economic_activity_sic_codes

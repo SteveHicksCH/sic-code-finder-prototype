@@ -27,6 +27,12 @@ This Node.js application is based on the [Node Web Starter](https://github.com/c
 
 ### Quick start
 
+Populate the database
+
+Run docker with a Mongo container running (making sure that you have the correct setting for MONGO_DOCKER_NAME)
+
+Run the script `./scripts/refresh-mongo-db.sh`
+
 Install the dependencies
 
   `make init`
