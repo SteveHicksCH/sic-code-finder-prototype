@@ -1,4 +1,4 @@
-﻿sic_code,description
+﻿sic_code.string(),activity_description.string()
 10110,Abattoir (manufacture)
 17120,Abrasive base paper (manufacture)
 23910,"Abrasive bonded disc, wheel and segment (manufacture)"
@@ -8,7 +8,7 @@
 23910,Abrasive grain of artificial corundum (manufacture)
 23910,Abrasive grain of boron carbide (manufacture)
 23910,Abrasive grain of silicon carbide (manufacture)
-8990,Abrasive materials mining and quarrying
+08990,Abrasive materials mining and quarrying
 23910,Abrasive paper (manufacture)
 20411,Abrasive soap (manufacture)
 23910,Abrasive wheel (bonded) (manufacture)
@@ -46,7 +46,7 @@
 20140,Acid (organic) (manufacture)
 20120,Acid dye (manufacture)
 46750,Acids (wholesale)
-2300,Acorn gathering
+02300,Acorn gathering
 43290,Acoustical engineering
 71129,Acoustical engineering design
 71200,Acoustics and vibration testing
@@ -190,27 +190,27 @@
 23910,Agglomerated abrasives (manufacture)
 16290,Agglomerated cork (manufacture)
 19100,Agglomeration of coke (manufacture)
-1629,Agistment services on a fee or contract basis
+01629,Agistment services on a fee or contract basis
 46610,Agricultural and forestry machinery (wholesale)
 77310,Agricultural and forestry machinery and equipment operational leasing (without operator)
 28302,Agricultural and forestry machinery parts (except tractor parts) (manufacture)
 28302,Agricultural broadcaster (manufacture)
 23490,Agricultural ceramic ware (manufacture)
 85320,Agricultural college
-1610,Agricultural contracting
+01610,Agricultural contracting
 71200,Agricultural grain electrophoresis
 25730,"Agricultural hand tools, not power-driven (manufacture)"
 25730,Agricultural knife (manufacture)
 43120,Agricultural land drainage
 68209,Agricultural land letting
-1610,Agricultural land maintenance in good agricultural and environmental condition
+01610,Agricultural land maintenance in good agricultural and environmental condition
 23520,Agricultural lime processing (manufacture)
 46140,Agricultural machinery (commission agent)
 28302,Agricultural machinery (manufacture)
 46610,"Agricultural machinery and accessories and implements, including tractors exporter (wholesale)"
 46610,"Agricultural machinery and accessories and implements, including tractors importer (wholesale)"
 77310,Agricultural machinery and equipment rental and leasing (without operator)
-1610,Agricultural machinery and equipment rental with operator
+01610,Agricultural machinery and equipment rental with operator
 28302,Agricultural machinery for soil preparation (manufacture)
 77310,Agricultural machinery hire (without operator)
 28302,Agricultural motor drawn trailer (manufacture)
@@ -299,7 +299,7 @@
 51101,"Air-transport equipment renting with operator, for scheduled passenger transportation"
 52230,Airway terminals operation
 23700,Alabaster bowl cutting (manufacture)
-8110,Alabaster mine
+08110,Alabaster mine
 26520,Alarm clock (manufacture)
 80200,Alarm monitoring activities
 18129,Album printing (manufacture)
@@ -314,8 +314,8 @@
 46750,Aldehyde function compounds (wholesale)
 11050,Ale brewing (manufacture)
 10910,Alfalfa (Lucerne) meal and pellets (manufacture)
-1190,Alfalfa growing
-3110,Algae gathering
+01190,Alfalfa growing
+03110,Algae gathering
 20160,Alginates (manufacture)
 84240,Alien registration administration and operation
 20120,Alizarin dye (manufacture)
@@ -323,14 +323,14 @@
 46120,Alkali or alkaline earth metals (commission agent)
 20301,Alkyd (manufacture)
 20160,Alkyd resins (manufacture)
-1130,Alliaceous vegetable growing
+01130,Alliaceous vegetable growing
 25500,Alloy and steel forging roll (manufacture)
 24100,Alloy bearing steel (manufacture)
 24100,Alloy pig iron (manufacture)
 24100,Alloy tool steel (manufacture)
 18129,Almanac printing (manufacture)
 10612,Almond grinding (manufacture)
-1250,Almond growing
+01250,Almond growing
 13100,Alpaca and mohair spinning on the woollen system (manufacture)
 13100,Alpaca and mohair spinning on the worsted system (manufacture)
 13200,Alpaca woollen weaving (manufacture)
@@ -340,13 +340,13 @@
 29310,Alternator for vehicle (manufacture)
 27110,Alternators (not for vehicles) (manufacture)
 26513,Altimeter (non-electronic)(manufacture)
-8910,Alum mine
+08910,Alum mine
 24420,Aluminium alloys production (manufacture)
 26200,Aluminium coating inside pc cases (manufacture)
 24420,Aluminium foil laminates made from aluminium foil as primary component (manufacture)
 24420,Aluminium from alumina production (manufacture)
 24420,Aluminium hardener (manufacture)
-7290,Aluminium ore (bauxite) mining or preparation
+07290,Aluminium ore (bauxite) mining or preparation
 24420,Aluminium oxide (alumina) production (manufacture)
 20301,Aluminium paint (manufacture)
 20301,Aluminium paste (manufacture)
@@ -411,8 +411,8 @@
 28922,Angle-dozers (manufacture)
 24420,Angles made of aluminium (manufacture)
 24100,Angles of stainless steel (manufacture)
-1490,Angora rabbit breeding
-8110,Anhydrite mine or quarry
+01490,Angora rabbit breeding
+08110,Anhydrite mine or quarry
 23520,Anhydrite plaster (manufacture)
 46750,Aniline (wholesale)
 20120,Aniline dye (manufacture)
@@ -425,26 +425,26 @@
 10910,Animal feed supplement (manufacture)
 71200,Animal genetic testing
 10110,Animal grease (manufacture)
-1430,Animal hair (not carded or combed) including horsehair production
+01430,Animal hair (not carded or combed) including horsehair production
 46210,Animal hair (wholesale)
 75000,Animal health care and control activities for farm animals
 75000,Animal health care and control activities for pet animals
 75000,Animal hospital run by veterinary surgeon
 75000,Animal hospital supervised or run by registered veterinarian
-1700,Animal hunting and trapping
+01700,Animal hunting and trapping
 10110,Animal offal (inedible) production (manufacture)
 10110,Animal offal processing (manufacture)
 10410,Animal oil refining (manufacture)
-1629,Animal production support activities other than farm animal boarding and care
-1629,"Animal propagation, growth and output - activities to promote these, on a fee or contract basis"
+01629,Animal production support activities other than farm animal boarding and care
+01629,"Animal propagation, growth and output - activities to promote these, on a fee or contract basis"
 94990,Animal protection organisations
-1490,Animal rearing for medical research
-1629,Animal rearing for production of serum
+01490,Animal rearing for medical research
+01629,Animal rearing for production of serum
 77390,"Animal rental (herds, racehorses)"
 90010,"Animal training for circuses, etc."
 59111,Animated film production
 59112,Animated video production
-1280,Anise growing
+01280,Anise growing
 28210,Annealing lehr (manufacture)
 25610,Anodising (manufacture)
 14131,Anoraks for men and boys (manufacture)
@@ -493,20 +493,20 @@
 22190,Apparel made of sealed rubber (manufacture)
 28940,Apparel production machinery (manufacture)
 84230,Appeal Committee of the House of Lords
-1240,Apple growing
+01240,Apple growing
 10890,Apple pomace and pectin (manufacture)
 11030,Apple wine making
 27900,Appliance cords with insulated wire and connectors (manufacture)
 74909,Appraiser and valuer (not insurance or real estate)
 85320,Apprentice school
-1240,Apricot growing
+01240,Apricot growing
 22190,Aprons (manufacture)
 14120,Aprons for domestic use (manufacture)
 14120,Aprons for industrial use (manufacture)
 93210,Aqua/water parks
-3210,Aquaculture in salt water filled tanks or reservoirs
-3210,Aquaculture in sea or brackish waters
-3220,"Aquaculture, freshwater"
+03210,Aquaculture in salt water filled tanks or reservoirs
+03210,Aquaculture in sea or brackish waters
+03220,"Aquaculture, freshwater"
 27510,Aquarium heater (electric) (manufacture)
 42910,Aqueduct construction
 84230,Arbitration of civil actions
@@ -539,7 +539,7 @@
 84220,Army establishment (civilian personnel)
 84220,Army establishment (service personnel)
 94910,Army scripture readers association
-1280,Aromatic crops growing
+01280,Aromatic crops growing
 20530,Aromatic distilled waters (manufacture)
 20140,Aromatic hydrocarbons (manufacture)
 10620,Arrowroot (manufacture)
@@ -557,7 +557,7 @@
 58190,Art publishing
 91011,Art work lending and storage
 42210,Artesian well contractor
-1130,Artichoke growing
+01130,Artichoke growing
 32120,Articles for religious use of base metals clad with precious metals (manufacture)
 13950,Articles made from non-wovens (manufacture)
 17290,Articles made of paper and paperboard n.e.c. (manufacture)
@@ -574,7 +574,7 @@
 14200,Artificial fur and articles thereof (manufacture)
 10890,Artificial honey (manufacture)
 26513,Artificial horizon (non-electronic) (manufacture)
-1629,Artificial insemination activities on a fee or contract basis
+01629,Artificial insemination activities on a fee or contract basis
 46460,Artificial joints and parts for the body (wholesale)
 86900,Artificial kidney unit
 32500,Artificial limb (manufacture)
@@ -604,7 +604,7 @@
 23990,Asbestos carding (manufacture)
 23650,Asbestos cement products (manufacture)
 23990,Asbestos felting (manufacture)
-8990,Asbestos mining and quarrying
+08990,Asbestos mining and quarrying
 23990,Asbestos mixing (manufacture)
 23990,Asbestos moulding (manufacture)
 39000,Asbestos removal work
@@ -613,20 +613,20 @@
 39000,"Asbestos, lead paint, and other toxic material abatement"
 32500,Aseptic hospital furniture (manufacture)
 38210,Ashes and residues of incineration of mining and quarrying waste
-1130,Asparagus growing
+01130,Asparagus growing
 23990,Asphalt (manufacture)
-8990,Asphalt (natural) mining and quarrying
+08990,Asphalt (natural) mining and quarrying
 28923,Asphalt laying plant (manufacture)
 23990,"Asphalt or similar materials (e.g. Asphalt-based adhesives), articles thereof (manufacture)"
 42110,Asphalt paving of roads
 28923,Asphalt processing plant (manufacture)
 42110,Asphalting contractor (civil engineering)
-8990,Asphaltites and asphaltic rock mining and quarrying
+08990,Asphaltites and asphaltic rock mining and quarrying
 46180,Aspiration probes (commission agent)  
 32500,Aspiration probes (manufacture)
 46460,Aspiration probes (wholesale)  
 28930,Aspirator separators (manufacture)
-1430,Ass farming and breeding
+01430,Ass farming and breeding
 71200,Assay office
 25990,Assembled rail sections (manufacture)
 18140,"Assembling of books, brochures, etc. (manufacture)"
@@ -663,7 +663,7 @@
 28250,Attic ventilation fans (manufacture)
 69102,Attorney
 29100,"ATVs, go-carts and similar including race cars (manufacture)"
-1130,Aubergine (egg-plant) growing
+01130,Aubergine (egg-plant) growing
 47990,Auction houses (except antiques and second hand goods) (retail)
 47630,Audio and video recordings (retail)
 58110,Audio book publishing
@@ -710,7 +710,7 @@
 65120,Aviation insurance
 19201,Aviation spirit (manufacture)
 19201,Aviation turbine fuel (manufacture)
-1220,Avocado growing
+01220,Avocado growing
 13200,Awning cloth weaving (manufacture)
 13922,Awnings (manufacture)
 47510,Awnings and sun blinds (retail)
@@ -746,7 +746,7 @@
 71200,Bacteriologist (non medical)
 13960,Badges (textile) (manufacture)
 25990,Badges made of metal (manufacture)
-1280,Badian growing
+01280,Badian growing
 93120,Badminton club
 32300,Badminton shuttlecock (manufacture)
 25990,Bag clasp (manufacture)
@@ -765,8 +765,8 @@
 22220,Bags made of polyethylene (manufacture)
 22220,Bags made of transparent regenerated cellulose film (manufacture)
 69109,Bailiffs activities
-3210,Bait digging (marine)
-3210,Bait production (marine)
+03210,Bait digging (marine)
+03210,Bait production (marine)
 13990,Baize (manufacture)
 47240,Baker (retail)
 10890,Bakers' yeast from distillery (manufacture)
@@ -784,7 +784,7 @@
 26511,Balancing machines (electronic) (manufacture)
 26513,Balancing machines (non-electronic) (manufacture)
 22190,Balata belting (manufacture)
-2300,Balata gathering
+02300,Balata gathering
 22190,Balata goods (excluding belting) (manufacture)
 28940,Bale breakers (manufacture)
 28302,Bale handler for agriculture (manufacture)
@@ -793,7 +793,7 @@
 28290,Baling press (not agricultural) (manufacture)
 46690,Ball and roller bearings (wholesale)
 28150,Ball bearing (manufacture)
-8120,Ball clay extraction (mine or opencast working)
+08120,Ball clay extraction (mine or opencast working)
 22190,Ball core (rubber) (manufacture)
 28140,Ball valves (manufacture)
 46690,Ballasts for discharge lamps or tubes (wholesale)
@@ -808,11 +808,11 @@
 32990,Ballpoint pen and refill (manufacture)
 46499,"Ball-point, felt-tipped and other porous-tipped pens and markers (wholesale)"
 32300,Balls for all sports (finished) (manufacture)
-2300,Balsam gathering
+02300,Balsam gathering
 31090,Bamboo furniture (other than seating) (manufacture)
 16290,Bamboo preparation (manufacture)
 10390,Banana ripening and conditioning (manufacture)
-1220,Bananas and plantain growing
+01220,Bananas and plantain growing
 90010,Band (musical)
 74909,Band agency
 13200,Bandage cloth weaving (manufacture)
@@ -850,8 +850,8 @@
 50300,Barge lessee or owner (passenger) (inland waterway service)
 50200,Barge transport (except for inland waterway) freight service
 16100,Bargeboard (manufacture)
-8910,Barium sulphate (natural) mining
-1110,Barley growing
+08910,Barium sulphate (natural) mining
+01110,Barley growing
 11060,Barley malting (manufacture)
 10611,Barley meal production (manufacture)
 10611,Barley milling (manufacture)
@@ -872,15 +872,15 @@
 24430,"Bars, rods, profiles and wire made of lead (manufacture)"
 24430,"Bars, rods, profiles and wire made of tin (manufacture)"
 24430,"Bars, rods, profiles and wire made of zinc (manufacture)"
-8910,Barytes mine
-8110,Basalt mine
+08910,Barytes mine
+08110,Basalt mine
 28290,Base exchange plant for water treatment (manufacture)
 25990,Base metal articles (manufacture)
 17120,Base paper for printing and writing paper (manufacture)
 23190,Basement lights made of glass (manufacture)
 20120,Basic dye (manufacture)
 20150,Basic slag (ground) (manufacture)
-1280,Basil growing
+01280,Basil growing
 23650,Basins made of fibre-cement (manufacture)
 25990,Basins made of metal (manufacture)
 31090,Basket chair (manufacture)
@@ -914,7 +914,7 @@
 29100,Battery powered electric motor vehicle (manufacture)
 14120,Battledress for men (manufacture)
 14120,Battledress for women (manufacture)
-1280,Bay growing
+01280,Bay growing
 25710,Bayonet (manufacture)
 77210,Beach chairs and umbrellas renting and leasing
 93290,"Beach facilities rental (bathhouses, lockers, chairs, etc.)"
@@ -932,7 +932,7 @@
 28940,Beaming machinery (textile) (manufacture)
 16230,Beams (manufacture)
 10612,Bean grinding (manufacture)
-1110,Bean growing
+01110,Bean growing
 10612,Bean milling (manufacture)
 10612,Bean splitting (manufacture)
 96020,Beard trimming
@@ -962,7 +962,7 @@
 13923,Bedspreads made of lace (manufacture)
 31090,Bedsteads made of metal (manufacture)
 31090,Bedsteads made of wood (manufacture)
-1490,Bee keeping
+01490,Bee keeping
 10890,Beef extract (manufacture)
 10130,Beef paste (manufacture)
 10130,Beef pickling (manufacture)
@@ -981,10 +981,10 @@
 46110,Beer or distilling dregs for animal feed (commission agent)
 46342,"Beer, wines and liqueurs (wholesale)"
 10810,Beet pulp (manufacture)
-1190,Beet seed growing
+01190,Beet seed growing
 10810,Beet sugar (manufacture)
-1610,Beet thinning on a fee or contract basis
-1130,Beetroot growing
+01610,Beet thinning on a fee or contract basis
+01130,Beetroot growing
 27900,Bell apparatus (other than telegraphic or telephonic) (manufacture)
 24540,Bell founding (manufacture)
 25940,Belleville washer (manufacture)
@@ -1011,7 +1011,7 @@
 20140,Benzene (manufacture)
 14190,Beret (knitted) (manufacture)
 14190,Beret (not knitted) (manufacture)
-2300,"Berries, gathering from the wild"
+02300,"Berries, gathering from the wild"
 52220,Berthing activities
 24450,Beryllium (manufacture)
 32910,Besom (manufacture)
@@ -1075,9 +1075,9 @@
 72110,Biotechnology research and experimental development
 32910,Birch broom (manufacture)
 10920,Bird food (manufacture)
-1490,"Bird raising, other than poultry"
-1700,Bird skin production (from hunting)
-1490,Bird skin production from ranching operation
+01490,"Bird raising, other than poultry"
+01700,Bird skin production (from hunting)
+01490,Bird skin production from ranching operation
 28930,Biscuit making machinery and ovens (manufacture)
 23310,Biscuit tile (manufacture)
 10720,Biscuits (manufacture)
@@ -1086,25 +1086,25 @@
 25730,Bit stock drill (manufacture)
 19201,Bitumen (manufacture)
 23990,Bitumen and flax felts for roofing and damp-proof courses (manufacture)
-8990,Bitumen mining and quarrying
+08990,Bitumen mining and quarrying
 28923,Bitumen spreaders (manufacture)
 17120,Bituminised building board (manufacture)
 46130,Bituminous construction materials (commission agent)
-6100,Bituminous or oil shale and sand extraction
+06100,Bituminous or oil shale and sand extraction
 20301,Bituminous paint (manufacture)
 23990,Bituminous sealants (manufacture)
-3210,Bivalves cultured in sea water
+03210,Bivalves cultured in sea water
 11050,Black beer brewing (manufacture)
 20510,Black powder (manufacture)
 10130,Black pudding (manufacture)
-1250,Blackberry (cultivated) growing
+01250,Blackberry (cultivated) growing
 28990,Blackboard chalk making machinery (manufacture)
 28230,Blackboards (manufacture)
-1250,Blackcurrant growing
+01250,Blackcurrant growing
 24100,Blackplate (manufacture)
 25620,Blacksmith (not including farriers) (manufacture)
 25730,Blacksmiths' tools (manufacture)
-8110,Blackstone quarry
+08110,Blackstone quarry
 32990,Bladder dressing (manufacture)
 10110,Bladder processing (manufacture)
 46630,Blades for bulldozers and angle-dozers (wholesale)
@@ -1185,8 +1185,8 @@
 28940,Blowroom machinery (textile) (manufacture)
 23320,Blue brick (manufacture)
 23520,Blue lias lime kiln (manufacture)
-8110,Blue pennant stone quarry
-1250,Blueberry growing
+08110,Blue pennant stone quarry
+01250,Blueberry growing
 82190,Blueprinting
 32409,Board game (manufacture)
 28950,Board making machinery (except chipboard) (manufacture)
@@ -1317,7 +1317,7 @@
 96090,Bootblack
 22190,Bootee (rubber protective) (manufacture)
 47721,Boots and shoes (retail)
-8910,Borates (natural) mining
+08910,Borates (natural) mining
 84240,Border guard administration and operation
 43130,Borehole drilling
 71122,Borehole surveying
@@ -1343,7 +1343,7 @@
 82920,Bottling on a fee or contract basis
 71122,Boundary surveying activities
 10110,Bovine hides and skins production from knackers (manufacture)
-1420,Bovine semen production
+01420,Bovine semen production
 28990,Bow thruster (manufacture)
 93110,Bowling alley
 28990,Bowling alley equipment (manufacture)
@@ -1463,8 +1463,8 @@
 14141,Briefs for men and boys (manufacture)
 14142,Briefs for women and girls (manufacture)
 24310,Bright steel bars (manufacture)
-8930,Brine pit
-8930,Brine production
+08930,Brine pit
+08930,Brine production
 19201,Briquette solid fuel production (manufacture)
 32910,Bristle dressing for brushes (manufacture)
 10110,Bristles from knackers (manufacture)
@@ -1484,12 +1484,12 @@
 79909,British Tourist Authority
 28410,Broach for metal working machine tools (manufacture)
 28410,Broaching machine (metal cutting) (manufacture)
-1110,Broad bean growing
+01110,Broad bean growing
 28302,Broadcaster for agricultural use (manufacture)
 60200,Broadcasting of live theatrical performances via the internet
 82990,Broadcasting transmission rights agent
 13200,Brocade weaving (manufacture)
-1130,Broccoli growing
+01130,Broccoli growing
 18129,Brochure printing (manufacture)
 58110,Brochure publishing
 20130,Bromine and bromides (manufacture)
@@ -1511,7 +1511,7 @@
 16290,Brush top made of wood (manufacture)
 22190,Brushes of rubber (manufacture)
 20420,Brushless shaving cream (manufacture)
-1130,Brussel sprout growing
+01130,Brussel sprout growing
 13931,Brussels carpet (manufacture)
 28922,Bucket for construction machinery (manufacture)
 28220,Bucket wheel reclaimer (manufacture)
@@ -1529,9 +1529,9 @@
 15110,Buckskin (manufacture)
 70221,Budgetary control procedures design
 15120,Buff and mop made of leather (manufacture)
-1410,"Buffalo milk, raw"
+01410,"Buffalo milk, raw"
 15120,Buffalo pickers made of leather (manufacture)
-1420,Buffalo raising and breeding for meat
+01420,Buffalo raising and breeding for meat
 30200,Buffers and buffer parts (manufacture)
 56101,Buffet (licensed)
 27400,Bug zappers without light (manufacture)
@@ -1653,7 +1653,7 @@
 19201,Butadiene (manufacture)
 19201,Butane (manufacture)
 46711,Butane (wholesale)
-6200,Butane extraction from natural gas
+06200,Butane extraction from natural gas
 47220,Butchers shop (retail)
 24200,Butt welding fittings made of steel (manufacture)
 46330,Butter (wholesale)
@@ -1678,7 +1678,7 @@
 46342,Buying of wine in bulk and bottling without transformation (wholesale)
 11020,"Buying wine in bulk with blending, purification and bottling of wine (manufacture)"
 49320,Cab hire
-1130,Cabbage growing
+01130,Cabbage growing
 31090,Cabinet case made of wood (manufacture)
 22290,Cabinet components made of plastic (manufacture)
 31010,Cabinets (non-domestic) (manufacture)
@@ -1752,8 +1752,8 @@
 13100,Camel hair spinning on the worsted system (manufacture)
 13200,Camel hair woollen weaving (manufacture)
 13200,Camel hair worsted weaving (manufacture)
-1440,Camelid raising and breeding
-1440,Camels (dromedary) raising and breeding
+01440,Camelid raising and breeding
+01440,Camels (dromedary) raising and breeding
 26309,Camera for television (manufacture)
 77210,Camera hire
 26702,Cameras (manufacture)
@@ -1800,13 +1800,13 @@
 25920,Cans made of aluminium (manufacture)
 25910,Cans made of blackplate (manufacture)
 25910,Cans made of steel (manufacture)
-1130,Cantaloupe growing
+01130,Cantaloupe growing
 13922,Canvas goods (manufacture)
 13960,Canvas prepared for use by painters (manufacture)
 13200,Canvas weaving (manufacture)
 26110,Capacitor for electronic apparatus (manufacture)
 14190,Capeline felt (manufacture)
-1130,Capers growing
+01130,Capers growing
 14200,Capes made of fur (manufacture)
 70221,Capital structure consultancy services
 22220,Caps and closures made of plastic (manufacture)
@@ -1865,7 +1865,7 @@
 17230,Carbon paper stencil ready for use (manufacture)
 23990,Carbon products (except carbon paper and electrical carbon) (manufacture)
 32990,Carbon ribbon (manufacture)
-8910,Carbonate (barytes and witherite) mining
+08910,Carbonate (barytes and witherite) mining
 11070,Carbonated soft drink (manufacture)
 46120,Carbonates (commission agent)
 46750,Carbonates (wholesale)
@@ -1892,7 +1892,7 @@
 13960,Carding of trimmings (manufacture)
 32200,Cards for automatic mechanical instruments (manufacture)
 52242,Cargo handling for air transport activities
-52243,Cargo handling for land transport activities
+52243 ,Cargo handling for land transport activities
 52241,Cargo handling for water transport activities
 30110,Cargo ship (manufacture)
 13940,Cargo sling (manufacture)
@@ -1931,7 +1931,7 @@
 46460,Carriages for disabled persons (wheelchairs) (wholesale)
 49410,Carrier (for general hire or reward)
 26301,Carrier equipment (manufacture)
-1130,Carrot growing
+01130,Carrot growing
 32990,Carry cot (manufacture)
 29100,Cars (manufacture)
 13922,Cart cover made of canvas (manufacture)
@@ -1982,7 +1982,7 @@
 28230,Cash register (manufacture)
 77330,Cash register hire
 46660,Cash registers and similar machines incorporating a calculating device (wholesale)
-1250,Cashew nut growing
+01250,Cashew nut growing
 13200,Cashmere woollen weaving (manufacture)
 13200,Cashmere worsted weaving (manufacture)
 28921,Casing hangars (manufacture)
@@ -1995,7 +1995,7 @@
 25920,Casks made of aluminium (manufacture)
 25910,Casks made of iron or steel (manufacture)
 16240,Casks made of wood (manufacture)
-1130,Cassava growing
+01130,Cassava growing
 26400,Cassette player (manufacture)
 26400,Cassette type recorders (manufacture)
 14120,Cassock (manufacture)
@@ -2028,11 +2028,11 @@
 24530,Casting of titanium products (manufacture)
 24530,Casting of yttrium products (manufacture)
 23200,Casting pot (manufacture)
-1110,Castor bean growing
+01110,Castor bean growing
 10410,Castor oil processing (manufacture)
 10410,Castor seed crushing (manufacture)
 10810,Castor sugar (manufacture)
-1490,Cat and dog raising and breeding
+01490,Cat and dog raising and breeding
 10920,Cat food (manufacture)
 58190,Catalogue publishing
 91011,Cataloguing and preservation of collections
@@ -2056,8 +2056,8 @@
 10840,Catsup (manufacture)
 20200,Cattle dip (manufacture)
 15110,Cattle hide leather (manufacture)
-1420,Cattle raising and breeding for meat
-1130,Cauliflower growing
+01420,Cattle raising and breeding for meat
+01130,Cauliflower growing
 20301,Caulking compounds and similar non-refractory filling or surfacing preparations (manufacture)
 32500,Cautery and light unit (manufacture)
 10200,Caviar (manufacture)
@@ -2068,7 +2068,7 @@
 22230,Ceiling coverings made of plastic (manufacture)
 27400,Ceiling rose (manufacture)
 22230,Ceiling tiles made of plastic (manufacture)
-8910,Celestine pit
+08910,Celestine pit
 32200,Cello (manufacture)
 13200,Cellular cloth weaving from yarn spun on the cotton system (manufacture)
 61200,Cellular network operations
@@ -2134,7 +2134,7 @@
 46690,Cereal and dried vegetable milling or working machinery (wholesale)
 10612,Cereal breakfast foods (manufacture)
 10720,Cereal for sausage filler (manufacture)
-1110,"Cereal grains growing, except rice"
+01110,"Cereal grains growing, except rice"
 10611,"Cereal grains, flour, groats, meal or pellets (manufacture)"
 77390,Cereal milling and working machinery renting (non agricultural)
 37000,Cesspools emptying and cleaning
@@ -2158,7 +2158,7 @@
 55201,Chalets in holiday centres and holiday villages (provision of short-stay lodging in)
 55209,"Chalets, not holiday centres, holiday villages or youth hostels (self catering short-stay lodging)"
 32990,Chalk for drawing or writing (manufacture)
-8110,Chalk pit or quarry
+08110,Chalk pit or quarry
 94110,Chamber of agriculture
 94110,Chambers of commerce organisations
 16100,Chamfered wood (manufacture)
@@ -2169,7 +2169,7 @@
 64929,Channel Islands and Isle of Man banking institutes
 20140,Charcoal (other than wood charcoal) (manufacture)
 46719,Charcoal (wholesale)
-2200,Charcoal production in the forest using traditional methods
+02200,Charcoal production in the forest using traditional methods
 99000,Charge d'affaires
 35140,Charging stations for mobile phones and laptops
 35140,Charging stations for mobile phones and laptops (sale of electricity)
@@ -2212,7 +2212,7 @@
 71129,Chemical engineering design projects
 19201,Chemical feedstock (manufacture)
 46750,Chemical glues (wholesale)
-8910,Chemical minerals mining
+08910,Chemical minerals mining
 46180,Chemical preparations and sensitized emulsions for photographic use (commission agent)
 28410,Chemical process machine tool (metal working) (manufacture)
 46750,Chemical products (wholesale)
@@ -2225,7 +2225,7 @@
 46120,Chemically modified animal or vegetable fats and mixtures (commission agent)
 21100,Chemically pure sugars (manufacture)
 46460,"Chemically pure sugars, sugar ethers and sugar esters and their salts (wholesale)"
-9900,Chemicals and fertiliser minerals mining support services provided on a fee or contract basis
+09900,Chemicals and fertiliser minerals mining support services provided on a fee or contract basis
 20590,Chemicals specially prepared for laboratory use (manufacture)
 72190,Chemistry research and experimental development
 13200,Chenille (manufacture)
@@ -2233,26 +2233,26 @@
 28230,Cheque writing and signing machine (manufacture)
 12000,Cheroot (manufacture)
 11010,Cherry brandy (manufacture)
-1240,Cherry growing
-8990,Chert quarry
-1130,Chervil growing
+01240,Cherry growing
+08990,Chert quarry
+01130,Chervil growing
 32409,Chess (electronic) (manufacture)
 93120,Chess clubs
 85510,Chess instructor
 32409,Chess set (manufacture)
 31090,Chest of drawers (manufacture)
-1250,Chestnut growing
+01250,Chestnut growing
 16240,Chests made of wood (manufacture)
 10822,Chewing gum (manufacture)
 12000,Chewing tobacco (manufacture)
-1110,Chick pea growing
+01110,Chick pea growing
 10120,"Chicken cuts (fresh, chilled or frozen) (manufacture)"
-1470,Chicken farm (battery rearing)
+01470,Chicken farm (battery rearing)
 10910,Chicken food (manufacture)
 10130,Chicken paste (manufacture)
-1470,Chicken raising and breeding
+01470,Chicken raising and breeding
 10850,Chicken ready to eat meals (manufacture)
-1130,Chicory growing
+01130,Chicory growing
 10612,Chicory root drying (manufacture)
 13200,Chiffon weaving from yarn spun on the cotton system (manufacture)
 88910,Child day-care activities (charitable)
@@ -2274,8 +2274,8 @@
 47710,Children's wear (retail)
 91040,Children's zoos
 35300,Chilled water for cooling purposes production and distribution
-1280,Chilli growing
-1280,Chillies and peppers capsicum sop. Growing
+01280,Chilli growing
+01280,Chillies and peppers capsicum sop. Growing
 81223,Chimney cleaning
 43999,Chimney construction
 23320,Chimney liners made of clay (manufacture)
@@ -2284,9 +2284,9 @@
 25110,Chimneys made of steel (manufacture)
 47599,China (retail)
 46440,China (wholesale)
-8120,China clay (ground) production
-8120,China clay pit
-8120,China stone mine
+08120,China clay (ground) production
+08120,China clay pit
+08120,China stone mine
 46440,"China, glassware, wallpaper and cleaning materials exporter (wholesale)"
 46440,"China, glassware, wallpaper and cleaning materials importer (wholesale)"
 18129,Chintz glazing (manufacture)
@@ -2316,14 +2316,14 @@
 18129,Christmas card printing (manufacture)
 17290,Christmas cracker (manufacture)
 17290,Christmas decorations made of paper (manufacture)
-1290,Christmas tree growing
+01290,Christmas tree growing
 27400,Christmas tree lights (manufacture)
 46470,Christmas tree lights (wholesale)
 28140,Christmas trees and other assemblies of valves (manufacture)
 26511,Chromatographs (electronic) (manufacture)
 24450,Chrome alloys (manufacture)
 23200,Chrome magnesite shape (manufacture)
-7290,Chrome ore mining and preparation
+07290,Chrome ore mining and preparation
 25610,Chrome plating (manufacture)
 24450,Chrome production and refining (manufacture)
 15110,Chrome tanning (manufacture)
@@ -2355,7 +2355,7 @@
 10390,Chutney (manufacture)
 11030,Cider (alcoholic) (manufacture)
 11070,Cider (non-alcoholic) (manufacture)
-1240,Cider apple growing
+01240,Cider apple growing
 28930,Cider making machinery (manufacture)
 46342,Cider merchant (wholesale)
 10890,Cider pectin (manufacture)
@@ -2390,7 +2390,7 @@
 26702,Cinematographic equipment (manufacture)
 59120,"Cinematographic film colouring, developing, printing or repairing"
 20590,Cinematographic sensitized film (manufacture)
-1280,Cinnamon growing
+01280,Cinnamon growing
 24420,Circles made of aluminium (manufacture)
 24440,Circles made of brass (manufacture)
 24440,Circles made of copper (manufacture)
@@ -2437,10 +2437,10 @@
 25990,Clasps (manufacture)
 46130,Clay (commission agent)
 46730,Clay (wholesale)
-9900,Clay and kaolin mining support services provided on a fee or contract basis
-8120,"Clay extraction for brick, pipe and tile production"
-8120,Clay mining
-8120,Clay quarrying
+09900,Clay and kaolin mining support services provided on a fee or contract basis
+08120,"Clay extraction for brick, pipe and tile production"
+08120,Clay mining
+08120,Clay quarrying
 96010,Clean towel company
 38320,Cleaning and devulcanising of waste rubber
 20412,Cleaning and polishing preparations (manufacture)
@@ -2468,7 +2468,7 @@
 66110,Clearing house (banking)
 30120,Cleat for pleasure boat (manufacture)
 25710,Cleavers (manufacture)
-1230,Clementine growing
+01230,Clementine growing
 14120,Clerical vestment (manufacture)
 14131,Climbing clothing for men and boys (weatherproof) (manufacture)
 14132,Climbing clothing for women and girls (weatherproof) (manufacture)
@@ -2537,8 +2537,8 @@
 14190,Clothing pad (manufacture)
 46410,Clothing textiles (wholesale)
 10511,Clotted cream (manufacture)
-1280,Clove growing
-1190,Clover growing
+01280,Clove growing
+01190,Clover growing
 28150,Clutch (not for motor vehicle) (manufacture)
 29320,Clutch and parts for motor vehicles (manufacture)
 23990,Clutch linings made of asbestos (manufacture)
@@ -2555,21 +2555,21 @@
 46719,Coal (wholesale)
 47789,Coal and coke (retail)
 19100,Coal carbonisation (manufacture)
-5101,"Coal cleaning, sizing, grading and pulverising (hard, deep mined)"
-5102,"Coal cleaning, sizing, grading and pulverising (hard, opencast)"
+05101,"Coal cleaning, sizing, grading and pulverising (hard, deep mined)"
+05102,"Coal cleaning, sizing, grading and pulverising (hard, opencast)"
 28921,Coal cutter (manufacture)
 46719,Coal depot (wholesale)
-5102,Coal extraction contractor (opencast)
+05102,Coal extraction contractor (opencast)
 46120,Coal factor (commission agent)
 46719,Coal merchant (wholesale)
-5101,Coal mine (deep or drift)
+05101,Coal mine (deep or drift)
 46630,Coal or rock cutters and tunnelling machinery (wholesale)
 28921,Coal plough (manufacture)
 28921,Coal preparation plant (manufacture)
 49500,Coal pumping station
-5102,"Coal recovery from dumps, tips etc."
-5102,Coal recovery of from culm banks
-5102,Coal site (opencast)
+05102,"Coal recovery from dumps, tips etc."
+05102,Coal recovery of from culm banks
+05102,Coal site (opencast)
 52103,Coal stockyard for land transport activities
 52101,Coal stockyard for water transport activities
 19201,Coal tar (crude) from manufactured fuel plants (manufacture)
@@ -2577,8 +2577,8 @@
 20140,Coal tar distillation (manufacture)
 20140,Coal tar naphtha (manufacture)
 23990,"Coal tar pitch, articles thereof (manufacture)"
-5101,Coal washing (deep mined)
-5102,Coal washing (opencast)
+05101,Coal washing (deep mined)
+05102,Coal washing (opencast)
 84240,Coast guards administration and operation
 42910,Coastal defence construction
 50200,Coastal water transport (freight)
@@ -2590,8 +2590,8 @@
 23910,Coated abrasives (manufacture)
 25930,Coated electrodes for electric arc-welding (manufacture)
 25930,Coated or cored wire (manufacture)
-8120,Coated roadstone production
-8120,Coated tarmacadam production
+08120,Coated roadstone production
+08120,Coated tarmacadam production
 28990,Coating machine for bookbinding or paper working (manufacture)
 28940,Coating machinery for textiles (manufacture)
 13300,Coating of purchased garments (manufacture)
@@ -2602,23 +2602,23 @@
 46439,Co-axial cable and co-axial conductors for domestic use (wholesale)
 46690,Co-axial cable and co-axial conductors for industrial use (wholesale)
 24450,Cobalt (manufacture)
-7290,Cobalt mining and preparation
+07290,Cobalt mining and preparation
 16240,Cock made of wood (manufacture)
-3110,Cockle gathering
+03110,Cockle gathering
 28140,Cocks for industrial use (manufacture)
 31090,Cocktail cabinet (manufacture)
 10821,Cocoa (manufacture)
 46370,Cocoa (wholesale)
 10821,Cocoa bean roasting and dressing (manufacture)
-1630,"Cocoa beans, peeling and preparation"
+01630,"Cocoa beans, peeling and preparation"
 10821,Cocoa butter (manufacture)
 10821,Cocoa fat (manufacture)
-1270,Cocoa growing
+01270,Cocoa growing
 10821,Cocoa oil (manufacture)
 10821,Cocoa powder (manufacture)
 10821,Cocoa products (manufacture)
 10390,Coconut flakes including desiccated but (not sugared) (manufacture)
-1260,Coconut growing
+01260,Coconut growing
 10410,Coconut oil refining (manufacture)
 93210,Coconut shy
 10410,Cod liver oil refining (manufacture)
@@ -2631,7 +2631,7 @@
 10832,Coffee essence and extract (manufacture)
 10832,Coffee extracts and concentrates (manufacture)
 10832,Coffee grinding and roasting (manufacture)
-1270,Coffee growing
+01270,Coffee growing
 46110,Coffee husks and skins (commission agent)
 27510,Coffee or tea makers (electric) (manufacture)
 27510,Coffee percolator (electric) (manufacture)
@@ -2740,7 +2740,7 @@
 20120,"Colours in dry, liquid or paste form (manufacture)"
 25110,Column (fabricated structural steelwork) (manufacture)
 25300,Column (process plant) (manufacture)
-1110,Colza growing
+01110,Colza growing
 10410,Colza oil production (manufacture)
 28940,Comb for textile machinery (manufacture)
 13100,Combers' shoddy for woollen industry (manufacture)
@@ -2914,7 +2914,7 @@
 28923,Concrete surfacing machinery (manufacture)
 43999,Concrete work (building)
 29100,Concrete-mixer lorries (manufacture)
-6200,Condensate extraction
+06200,Condensate extraction
 20160,"Condensation, polycondensation and polyaddition products (plastic material) (manufacture)"
 10519,Condensed milk (manufacture)
 25300,Condenser (steam) (manufacture)
@@ -3097,12 +3097,12 @@
 25990,Cooking utensils made of metal (manufacture)
 22290,Cooking utensils made of plastic (manufacture)
 16290,Cooking utensils made of wood (manufacture)
-1630,Cooling and bulk packing of crops for primary market
+01630,Cooling and bulk packing of crops for primary market
 28250,Cooling equipment for non-domestic use (manufacture)
 47300,Cooling products for motor vehicles
 28250,Cooling tower for air conditioning (manufacture)
 28290,Cooling towers and similar for direct cooling by means of re-circulated water (manufacture)
-1629,Coop cleaning
+01629,Coop cleaning
 16240,Cooper's products (manufacture)
 16240,Cooper's products reconditioning (manufacture)
 16240,Cooper's wood (manufacture)
@@ -3111,13 +3111,13 @@
 17290,Cop tube (manufacture)
 20160,Co-polymer plastics (manufacture)
 46720,Copper (wholesale)
-7290,Copper mining and preparation
-7290,Copper ore and concentrate extraction and preparation
+07290,Copper mining and preparation
+07290,Copper ore and concentrate extraction and preparation
 90030,Copper plate engraver (artistic)
 18129,Copper plate printing (manufacture)
 24440,Copper refining (manufacture)
 24440,Copper smelting (manufacture)
-2100,Coppice and pulpwood growing
+02100,Coppice and pulpwood growing
 10410,Copra (coconut) crushing (manufacture)
 16290,Cops made of wood (manufacture)
 28230,Copying machine (xerographic) (manufacture)
@@ -3125,7 +3125,7 @@
 94120,Copyright protection society
 69109,Copyrights preparation
 73110,Copywriter
-3110,Coral gathering
+03110,Coral gathering
 23990,Cord made of asbestos (manufacture)
 13990,Cord made of elastic (manufacture)
 13990,Cord made of elastomeric material (manufacture)
@@ -3137,12 +3137,12 @@
 13200,Corduroy weaving from yarn spun on the cotton system (manufacture)
 43130,Core sampling for construction
 13100,Core spun yarn spun on the cotton system (manufacture)
-1280,Coriander growing
+01280,Coriander growing
 47599,Cork goods (retail)
 46499,Cork goods (wholesale)
 32990,Cork life preservers (manufacture)
 16290,Cork products (except cork life preservers) (manufacture)
-2300,"Cork, gathering from the wild"
+02300,"Cork, gathering from the wild"
 46210,Corn (wholesale)
 46210,Corn chandler (wholesale)
 46110,Corn exchange (commission agent)
@@ -3209,9 +3209,9 @@
 13100,Cotton doubling (manufacture)
 13100,Cotton drawing (manufacture)
 13300,"Cotton fabric bleaching, dyeing or otherwise finishing (manufacture)"
-1630,Cotton ginning
+01630,Cotton ginning
 28940,Cotton gins (manufacture)
-1160,Cotton growing
+01160,Cotton growing
 13100,"Cotton lap, sliver, rovings and other intermediate bobbin (manufacture)"
 10410,Cotton linters production (manufacture)
 13100,Cotton opening (manufacture)
@@ -3245,7 +3245,7 @@
 13100,Cotton yarn winding (manufacture)
 13923,"Cotton, silk, etc. embroidering (except lace and apparel) (manufacture)"
 17110,Cotton-linters pulp (manufacture)
-1110,Cottonseed growing
+01110,Cottonseed growing
 13200,Cotton-type fabrics (manufacture)
 13100,Cotton-type yarn (manufacture)
 31090,Couch (manufacture)
@@ -3256,7 +3256,7 @@
 84230,County court
 29320,Coupling for articulated motor vehicle (manufacture)
 24200,Couplings and flange adapters made of iron or steel (manufacture)
-1130,Courgette growing
+01130,Courgette growing
 79901,Courier (travel)
 53201,Courier activities (other than national post activities) licensed
 53202,Courier activities (other than national post activities) unlicensed
@@ -3275,8 +3275,8 @@
 47730,Covid-19 Sampling kits (medical) (retail)
 46460,Covid-19 Sampling kits (medical) (wholesale)
 22230,Coving made of plastic (manufacture)
-1110,Cow pea growing
-1410,Cows' milk (raw) production
+01110,Cow pea growing
+01410,Cows' milk (raw) production
 28940,Crabbing machinery for textiles (manufacture)
 25300,Cracker for process plant (manufacture)
 94990,Craft and collectors' clubs
@@ -3298,7 +3298,7 @@
 14200,Cravats made of fur (manufacture)
 28922,Crawler loader (manufacture)
 28922,Crawler tractor (manufacture)
-3220,"Crayfish production, freshwater"
+03220,"Crayfish production, freshwater"
 32990,Crayon (manufacture)
 10511,Cream (sterilised) (manufacture)
 46330,Cream (wholesale)
@@ -3326,7 +3326,7 @@
 20140,Creosote (manufacture)
 13200,Crepe weaving (manufacture)
 17120,Creped paper (manufacture)
-1130,Cress growing
+01130,Cress growing
 20140,Cresylic acid (manufacture)
 20160,Cresylic resins (manufacture)
 13200,Cretonne weaving (manufacture)
@@ -3339,16 +3339,16 @@
 13910,Crocheted fabrics (manufacture)
 47599,Crockery (retail)
 77299,Crockery hire
-1630,Crop and grass drying plant operation by contractor
-1630,Crop drying and disinfecting for primary market
-1610,"Crop establishing for subsequent crop production, on a fee or contract basis"
-1500,Crop growing in combination with farming of livestock
-1610,Crop harvesting and preparation
-1630,"Crop preparation for primary market (cleaning, trimming, grading, etc.)"
-1610,Crop production support activities
-1610,Crop spraying on a fee or contract basis
-1610,Crop treatment on a fee or contract basis
-1630,"Crop wax covering, polishing and wrapping for primary market"
+01630,Crop and grass drying plant operation by contractor
+01630,Crop drying and disinfecting for primary market
+01610,"Crop establishing for subsequent crop production, on a fee or contract basis"
+01500,Crop growing in combination with farming of livestock
+01610,Crop harvesting and preparation
+01630,"Crop preparation for primary market (cleaning, trimming, grading, etc.)"
+01610,Crop production support activities
+01610,Crop spraying on a fee or contract basis
+01610,Crop treatment on a fee or contract basis
+01630,"Crop wax covering, polishing and wrapping for primary market"
 28940,Cropping machinery for textiles (manufacture)
 93120,Croquet club
 20520,Cross linking adhesive (manufacture)
@@ -3366,27 +3366,27 @@
 19100,Crude benzole from coke ovens (manufacture)
 19100,Crude coal tar from coke ovens (manufacture)
 19100,Crude coal tar production (manufacture)
-6200,Crude gaseous hydrocarbon production (natural gas)
+06200,Crude gaseous hydrocarbon production (natural gas)
 20411,Crude glycerol (manufacture)
 20150,Crude natural phosphates (manufacture)
 46711,Crude oil (wholesale)
 71122,Crude oil exploration
-6100,Crude oil extraction
+06100,Crude oil extraction
 19201,Crude oil refining (manufacture)
-6100,Crude oils obtained by decantation processes
-6100,Crude oils obtained by dehydration processes
-6100,Crude oils obtained by desalting processes
-6100,Crude oils obtained by stabilisation processes
+06100,Crude oils obtained by decantation processes
+06100,Crude oils obtained by dehydration processes
+06100,Crude oils obtained by desalting processes
+06100,Crude oils obtained by stabilisation processes
 46711,Crude petroleum (wholesale)
-6100,Crude petroleum extraction
+06100,Crude petroleum extraction
 19201,Crude petroleum jelly (at refinery) (manufacture)
-6100,Crude petroleum production
-6100,Crude petroleum production from bituminous shale and sand
+06100,Crude petroleum production
+06100,Crude petroleum production from bituminous shale and sand
 10410,Crude vegetable oil production (manufacture)
 10710,Crumpet making (manufacture)
 20120,Crushed pigment colours (manufacture)
 28930,Crusher (food or drink machinery) (manufacture)
-8110,Crushing and breaking of stone
+08110,Crushing and breaking of stone
 28921,Crushing machine for mining (manufacture)
 28923,Crushing plant (not for mines) (manufacture)
 38320,"Crushing, cleaning and sorting of demolition waste to obtain secondary raw materials"
@@ -3400,13 +3400,13 @@
 10200,Crustacean preservation (other than by freezing) (manufacture)
 47230,Crustaceans (retail)
 46380,Crustaceans (wholesale)
-3210,Crustaceans cultured in sea water
+03210,Crustaceans cultured in sea water
 32500,Crutches (manufacture)
 23130,Crystal articles (manufacture)
 10822,Crystallised fruit (manufacture)
 28990,Crystalliser for chemical industry (manufacture)
 26600,CT scanners (manufacture)
-1130,Cucumber growing
+01130,Cucumber growing
 32401,Cue for billiards or snooker (manufacture)
 32130,"Cuff link (not of, or clad in, precious metal, or of precious/semi precious stones) (manufacture)"
 14190,Cuffs for men and boys (manufacture)
@@ -3432,7 +3432,7 @@
 28940,Curing machinery for textiles (manufacture)
 47789,Curios (retail)
 27510,Curlers (electric) (manufacture)
-1250,Currant growing
+01250,Currant growing
 66120,Currency broking
 66190,Currency trading via the internet
 26511,Current checking instruments (electronic) (manufacture)
@@ -3461,7 +3461,7 @@
 84110,Customs administration
 52290,Customs clearance agents activities
 99000,Customs co-operation council
-1190,Cut flowers and flower bud production
+01190,Cut flowers and flower bud production
 15200,Cut leather soles for footwear (manufacture)
 14190,"Cut, make and trim on a fee or contract basis (manufacture)"
 32990,"Cut, make, trim of fire-resistant and protective safety clothing, fee or contract basis (manufacture)"
@@ -3529,7 +3529,7 @@
 26511,Cytometers (electronic) (manufacture)
 10910,Dairy concentrate (animal feed) (manufacture)
 46610,Dairy farm machinery (wholesale)
-1410,Dairy farming
+01410,Dairy farming
 47290,Dairy grocer's shop (retail)
 28930,Dairy industry machinery (manufacture)
 46690,Dairy machinery (not farm) (wholesale)
@@ -3583,7 +3583,7 @@
 62012,Database structure and content design
 32990,Date sealing stamps (manufacture)
 32990,Date stamp and accessories (manufacture)
-1220,Dates growing
+01220,Dates growing
 96090,Dating and other speed networking agency
 96090,Dating services
 88910,Day care for disabled children (charitable)
@@ -3625,7 +3625,7 @@
 61100,Dedicated business telephone network services (wired telecommunications)
 25990,Deed box (manufacture)
 69109,Deeds preparation
-5101,Deep coal mines
+05101,Deep coal mines
 27510,Deep freeze unit for domestic use (manufacture)
 84220,Defence activities
 29310,Defrosting and demisting equipment for vehicles (manufacture)
@@ -3685,7 +3685,7 @@
 20420,Depilatory (manufacture)
 46750,Depleted uranium and thorium and their compounds (wholesale)
 66190,Deposit broker
-9100,"Derrick erection in situ, repairing and dismantling"
+09100,"Derrick erection in situ, repairing and dismantling"
 28220,Derricks (manufacture)
 46690,"Derricks, cranes, mobile lifting frames (wholesale)"
 19201,Derv (manufacture)
@@ -3748,7 +3748,7 @@
 28140,Diaphragm valves (manufacture)
 18129,Diary printing (manufacture)
 32500,Diathermy apparatus (manufacture)
-8990,Diatomite bed
+08990,Diatomite bed
 28230,Dictating machines (manufacture)
 58110,Dictionary publishing
 25730,Die (press tool) (manufacture)
@@ -3812,7 +3812,7 @@
 46690,Direction finding compasses and other navigational instruments and appliances (wholesale)
 46520,"Direction finding compasses, other navigational instruments and appliances (electronic) (wholesale)"
 90020,"Direction, production and support activities to circus performances"
-9100,Directional drilling services
+09100,Directional drilling services
 24100,Directly reduced iron (manufacture)
 58120,Directories and compilations (in print) publishing
 90020,Directors (theatre)
@@ -3911,7 +3911,7 @@
 28490,Dividing heads and other special attachments for machine tools (manufacture)
 52220,Diving contracting (non leisure)
 28990,Diving equipment (excluding breathing apparatus) (manufacture)
-9100,Diving services incidental to oil and gas exploration
+09100,Diving services incidental to oil and gas exploration
 22190,Diving suit made of rubber (manufacture)
 47520,DIY equipment (retail)
 47520,DIY materials (retail)
@@ -4002,8 +4002,8 @@
 13100,Down of vegetable origin (manufacture)
 10120,Down production (manufacture)
 74202,Downhole photography services
-9100,Downhole-fishing services
-9100,Downhole-milling services
+09100,Downhole-fishing services
+09100,Downhole-milling services
 13200,Downproof cloth weaving (manufacture)
 26513,Drafting tables and machines (manufacture)
 46690,"Drafting tables and other drawing, marking out or mathematical calculating instruments (wholesale)"
@@ -4011,7 +4011,7 @@
 28220,Drag scraper (manufacture)
 28922,Dragline excavator (manufacture)
 43120,Drainage of agricultural or forestry land
-9100,"Draining and pumping services incidental to oil and gas extraction, on a fee or contract basis"
+09100,"Draining and pumping services incidental to oil and gas extraction, on a fee or contract basis"
 46740,Drainpipes (wholesale)
 23320,Drainpipes and fittings made of clay (manufacture)
 22210,Drainpipes and fittings made of plastic (manufacture)
@@ -4068,7 +4068,7 @@
 46380,Dried fruit (wholesale)
 10390,Dried fruit cleaning (manufacture)
 10840,Dried herbs (except field dried) (manufacture)
-1110,Dried leguminous vegetables growing
+01110,Dried leguminous vegetables growing
 10519,Dried milk (manufacture)
 10390,Dried vegetables (except field dried) (manufacture)
 10130,"Dried, salted or smoked meat (manufacture)"
@@ -4078,12 +4078,12 @@
 24200,Drill pipe made of steel (manufacture)
 25730,Drill tools (interchangeable) (manufacture)
 13200,Drill weaving from yarn spun on the cotton system (manufacture)
-9100,Drilling contractor for offshore oil or gas well
+09100,Drilling contractor for offshore oil or gas well
 28921,Drilling jars for mining (manufacture)
 28410,Drilling machine (metal cutting) (manufacture)
 20590,Drilling mud (manufacture)
 28490,"Drilling or milling machines for stone, ceramics, asbestos-cement and similar articles (manufacture)"
-9100,Drilling services to oil and gas extraction wells
+09100,Drilling services to oil and gas extraction wells
 30110,Drilling ship (manufacture)
 28240,Drills and hammer drills (manufacture)
 28930,Drink processing including combined processing and packaging or bottling machinery (manufacture)
@@ -4101,9 +4101,9 @@
 28410,Drop hammers (manufacture)
 25500,Drop stamping of base non-ferrous metals (manufacture)
 25500,Drop stamping of ferrous metals (manufacture)
-1629,Droving services
+01629,Droving services
 21200,Drug (medicinal) (manufacture)
-1280,Drug and narcotic crops growing
+01280,Drug and narcotic crops growing
 47730,Drug store (retail)
 47730,Druggist (retail)
 46460,Druggists' sundries (wholesale)
@@ -4137,8 +4137,8 @@
 43999,Drying out of buildings (incl. Water damage)
 13923,Duchesse set (manufacture)
 10120,"Duck (fresh, chilled or frozen) slaughter and dressing (manufacture)"
-1470,Duck farming
-1470,Duck raising and breeding
+01470,Duck farming
+01470,Duck raising and breeding
 13200,Duck weaving (manufacture)
 25300,Duct of heavy steel plate (manufacture)
 22230,Ducting made of plastic (manufacture)
@@ -4199,7 +4199,7 @@
 86101,"Ear, nose and throat specialist (public sector)"
 26400,Earphone (manufacture)
 28921,Earth boring machine (manufacture)
-8910,Earth colours and fluorspar mining
+08910,Earth colours and fluorspar mining
 28922,Earth leveller (manufacture)
 28922,Earth mover (construction equipment) (manufacture)
 43999,Earth moving equipment rental with operator
@@ -4229,14 +4229,14 @@
 10612,Edible nut flour or meal production (manufacture)
 47210,Edible nuts (retail)
 46310,Edible nuts (wholesale)
-1250,Edible nuts growing
+01250,Edible nuts growing
 10110,Edible offal (processed) production (manufacture)
 28930,Edible oil and fat processing machinery (manufacture)
 46330,Edible oils and fats (wholesale)
 46330,Edible oils and fats exporter (wholesale)
 46330,Edible oils and fats importer (wholesale)
 46330,Edible oils and fats of animal or vegetable origin (wholesale)
-3210,Edible seaweed growing
+03210,Edible seaweed growing
 10110,Edible tallow production (manufacture)
 85600,Education agent
 94120,Educational association
@@ -4254,7 +4254,7 @@
 85600,Educational testing activities
 85600,Educational testing evaluation activities
 56103,Eel pie shop
-2300,Eelgrass gathering
+02300,Eelgrass gathering
 47230,Eels (retail)
 46380,Eels (wholesale)
 28290,Effluent treatment plant (manufacture)
@@ -4267,16 +4267,16 @@
 22290,Egg cups made of plastic (manufacture)
 10890,Egg drying (manufacture)
 46330,Egg grading and packing (wholesale)
-1470,Egg hatchery
+01470,Egg hatchery
 46330,Egg packing station (wholesale)
 10890,Egg pickling (manufacture)
-1470,Egg production
-1470,Egg production from poultry
+01470,Egg production
+01470,Egg production from poultry
 46330,Egg products (wholesale)
 10890,Egg products and egg albumin (manufacture)
 10890,Egg substitute (manufacture)
 17290,Egg trays and other moulded pulp packaging products (manufacture)
-1130,Eggplant growing
+01130,Eggplant growing
 10890,Eggs (powdered or reconstituted) (manufacture)
 47290,Eggs (retail)
 46330,Eggs (wholesale)
@@ -4488,7 +4488,7 @@
 47510,Embroidery making materials (retail)
 13300,Embroidery on made up textile goods
 23910,Emery cloth (manufacture)
-8990,Emery extraction
+08990,Emery extraction
 23910,Emery paper (manufacture)
 23910,Emery wheel (manufacture)
 96090,"Emigration agency (not of foreign government, etc.)"
@@ -4499,7 +4499,7 @@
 78109,Employment placement agencies
 88990,Employment rehabilitation centre (charitable)
 88990,Employment rehabilitation centre (non-charitable)
-1490,Emu raising and breeding
+01490,Emu raising and breeding
 28131,Emulsion (gas lift) pumps (manufacture)
 20520,Emulsion adhesive (manufacture)
 20301,Emulsion paint (manufacture)
@@ -4617,7 +4617,7 @@
 90030,Etchers
 18130,Etching for printing (manufacture)
 20140,Ethane diol (excluding anti-freeze mixtures) (manufacture)
-6200,Ethane extraction from natural gas
+06200,Ethane extraction from natural gas
 19201,Ethane production by refining (manufacture)
 20140,Ethanol (synthetic) (manufacture)
 46120,"Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, ketone peroxides (commission agent)"
@@ -4686,7 +4686,7 @@
 46180,Extracorporeal membrane oxygenation (ECMO) (commission agent)
 32500,Extracorporeal membrane oxygenation (ECMO) (manufacture)
 46460,Extracorporeal membrane oxygenation (ECMO) (wholesale)
-6200,Extraction of coal mine methane
+06200,Extraction of coal mine methane
 38320,Extraction of silver from waste
 24410,"Extraction of silver from waste, by electrolytic refining"
 10890,"Extracts and juices of meat, fish, crustaceans or molluscs (manufacture)"
@@ -4753,11 +4753,11 @@
 28250,Fans (non-domestic) (manufacture)
 46439,Fans and ventilating or recycling hoods for domestic use (wholesale)
 10730,Farinaceous products (manufacture)
-1621,Farm animal boarding and care (except pets)
+01621,Farm animal boarding and care (except pets)
 10910,Farm animal feeds produced from slaughter waste (manufacture)
 55209,Farmhouse short stay accommodation
 28302,Farmyard manure spreader (manufacture)
-1629,"Farriers, on a fee or contract basis"
+01629,"Farriers, on a fee or contract basis"
 14132,Fashion (manufacture)
 90030,Fashion artist
 74100,Fashion designing
@@ -4784,7 +4784,7 @@
 94110,Federations of business and employers' membership organisations
 10910,Feed supplements for animals (manufacture)
 28930,Feeders (manufacture)
-8990,Feldspar mining and quarrying
+08990,Feldspar mining and quarrying
 10110,Fellmongery (manufacture)
 13990,Felt (manufacture)
 46640,Felt finishing machinery (wholesale)
@@ -4798,15 +4798,15 @@
 17120,Feltboard including felt paper (manufacture)
 22190,Felting made of rubber (manufacture)
 28940,Felts or non-wovens production and finishing machines (manufacture)
-1610,Fencing by agricultural contractor
+01610,Fencing by agricultural contractor
 43290,Fencing contractor (not agricultural)
 22230,Fencing made of plastic (manufacture)
 25930,Fencing made of steel wire (manufacture)
 16230,Fencing made of wood (assembled) (manufacture)
 16290,Fenders made of cork (manufacture)
-1130,Fennel (vegetable) growing
-1280,Fennel seed growing
-2300,"Fern collecting, cutting, gathering"
+01130,Fennel (vegetable) growing
+01280,Fennel seed growing
+02300,"Fern collecting, cutting, gathering"
 26110,Ferrite parts for electronic apparatus (manufacture)
 24100,Ferro alloys (high carbon ferro manganese) (manufacture)
 24100,Ferro aluminium (manufacture)
@@ -4837,7 +4837,7 @@
 50200,Ferry transport of cars without driver
 20150,Fertiliser (manufacture)
 28302,Fertiliser distributor or broadcaster (manufacture)
-8910,Fertiliser minerals mining
+08910,Fertiliser minerals mining
 46120,Fertilisers (commission agent)
 47760,Fertilisers (retail)
 46750,Fertilisers (wholesale)
@@ -4847,7 +4847,7 @@
 16210,Fibre building board (manufacture)
 23650,Fibre cement (manufacture)
 13940,Fibre core for wire rope (manufacture)
-1160,Fibre crop growing
+01160,Fibre crop growing
 32910,Fibre dressing for brushes (manufacture)
 26701,Fibre optic apparatus (manufacture)
 27310,Fibre optic cable for data transmission or live transmission of images (manufacture)
@@ -4856,8 +4856,8 @@
 20600,Fibrillated yarn (manufacture)
 93120,Field and track clubs
 93110,Field and track stadium
-1610,Field preparation on a fee or contract basis
-1220,Fig growing
+01610,Field preparation on a fee or contract basis
+01220,Fig growing
 23110,Figured glass (manufacture)
 23190,Figurines made of glass (manufacture)
 20600,Filament tow (manufacture)
@@ -4927,10 +4927,10 @@
 90030,Fine art expert
 85520,Fine arts schools (except academic)
 12000,Fine cut tobacco (manufacture)
-1490,"Fine or coarse animal hair, not including sheep or goats wool"
+01490,"Fine or coarse animal hair, not including sheep or goats wool"
 13100,Fingering wool (manufacture)
-3220,"Fingerling production, freshwater"
-3210,"Fingerling production, marine"
+03220,"Fingerling production, freshwater"
+03210,"Fingerling production, marine"
 80100,Fingerprinting services
 20590,Finings (manufacture)
 26110,"Finished or semi-finished dice, semiconductor (manufacture)"
@@ -4969,7 +4969,7 @@
 25400,"Firearms for hunting, sporting or protective use (manufacture)"
 46690,"Firearms, sporting, hunting or target shooting rifles (wholesale)"
 23200,Firebrick and shape (manufacture)
-8120,Fireclay mine or quarry
+08120,Fireclay mine or quarry
 32990,Fire-fighting protection suits (manufacture)
 32990,Firelighter (manufacture)
 81223,Fire-places cleaning
@@ -4991,8 +4991,8 @@
 10410,Fish and marine mammal oil extraction (manufacture)
 10200,Fish and other aquatic animal meals and solubles unfit for human consumption (manufacture)
 16240,Fish boxes made of wood (manufacture)
-3220,"Fish breeding, freshwater"
-3210,"Fish breeding, marine"
+03220,"Fish breeding, freshwater"
+03210,"Fish breeding, marine"
 10200,Fish cakes (manufacture)
 10200,Fish canning (manufacture)
 10200,Fish curing (other than by distributors) (manufacture)
@@ -5004,16 +5004,16 @@
 25710,Fish eater (manufacture)
 46170,Fish factor (commission agent)
 46690,Fish farming equipment (wholesale)
-3220,"Fish farming in fresh water, including farming of freshwater ornamental fish"
-3210,"Fish farming, marine"
+03220,"Fish farming in fresh water, including farming of freshwater ornamental fish"
+03210,"Fish farming, marine"
 10200,Fish fillet production (manufacture)
 10850,Fish fingers (manufacture)
-3220,"Fish fry production, freshwater"
-3210,"Fish fry production, marine"
-3220,"Fish hatcheries and farms service activities, freshwater"
-3210,"Fish hatcheries and farms service activities, marine"
-3220,"Fish hatcheries, freshwater"
-3210,"Fish hatcheries, marine"
+03220,"Fish fry production, freshwater"
+03210,"Fish fry production, marine"
+03220,"Fish hatcheries and farms service activities, freshwater"
+03210,"Fish hatcheries and farms service activities, marine"
+03220,"Fish hatcheries, freshwater"
+03210,"Fish hatcheries, marine"
 32300,Fish hook (manufacture)
 10410,Fish liver oil (unrefined) production (manufacture)
 10410,Fish liver oil refining (manufacture)
@@ -5036,16 +5036,16 @@
 10200,"Fish, crustacean and mollusc smoking (manufacture)"
 93199,Fishing (recreational)
 30110,Fishing boats (manufacture)
-3110,"Fishing by line, except for recreation and sport (marine)"
-3110,Fishing for shellfish (marine)
+03110,"Fishing by line, except for recreation and sport (marine)"
+03110,Fishing for shellfish (marine)
 47640,Fishing gear (retail)
-3110,"Fishing in ocean, sea, coastal or inland waters (commercial)"
+03110,"Fishing in ocean, sea, coastal or inland waters (commercial)"
 13940,Fishing line (manufacture)
 13940,Fishing net (manufacture)
 13940,Fishing net mending (manufacture)
 13100,Fishing net yarn made of cotton (manufacture)
-3120,Fishing on a commercial basis in inland waters
-3110,Fishing on a commercial basis in ocean and coastal waters
+03120,Fishing on a commercial basis in inland waters
+03110,Fishing on a commercial basis in ocean and coastal waters
 46499,"Fishing rods, line fishing tackle and articles for hunting or fishing (wholesale)"
 84130,Fishing services administration and regulation (public sector)
 32300,Fishing tackle (manufacture)
@@ -5077,7 +5077,7 @@
 23310,Flags made of clay (manufacture)
 23310,Flags made of non-refractory ceramic (manufacture)
 46730,Flagstone merchant (wholesale)
-8110,Flagstone quarry
+08110,Flagstone quarry
 23610,Flagstones made of precast concrete (manufacture)
 24420,Flake made of aluminium (manufacture)
 24440,Flake made of copper (manufacture)
@@ -5120,7 +5120,7 @@
 13100,Flax carding (manufacture)
 13100,Flax deseeding (manufacture)
 13100,Flax dressing (manufacture)
-1160,Flax growing
+01160,Flax growing
 13100,Flax hackling (manufacture)
 13100,Flax preparing (manufacture)
 13100,Flax roughing (manufacture)
@@ -5142,17 +5142,17 @@
 18121,Flexographic printing on labels or tags (manufacture)
 26511,Flight recorder (electric) (manufacture)
 30300,Flight simulator (electronic) (manufacture)
-8120,"Flint bed, pit or quarry"
+08120,"Flint bed, pit or quarry"
 23910,Flint cloth (manufacture)
 32990,Flint for lighters (manufacture)
-8120,Flint grit production
+08120,Flint grit production
 23910,Flint paper (manufacture)
 23110,Float glass (manufacture)
 52220,Floating bridge company
 92000,Floating casinos
 30110,Floating crane (manufacture)
 30110,Floating docks construction (manufacture)
-9100,Floating drilling rig operation for petroleum or natural gas exploration or production
+09100,Floating drilling rig operation for petroleum or natural gas exploration or production
 30110,Floating harbour (manufacture)
 30110,Floating landing stages construction (manufacture)
 30110,Floating tanks construction (manufacture)
@@ -5212,23 +5212,23 @@
 26513,Flow meters (non-electronic) (manufacture)
 46220,Flower and plants exporter (wholesale)
 46220,Flower and plants importer (wholesale)
-1190,Flower growing
+01190,Flower growing
 22290,Flower pots and tubs made of plastic (manufacture)
 23490,Flower pots made of clay (manufacture)
 23690,"Flower pots made of concrete, plaster, cement or artificial stone (manufacture)"
 46220,Flower salesman (wholesale)
-1190,Flower seed growing
+01190,Flower seed growing
 47760,Flowers (retail)
 46220,Flowers (wholesale)
 77299,Flowers and plants rental and leasing
-1190,Flowers grown for drying
+01190,Flowers grown for drying
 28120,Flowline assembly (hydraulic equipment) (manufacture)
 32910,Flue brush (manufacture)
 23320,Flue tiles made of clay (manufacture)
 28120,Fluid power equipment (manufacture)
 28120,Fluid power systems (manufacture)
 22190,Fluid seals made of rubber (manufacture)
-9100,Fluid-displacement services
+09100,Fluid-displacement services
 27110,Fluorescent ballasts (i.e. Transformers) (manufacture)
 20120,Fluorescent brightening agent (manufacture)
 27400,Fluorescent tube (manufacture)
@@ -5236,7 +5236,7 @@
 26513,Fluorimeter (non-electronic) (manufacture)
 20130,"Fluorine, hydrofluoric acid and fluorides (manufacture)"
 46760,Fluorspar (wholesale)
-8910,Fluorspar mining
+08910,Fluorspar mining
 22230,Flushing cisterns made of plastic (manufacture)
 17120,Fluting paper (manufacture)
 46120,Flux (commission agent)
@@ -5257,9 +5257,9 @@
 22190,Foam rubber (manufacture)
 23990,Foamed slag (manufacture)
 46210,Fodder (wholesale)
-1190,Fodder maize and other grass growing
+01190,Fodder maize and other grass growing
 28302,Fodder preparing equipment (manufacture)
-1190,Fodder root growing
+01190,Fodder root growing
 20510,Fog signal (manufacture)
 30200,Fog signalling equipment (manufacture)
 25990,Foil bags (manufacture)
@@ -5332,26 +5332,26 @@
 77299,Footwear rental and leasing
 46210,Forage (wholesale)
 28302,Forage harvester (manufacture)
-1190,Forage kale and similar forage products growing
-1190,Forage plants seed production including grasses
+01190,Forage kale and similar forage products growing
+01190,Forage plants seed production including grasses
 10130,Forcemeat (manufacture)
 99000,Foreign armed forces
 84210,Foreign economic aid services administration (public sector)
 99000,Foreign embassy
 66120,Foreign exchange broker
 99000,Foreign government service
-2200,"Forest harvesting residues, gathering of these for energy"
+02200,"Forest harvesting residues, gathering of these for energy"
 28302,Forest machinery (manufacture)
-2400,Forest management consulting services
-2400,Forest pest control
-2100,Forest tree nursery operation
-2400,Forestry fire protection
-2400,Forestry inventories
+02400,Forest management consulting services
+02400,Forest pest control
+02100,Forest tree nursery operation
+02400,Forestry fire protection
+02400,Forestry inventories
 43120,Forestry land drainage
 77310,Forestry machinery and equipment rental and leasing (without operator)
 46610,"Forestry machinery, accessories and implements (wholesale)"
 84130,Forestry services administration and regulation (public sector)
-2100,"Forests and timber tract planting, replanting, transplanting, thinning and conservation"
+02100,"Forests and timber tract planting, replanting, transplanting, thinning and conservation"
 24100,Forged bars (manufacture)
 24100,Forged rail accessories (manufacture)
 24100,Forged sections (manufacture)
@@ -5401,7 +5401,7 @@
 45112,Four wheel drive vehicles with a weight not exceeding 3.5 tonnes (used) (retail)
 45112,Four wheel drive vehicles with a weight not exceeding 3.5 tonnes (used) (wholesale)
 28950,Fourdrinier (manufacture)
-9100,Fracture/stimulation services
+09100,Fracture/stimulation services
 28490,Frame and carcass cramps (manufacture)
 30910,Frame for motor tricycle (manufacture)
 30910,Frame for motorcycle (manufacture)
@@ -5416,7 +5416,7 @@
 68209,Freeholder of leasehold property
 90030,Freelance journalist
 94990,Freemasons
-8110,Freestone mine or quarry
+08110,Freestone mine or quarry
 30920,Freewheel for pedal cycle (manufacture)
 28250,"Freezing industrial equipment, including assemblies of components (manufacture)"
 51210,Freight air transport (non-scheduled)
@@ -5448,12 +5448,12 @@
 26513,Frequency meter (non-electronic) (manufacture)
 46310,Fresh fruit (wholesale)
 10710,Fresh pastry (manufacture)
-3120,Freshwater aquatic animal taking
-3120,Freshwater crustacean and mollusc taking
-3120,Freshwater crustaceans and molluscs gathering
-3220,"Freshwater crustaceans, bivalves, other molluscs and other aquatic animals, culture of"
-3120,Freshwater fishing
-3120,Freshwater materials gathering
+03120,Freshwater aquatic animal taking
+03120,Freshwater crustacean and mollusc taking
+03120,Freshwater crustaceans and molluscs gathering
+03220,"Freshwater crustaceans, bivalves, other molluscs and other aquatic animals, culture of"
+03120,Freshwater fishing
+03120,Freshwater materials gathering
 23990,"Friction material and unmounted articles thereof, with a mineral or cellulose base (manufacture)"
 23990,Friction material made of non-metallic mineral (manufacture)
 56103,Fried fish shop
@@ -5461,7 +5461,7 @@
 13200,Frieze cloth (manufacture)
 13960,Frilling (manufacture)
 13960,Fringe (textile material) (manufacture)
-3220,Frog farming (freshwater)
+03220,Frog farming (freshwater)
 46630,Front-end shovel loaders (wholesale)
 52102,"Frozen and refrigerated goods storage services, for air transport activities"
 52103,"Frozen and refrigerated goods storage services, for land transport activities"
@@ -5478,7 +5478,7 @@
 46170,Fruit and vegetables (commission agent)
 46310,Fruit and vegetables (processed) (wholesale)
 46310,Fruit and vegetables (unprocessed) (wholesale)
-1130,Fruit bearing vegetables growing
+01130,Fruit bearing vegetables growing
 16290,Fruit bowls made of wood (manufacture)
 10710,Fruit cake baking (manufacture)
 28302,"Fruit cleaning, sorting or grading machines (manufacture)"
@@ -5491,7 +5491,7 @@
 28930,Fruit juice preparation machinery (manufacture)
 10710,Fruit loaf baking (manufacture)
 10390,Fruit or vegetable food products (manufacture)
-1630,"Fruit packing, for primary market"
+01630,"Fruit packing, for primary market"
 10822,Fruit peel preserving in sugar (manufacture)
 10390,Fruit pickling (manufacture)
 10710,Fruit pie making (manufacture)
@@ -5501,14 +5501,14 @@
 28930,Fruit processing machines and equipment (manufacture)
 10390,Fruit pulp (manufacture)
 46310,Fruit salesman (wholesale)
-1250,Fruit seed growing
+01250,Fruit seed growing
 20200,Fruit setting compound (manufacture)
 47210,Fruit shop (retail)
 11070,Fruit squash (manufacture)
 47810,Fruit stall keeper (retail)
 11070,Fruit syrup (manufacture)
-1610,"Fruit tree and vine trimming, on a fee or contract basis"
-1630,Fruit waxing
+01610,"Fruit tree and vine trimming, on a fee or contract basis"
+01630,Fruit waxing
 11030,Fruit wines other than cider and perry (manufacture)
 10390,"Fruit, nuts or vegetables preserved by immersing in oil (manufacture)"
 10390,"Fruit, nuts or vegetables preserved by immersing in vinegar (manufacture)"
@@ -5534,11 +5534,11 @@
 29320,Fuel tank for motor vehicle (manufacture)
 30300,Fuel tanks for aircraft (manufacture)
 47789,Fuel wood (retail)
-2100,Fuel wood production
+02100,Fuel wood production
 46719,Fuels (other than petroleum) (wholesale)
 46719,Fuels exporter (other than petroleum) (wholesale)
 46719,Fuels importer (other than petroleum) (wholesale)
-8120,Fuller's earth pit
+08120,Fuller's earth pit
 13300,Fulling mill (manufacture)
 46750,"Fulminates, cyanates and thiocyanates (wholesale)"
 31010,Fume cupboards (manufacture)
@@ -5564,16 +5564,16 @@
 46750,"Fungicides, rodenticides and similar products (wholesale)"
 49319,Funicular railway
 22290,Funnels made of plastic (manufacture)
-1490,Fur animal raising
+01490,Fur animal raising
 46420,Fur articles (wholesale)
 46160,Fur broker (commission agent)
 46420,Fur clothing for adults (wholesale)
 15110,Fur dressing (manufacture)
 15110,Fur dyeing (manufacture)
-1490,Fur farming
+01490,Fur farming
 46420,Fur merchant (wholesale)
 14200,"Fur skin assemblies including dropped fur skins, plates, mats and strips (manufacture)"
-1490,Fur skin production from ranching operation
+01490,Fur skin production from ranching operation
 28990,Furling systems used for rigging (manufacture)
 28210,Furnace (electric) (manufacture)
 23200,Furnace block and pot (manufacture)
@@ -5639,11 +5639,11 @@
 14200,Furskin articles (manufacture)
 14200,Furskin assemblies (manufacture)
 14200,"Furskin pouffes, unstuffed (manufacture)"
-1700,Furskin production (from hunting)
+01700,Furskin production (from hunting)
 46240,Furskins (wholesale)
 46240,Furskins exporter (wholesale)
 46240,Furskins importer (wholesale)
-2100,"Furze collecting, cutting or gathering"
+02100,"Furze collecting, cutting or gathering"
 27120,Fuse and fusegear (power) (manufacture)
 20510,Fuse for explosives (manufacture)
 25400,Fuse for shells and bombs (manufacture)
@@ -5669,8 +5669,8 @@
 47220,Game (retail)
 46320,Game (wholesale)
 10120,"Game bird (fresh, chilled or frozen) dressing or preparation (manufacture)"
-1490,Game bird egg production
-1490,Game bird farming
+01490,Game bird egg production
+01490,Game bird farming
 32409,Games and toys (manufacture)
 47650,Games and toys (retail)
 46499,Games and toys (wholesale)
@@ -5681,7 +5681,7 @@
 77390,Gaming machine hire
 21200,Gammaglobulin (manufacture)
 46730,Ganister (wholesale)
-8990,Ganister extraction
+08990,Ganister extraction
 52219,Garage (parking)
 68209,Garage letting (lock up)
 16230,Garage made of wood (manufacture)
@@ -5704,7 +5704,7 @@
 94990,Gardening clubs
 47520,Gardening tools (retail)
 81300,"Gardens and sport installations, planting and maintenance on a fee or contract basis"
-1130,Garlic growing
+01130,Garlic growing
 14200,Garments made of rabbit fur (manufacture)
 23910,Garnet abrasives (manufacture)
 28940,Garnetters (manufacture)
@@ -5720,10 +5720,10 @@
 28131,Gas combustion pumps (manufacture)
 28132,Gas compressor (manufacture)
 28140,Gas cylinder outlet valves (manufacture)
-6200,Gas desulphurisation
+06200,Gas desulphurisation
 27400,Gas discharge lamp (manufacture)
-6200,Gas extraction (natural gas)
-9100,Gas extraction service activities
+06200,Gas extraction (natural gas)
+09100,Gas extraction service activities
 28290,Gas generators (manufacture)
 25400,Gas guns (manufacture)
 27400,Gas lanterns (manufacture)
@@ -5786,11 +5786,11 @@
 28150,Gearing (manufacture)
 28150,Gears (manufacture)
 46690,"Gears, gearing, ball screws, gear boxes, other speed changers (excluding motor vehicles) (wholesale)"
-1470,Geese farming
+01470,Geese farming
 20590,Gelatine (manufacture)
 20590,Gelatine derivatives (manufacture)
 20510,Gelignite (manufacture)
-8990,Gem stones mining and quarrying
+08990,Gem stones mining and quarrying
 96090,Genealogical organisation services
 96090,Genealogist
 81210,General cleaning of houses or apartments
@@ -5837,7 +5837,7 @@
 86101,Geriatrician (public sector)
 24450,Germanium (manufacture)
 27330,GFCI (ground fault circuit interrupters) (manufacture)
-1130,Gherkin growing
+01130,Gherkin growing
 10390,Gherkin pickling (manufacture)
 47789,Gift shop (retail)
 18140,Gilding (printing service) (manufacture)
@@ -5846,7 +5846,7 @@
 10410,Gingelly oil refining (manufacture)
 10410,Gingelly seed crushing (manufacture)
 11070,Ginger beer (manufacture)
-1280,Ginger growing
+01280,Ginger growing
 13200,Gingham weaving (manufacture)
 94990,Girl Guides Association
 94990,Girls' Brigade
@@ -5869,7 +5869,7 @@
 23140,Glass fibres (manufacture)
 23190,Glass in the mass (manufacture)
 23130,Glass inners for vacuum flasks and other vacuum vessels (manufacture)
-23120,Glass mirrors (manufacture)
+23120 ,Glass mirrors (manufacture)
 23120,Glass mirrors for motor vehicles (not further assembled) (manufacture)
 23910,Glass paper (manufacture)
 20412,Glass polish (manufacture)
@@ -5941,9 +5941,9 @@
 46460,"Glycoside, vegetable alkaloids and their salts, ethers, esters and other derivatives (wholesale)"
 21100,"Glycosides and their salts, ethers, esters and other derivatives (manufacture)"
 46180,"Glycosides, vegetable alkaloids, their salts, ethers, esters and other derivatives (commission agent)"
-1450,Goat farming
-1450,Goat milk (raw) production
-1450,Goat raising and breeding
+01450,Goat farming
+01450,Goat milk (raw) production
+01450,Goat raising and breeding
 32500,Goggles (manufacture)
 24410,Gold (manufacture)
 46720,Gold and other precious metals (wholesale)
@@ -5954,7 +5954,7 @@
 18140,Gold blocking (manufacture)
 32120,Gold laceman (manufacture)
 32120,Gold leaf (manufacture)
-7290,Gold mining and preparation
+07290,Gold mining and preparation
 24410,Gold rolled onto base metals or silver production (manufacture)
 18140,Gold stamping (manufacture)
 15110,Goldbeaters' skin or bung (manufacture)
@@ -5979,8 +5979,8 @@
 28290,Goods vending machines (manufacture)
 30200,Goods wagon for railways (manufacture)
 10120,"Goose (fresh, chilled or frozen) slaughter and dressing (manufacture)"
-1470,Goose raising and breeding
-1250,Gooseberry growing
+01470,Goose raising and breeding
+01250,Gooseberry growing
 25730,Gouge (wood frame) (manufacture)
 42990,Government department (building and civil engineering works division)
 91012,Government records and archives maintenance and storage (public sector)
@@ -6000,8 +6000,8 @@
 28930,Grain brushing machines (manufacture)
 28930,"Grain cleaning, sorting and grading machines (manufacture)"
 28302,Grain drier (manufacture)
-1630,Grain drying
-1110,Grain maize growing
+01630,Grain drying
+01110,Grain maize growing
 10611,Grain milling (manufacture)
 28930,Grain milling industry machinery (manufacture)
 24100,Grain oriented electrical sheet steel (manufacture)
@@ -6029,17 +6029,17 @@
 52103,Granary for land transport activities
 52101,Granary for water transport activities
 46730,Granite (wholesale)
-8110,Granite quarrying (rough trimming and sawing)
+08110,Granite quarrying (rough trimming and sawing)
 23700,Granite working (manufacture)
 94990,Grant giving activities by membership organisations or others
 94990,Grant giving foundations
 28990,Granulator for the chemical industry (manufacture)
-1210,Grape production
-1230,Grapefruit growing
+01210,Grape production
+01230,Grapefruit growing
 74100,Graphic designer
 26200,Graphics tablets and other input devices (manufacture)
 23990,Graphite (manufacture)
-8990,Graphite (natural) mining
+08990,Graphite (natural) mining
 28990,Graphite electrodes production machinery (manufacture)
 23990,Graphite products (other than block and crucible) (manufacture)
 96090,Graphologist
@@ -6049,16 +6049,16 @@
 32500,"Grating (mounted, (not photographic)) (manufacture)"
 32500,"Grating (unmounted, optical) (manufacture)"
 46730,Gravel (wholesale)
-8120,Gravel and sand breaking and crushing
-9900,Gravel and sand pit support services provided on a fee or contract basis
-9100,Gravel packing services
-8120,Gravel pit or quarry
+08120,Gravel and sand breaking and crushing
+09900,Gravel and sand pit support services provided on a fee or contract basis
+09100,Gravel packing services
+08120,Gravel pit or quarry
 24540,Gravity casting of non-ferrous base metal (manufacture)
 20302,Gravure ink (manufacture)
 28990,Gravure printing machine (manufacture)
 18121,Gravure printing on labels or tags (manufacture)
 10840,Gravy (manufacture)
-1629,Grazing
+01629,Grazing
 19209,Grease formulation outside refineries (manufacture)
 17120,Greaseproof paper (manufacture)
 19201,Greases (at refinery) (manufacture)
@@ -6109,18 +6109,18 @@
 42110,Ground work contracting
 68209,"Ground, landlord"
 10410,Groundnut crushing (manufacture)
-1110,Groundnut growing
+01110,Groundnut growing
 10410,Groundnut oil refining (manufacture)
 22190,Groundsheet made of rubber (manufacture)
 93110,Groundsman
 22190,Grout packers (manufacture)
 43999,Grouting contractor 
-2300,"Growing materials, gathering from the wild"
-1250,Growing of berries
-1230,Growing of citrus fruits
-2100,Growing of forest tree seeds
+02300,"Growing materials, gathering from the wild"
+01250,Growing of berries
+01230,Growing of citrus fruits
+02100,Growing of forest tree seeds
 46750,Guano (wholesale)
-8910,Guano mining
+08910,Guano mining
 80100,Guard activities
 55209,Guest house (licensed)
 55209,Guest house (unlicensed)
@@ -6131,8 +6131,8 @@
 25400,Guided weapon warheads (manufacture)
 25400,"Guided weapon, except intercontinental ballistic missile (ICBM) (manufacture)"
 94110,Guilds and similar organisations
-1470,Guinea fowl production
-1470,Guinea fowl raising and breeding
+01470,Guinea fowl production
+01470,Guinea fowl raising and breeding
 32200,Guitar (manufacture)
 23610,Gullies made of concrete (manufacture)
 20520,Gum (manufacture)
@@ -6157,7 +6157,7 @@
 85510,Gymnastics instruction
 86220,Gynaecologist (private practice)
 86101,Gynaecologist (public sector)
-8110,Gypsum mine or quarry
+08110,Gypsum mine or quarry
 23520,Gypsum plaster (manufacture)
 23620,Gypsum plaster products (manufacture)
 28990,Gyroscope (manufacture)
@@ -6165,7 +6165,7 @@
 47510,Haberdashery (retail)
 46410,Haberdashery (wholesale)
 25730,Hacksaw blades (manufacture)
-7100,Haematite quarry
+07100,Haematite quarry
 86101,Haematologist (public sector)
 10130,Haggis (manufacture)
 10110,Hair (animal by-product) from knackers (manufacture)
@@ -6214,7 +6214,7 @@
 46740,Hammers (wholesale)
 13940,Hammocks (manufacture)
 93290,Hampton Court Gardens and Park
-1490,Hamster raising and breeding
+01490,Hamster raising and breeding
 18129,Hand block printing of textiles (manufacture)
 77390,Hand cart hire
 20420,Hand cream (manufacture)
@@ -6268,9 +6268,9 @@
 42910,Harbour construction
 52220,Harbour operation
 19201,Hard coal agglomeration (manufacture)
-9900,"Hard coal mining (opencast) support services, provided on a fee or contract basis"
-5101,Hard coal mining (underground)
-9900,"Hard coal mining (underground) support services, provided on a fee or contract basis"
+09900,"Hard coal mining (opencast) support services, provided on a fee or contract basis"
+05101,Hard coal mining (underground)
+09900,"Hard coal mining (underground) support services, provided on a fee or contract basis"
 19100,Hard coke (manufacture)
 19100,Hard coke breeze (manufacture)
 26200,Hard disk drives (manufacture)
@@ -6335,7 +6335,7 @@
 28302,Hay making equipment (manufacture)
 77320,Hazard warning lamp hire
 38120,"Hazardous waste collection (e.g. Batteries, used cooking oils, etc.)"
-1250,Hazelnut growing
+01250,Hazelnut growing
 70100,Head office of catering company
 70100,Head office of construction company
 70100,Head office of motor trades company
@@ -6392,7 +6392,7 @@
 10511,Heat treatment of milk (manufacture)
 20590,Heat treatment salts (manufacture)
 27510,Heater for motor vehicle (manufacture)
-2100,"Heath collecting, cutting or gathering"
+02100,"Heath collecting, cutting or gathering"
 27520,Heating and cooking appliances for domestic use (oil fired) (manufacture)
 43220,Heating and plumbing contracting
 27520,Heating appliances for domestic use (non-electric) (manufacture)
@@ -6442,7 +6442,7 @@
 46750,Herbicides and insecticides (wholesale)
 46310,Herbs (wholesale)
 77390,Herd leasing
-1629,Herd testing services
+01629,Herd testing services
 46330,Herring oil (wholesale)
 10410,Herring oil refining (manufacture)
 46380,Herrings (wholesale)
@@ -6475,7 +6475,7 @@
 81299,Highway cleaning of snow and ice
 42110,Highway construction
 25720,Hinge (manufacture)
-1430,Hinny farming and breeding
+01430,Hinny farming and breeding
 64921,Hire purchase company (other than in banks' sector)
 94990,Historical club
 91020,Historical museums
@@ -6537,19 +6537,19 @@
 28930,Homogenisers (manufacture)
 23910,Hones (bonded) (manufacture)
 46380,Honey (wholesale)
-1490,Honey and beeswax production
-1490,Honey processing and packing
+01490,Honey and beeswax production
+01490,Honey processing and packing
 28410,Honing machine (metal cutting) (manufacture)
 25990,Hook and eye (manufacture)
 30200,Hooks and coupling devices (manufacture)
 16240,Hoops made of wood (manufacture)
-2100,Hoopwood production
+02100,Hoopwood production
 10110,Hooves from knackers production (manufacture)
 11070,Hop bitters (manufacture)
-1280,Hop cones growing
+01280,Hop cones growing
 10890,Hop extracts (manufacture)
 46210,Hops (wholesale)
-9100,Horizontal drilling services
+09100,Horizontal drilling services
 21200,Hormonal contraceptive medicaments (manufacture)
 21100,Hormone (not plant hormone) (manufacture)
 46180,Hormones and their derivatives (commission agent)
@@ -6560,12 +6560,12 @@
 29310,Horns for motor vehicle (electric) (manufacture)
 29202,Horse box trailers (manufacture)
 94990,Horse breeding associations
-2300,Horse chestnut gathering
+02300,Horse chestnut gathering
 96090,Horse clipping
 15120,Horse collars made of leather (manufacture)
 30990,Horse drawn trailer (manufacture)
 30990,Horse drawn truck (manufacture)
-1430,Horse farming and breeding
+01430,Horse farming and breeding
 92000,Horse race betting levy board
 93199,Horse training (racehorse)
 15120,Horse whips (manufacture)
@@ -6661,7 +6661,7 @@
 55100,Hotel (licensed with restaurant)
 55100,Hotel (unlicensed with restaurant)
 55100,Hotel without restaurant
-9100,Hot-tap operation services
+09100,Hot-tap operation services
 68310,House agent
 41202,House building and repairing
 47599,House furnisher (retail)
@@ -6717,15 +6717,15 @@
 93199,Hunt stables
 94990,Hunting and trapping (commercial) promotion activities
 93199,Hunting for sport or recreation
-1700,Hunting or trapping of animals for food
-1700,Hunting or trapping of animals for fur
-1700,Hunting or trapping of animals for pets
-1700,Hunting or trapping of animals for skin
-1700,Hunting or trapping of animals for use in research
-1700,Hunting or trapping of animals for use in zoos
+01700,Hunting or trapping of animals for food
+01700,Hunting or trapping of animals for fur
+01700,Hunting or trapping of animals for pets
+01700,Hunting or trapping of animals for skin
+01700,Hunting or trapping of animals for use in research
+01700,Hunting or trapping of animals for use in zoos
 32300,Hunting requisites (manufacture)
 84130,Hunting services administration and regulation (public sector)
-1700,"Hunting, trapping and related service activities"
+01700,"Hunting, trapping and related service activities"
 16290,Hurdles made of wood (manufacture)
 16230,Huts made of wood (manufacture)
 26200,Hybrid computer (manufacture)
@@ -6777,7 +6777,7 @@
 46342,"Hydroalcoholic solution, undenatured, containing by volume less than 80% ethyl alcohol (wholesale)"
 46120,Hydrocarbon derivatives (commission agent)
 20140,"Hydrocarbon derivatives (sulphated, nitrated or nitrosated) (manufacture)"
-6200,"Hydrocarbon liquids mining, by liquefaction or pyrolysis"
+06200,"Hydrocarbon liquids mining, by liquefaction or pyrolysis"
 20140,Hydrocarbons (not fuels) (manufacture)
 20130,Hydrochloric acid (manufacture)
 30110,Hydrofoil (manufacture)
@@ -6807,7 +6807,7 @@
 23190,Hygienic glassware (other than containers) (manufacture)
 17120,Hygienic paper (uncut) (manufacture)
 32500,Hyperbaric chambers (manufacture)
-9100,Hyperbaric welding services
+09100,Hyperbaric welding services
 47110,Hypermarket selling mainly foodstuffs with alcohol licence (retail)
 47110,Hypermarket selling mainly foodstuffs without alcohol licence (retail)
 46750,"Hypochlorites, chlorates and perchlorates (wholesale)"
@@ -6829,7 +6829,7 @@
 93110,Ice-hockey arenas operation
 32300,Ice-skates (manufacture)
 10810,Icing sugar (manufacture)
-8110,Igneous rock quarry
+08110,Igneous rock quarry
 29310,Ignition coil (manufacture)
 29310,Ignition equipment (other than coils and magnetos) (manufacture)
 29310,Ignition magnetos (manufacture)
@@ -7005,7 +7005,7 @@
 20130,Inorganic chemical (manufacture)
 20130,Inorganic compounds (manufacture)
 80300,Inquiry agency
-1490,Insect raising
+01490,Insect raising
 20200,Insecticide (manufacture)
 46750,Insecticides (wholesale)
 46120,"Insecticides, herbicides, plant growth regulators and anti-sprouting products (commission agent)"
@@ -7308,16 +7308,16 @@
 46720,Iron (wholesale)
 24510,Iron foundry (manufacture)
 24100,Iron of exceptional purity production by electrolysis or other chemical processes (manufacture)
-7100,Iron ore beneficiation and agglomeration
-7100,Iron ore calcining
-7100,Iron ore crushing
-7100,Iron ore mine or quarry
-9900,Iron ore mining support services provided on a fee or contract basis
-7100,Iron ore preparation
-7100,Iron ore sintering
-7100,Iron ore washing
+07100,Iron ore beneficiation and agglomeration
+07100,Iron ore calcining
+07100,Iron ore crushing
+07100,Iron ore mine or quarry
+09900,Iron ore mining support services provided on a fee or contract basis
+07100,Iron ore preparation
+07100,Iron ore sintering
+07100,Iron ore washing
 24100,Iron powder production (manufacture)
-8910,Iron pyrites extraction (not for iron production)
+08910,Iron pyrites extraction (not for iron production)
 20130,Iron pyrites roasting (manufacture)
 28921,Iron roughnecks (manufacture)
 24100,Iron shot (manufacture)
@@ -7329,7 +7329,7 @@
 46150,Ironmongery (commission agent)
 26600,Irradiation equipment (manufacture)
 42210,Irrigation system construction
-1610,Irrigation systems operation on a fee or contract basis
+01610,Irrigation systems operation on a fee or contract basis
 20590,Isinglass (manufacture)
 20110,Isolating gases (manufacture)
 86101,Isolation hospital (public sector)
@@ -7362,9 +7362,9 @@
 10390,Jelly powder (manufacture)
 22220,Jerry can made of plastic (manufacture)
 14390,Jerseys (knitted) (manufacture)
-1130,Jerusalem artichoke growing
+01130,Jerusalem artichoke growing
 30300,Jet engine (manufacture)
-8990,Jet mine
+08990,Jet mine
 32120,Jet ornaments and jewellery (manufacture)
 28120,Jet pump (manufacture)
 23410,Jet ware (pottery) (manufacture)
@@ -7427,7 +7427,7 @@
 13200,Jute sacking (manufacture)
 13100,Jute sorting (manufacture)
 13100,Jute spinning (manufacture)
-1160,Jute textile bast fibre growing
+01160,Jute textile bast fibre growing
 13100,Jute tow (manufacture)
 13200,Jute weaving (manufacture)
 13100,Jute winding (manufacture)
@@ -7435,7 +7435,7 @@
 87900,Juvenile correction homes (charitable)
 87900,Juvenile correction homes (non-charitable)
 47710,Juvenile outfitter (retail)
-8120,Kaolin mining
+08120,Kaolin mining
 10410,Kapok seed crushing (manufacture)
 10410,Kapok seed oil refining (manufacture)
 13100,Kapok willowing (manufacture)
@@ -7449,8 +7449,8 @@
 25910,Kegs made of iron or steel (manufacture)
 22220,Kegs made of plastic (manufacture)
 16240,Kegs made of wood (manufacture)
-3110,"Kelp collecting, cutting and gathering (uncultivated)"
-1160,Kenaf and other textile bast fibre growing
+03110,"Kelp collecting, cutting and gathering (uncultivated)"
+01160,Kenaf and other textile bast fibre growing
 93199,Kennel master
 96090,Kennels (not racing)
 93199,Kennels and garages (racing)
@@ -7493,7 +7493,7 @@
 77299,Kitchenware rental and leasing
 30300,Kite (not toy) (manufacture)
 46160,"Kits for embroidery, etc (commission agent)"
-1250,Kiwi fruit growing
+01250,Kiwi fruit growing
 26110,Klystron (manufacture)
 14142,Knickers (manufacture)
 25710,Knife (cutlery) (manufacture)
@@ -7580,7 +7580,7 @@
 94200,Labour organisations
 94920,Labour party
 78109,Labour recruitment
-2300,Lac gathering
+02300,Lac gathering
 13990,Lace (manufacture)
 13990,"Lace and embroidery in the piece, in strips or in motifs (manufacture)"
 13990,Lace bleaching (not on commission) (manufacture)
@@ -7716,8 +7716,8 @@
 46690,Laundry-type washing and dry-cleaning machines (wholesale)
 22230,Lavatory pans made of plastic (manufacture)
 13923,Lavatory seat cover (manufacture)
-3210,Laver gathering (cultivated)
-3210,Laver growing
+03210,Laver gathering (cultivated)
+03210,Laver growing
 69109,Law agent
 84240,Law and order administration and operation
 85421,Law college
@@ -7744,14 +7744,14 @@
 46720,Lead (wholesale)
 27200,Lead acid batteries (manufacture)
 24100,Lead coated steel sheet (manufacture)
-7290,Lead mining and preparation
-7290,Lead ore and concentrate extraction and preparation
+07290,Lead mining and preparation
+07290,Lead ore and concentrate extraction and preparation
 20301,Lead paint (manufacture)
 24430,Lead wire made by drawing (manufacture)
 23190,Leaded light (manufacture)
 25930,Leaf springs (manufacture)
 58110,Leaflet publishing
-1130,Leafy or stem vegetables growing
+01130,Leafy or stem vegetables growing
 71200,Leak testing and flow monitoring activities
 58141,Learned journal publishing
 94120,Learned societies
@@ -7790,7 +7790,7 @@
 25930,Leaves for springs (manufacture)
 31010,Lectern (manufacture)
 90010,Lecturers
-1130,Leek growing
+01130,Leek growing
 25990,Left luggage lockers (manufacture)
 69109,Legal activities n.e.c.
 94990,Legal Aid Society
@@ -7802,11 +7802,11 @@
 99000,Legation
 15200,Leggings and gaiters made of cloth (manufacture)
 15200,Leggings made of leather (manufacture)
-1110,Leguminous crops growing
+01110,Leguminous crops growing
 82990,Leisure activities gift experience package administration
 93110,Leisure centres
 30120,Leisure craft made of rubber (manufacture)
-1230,Lemon growing
+01230,Lemon growing
 11070,Lemonade powder (manufacture)
 11070,Lemonade production (manufacture)
 91011,"Lending and storage of books, periodicals"
@@ -7818,7 +7818,7 @@
 32500,Lens (unmounted) (manufacture)
 23190,Lens made of coloured glass for rail and road signals (not optically worked) (manufacture)
 26701,Lenses (except ophthalmic) (manufacture)
-1110,Lentil growing
+01110,Lentil growing
 10612,"Lentil splitting, grinding or milling (manufacture)"
 86101,Leprosaria (public sector)
 52219,Lessee of tolls
@@ -7830,7 +7830,7 @@
 18129,Letterpress printing (manufacture)
 28990,Letterpress printing machine (manufacture)
 58190,Letterpress publishing
-1130,Lettuce growing
+01130,Lettuce growing
 30200,Level crossing control gear (manufacture)
 26511,Level gauges (electronic) (manufacture)
 26513,Level gauges (non-electronic) (manufacture)
@@ -7854,7 +7854,7 @@
 56302,Licensed victualler (managed)
 56302,Licensed victualler (tenanted)
 58290,"Licensing for the right to reproduce, distribute and use computer software"
-2300,Lichen gathering
+02300,Lichen gathering
 65110,Life assurance
 65201,Life re-insurance
 72190,Life sciences research and experimental development (other than biotechnological)
@@ -7908,24 +7908,24 @@
 52220,Lightship
 30110,Lightship (manufacture)
 14132,Lightweight jackets for women and girls (manufacture)
-5200,Lignite (brown coal) mining including mining through liquefaction methods
+05200,Lignite (brown coal) mining including mining through liquefaction methods
 19201,Lignite fuel briquettes (manufacture)
-5200,Lignite mining
-9900,Lignite mining support services provided on a fee or contract basis
+05200,Lignite mining
+09900,Lignite mining support services provided on a fee or contract basis
 46120,Lignite or peat (commission agent)
 19100,Lignite tars production (manufacture)
-5200,"Lignite washing, dehydrating, pulverising etc. To improve quality or facilitate transport or storage"
+05200,"Lignite washing, dehydrating, pulverising etc. To improve quality or facilitate transport or storage"
 86900,Limb fitting centre
 20150,Lime (ammonium nitrate) (manufacture)
 23520,Lime (manufacture)
-1230,Lime growing
+01230,Lime growing
 28210,Lime processing kiln (manufacture)
 23700,Limestone (ground) (manufacture)
 46730,Limestone (wholesale)
-8110,Limestone including dolomite mine or quarry
-8110,"Limestone quarrying, crushing and breaking for constructional purposes"
+08110,Limestone including dolomite mine or quarry
+08110,"Limestone quarrying, crushing and breaking for constructional purposes"
 23700,Limestone working (manufacture)
-9900,"Limestone, gypsum and chalk quarrying support services provided on a fee or contract basis"
+09900,"Limestone, gypsum and chalk quarrying support services provided on a fee or contract basis"
 25940,Linchpin (manufacture)
 17240,Lincrusta (manufacture)
 26301,"Line apparatus (carrier, duplex and repeater) (manufacture)"
@@ -7956,12 +7956,12 @@
 46730,Linoleum (wholesale)
 43330,Linoleum laying
 10410,Linseed crushing (manufacture)
-1110,Linseed growing
+01110,Linseed growing
 10410,Linseed oil production (manufacture)
 10410,Linseed oil refining (manufacture)
 46180,Lip make-up and eye make-up preparations (commission agent)
 20420,Lipstick (manufacture)
-9100,Liquefaction and regasification of natural gas for transport
+09100,Liquefaction and regasification of natural gas for transport
 46120,Liquefied gas for motor purposes (commission agent)
 20110,Liquefied or compressed industrial gases (manufacture)
 20110,Liquefied or compressed industrial or medical refrigerant gases (manufacture)
@@ -7987,7 +7987,7 @@
 47789,Liquid filled thermometer (non-medical) for direct reading (retail)
 46690,Liquid filled thermometer (non-medical) for direct reading (wholesale)
 46719,Liquid fuels (other than petroleum) (wholesale)
-6200,Liquid hydrocarbon fractions draining and separation
+06200,Liquid hydrocarbon fractions draining and separation
 20301,Liquid lustres (manufacture)
 20110,Liquid or compressed air (manufacture)
 46499,Liquid or liquefied-gas fuels for lighters in containers (300cc or more) (wholesale)
@@ -8028,19 +8028,19 @@
 26120,Loaded electronic boards (manufacture)
 26120,Loaded printed circuit boards (manufacture)
 28921,Loader for mining (manufacture)
-52243,Loading and unloading of freight railway cars
+52243 ,Loading and unloading of freight railway cars
 52242,Loading and unloading of goods travelling via air transport
-52243,Loading and unloading of goods travelling via rail transportation
+52243 ,Loading and unloading of goods travelling via rail transportation
 52241,Loading and unloading of goods travelling via water transport
 52242,Loading and unloading of passengers' luggage travelling via air transport
 52241,Loading and unloading of passengers' luggage travelling via water transport
-52243,Loading and unloading passengers' luggage travelling via rail transportation
+52243 ,Loading and unloading passengers' luggage travelling via rail transportation
 28922,Loading shovel (manufacture)
 13940,Loading slings (manufacture)
 64921,Loan company (other than in banks' sector)
 70210,Lobbying activities
 28131,Lobe pump (manufacture)
-3210,"Lobsterling production, marine"
+03210,"Lobsterling production, marine"
 91020,Local authority art galleries and museums
 96040,Local authority baths (hot water and sauna)
 52220,Local authority canal services
@@ -8098,16 +8098,16 @@
 30200,Locomotive (manufacture)
 30200,Locomotive parts and accessories (manufacture)
 46690,Locomotives (wholesale)
-1250,Locust bean growing
+01250,Locust bean growing
 94990,Lodge activities
 55900,Lodging house (private)
 28490,Log decorticators (manufacture)
 16100,Log sawing (manufacture)
 16100,"Log slicing, peeling or chipping (manufacture)"
-2400,Log transport within the forest
-1250,Loganberry growing
+02400,Log transport within the forest
+01250,Loganberry growing
 46730,Logged timber (wholesale)
-2200,Logging
+02200,Logging
 91020,London Museum
 28940,Loom (manufacture)
 16290,Loom made of wood (manufacture)
@@ -8157,7 +8157,7 @@
 56101,Luncheon bar (licensed)
 56290,Luncheon club
 82990,Luncheon voucher company
-1110,Lupin growing
+01110,Lupin growing
 20130,Lyes (manufacture)
 90030,Lyric author
 46460,Lysine and glutamic acid and salts thereof (wholesale)
@@ -8220,11 +8220,11 @@
 58142,Magazine publishing
 46499,Magazines (wholesale)
 77299,Magazines rental
-1490,Maggot breeding
+01490,Maggot breeding
 84230,Magistrates' court
 23200,Magnesite chrome shape (manufacture)
 24450,Magnesium (manufacture)
-8910,Magnesium sulphates (natural kieserite) mining
+08910,Magnesium sulphates (natural kieserite) mining
 26800,Magnetic card (manufacture)
 26200,Magnetic card readers (manufacture)
 26200,Magnetic card storage units (manufacture)
@@ -8281,15 +8281,15 @@
 68320,Management of co-owned dwelling facilities (own account)
 85320,Management training establishment
 93110,Managing and providing the staff for sports facilities
-1230,Mandarin growing
+01230,Mandarin growing
 24450,Manganese alloys (manufacture)
 27200,Manganese dioxide cells (manufacture)
-7290,Manganese mining and preparation
+07290,Manganese mining and preparation
 20120,Manganese oxide (manufacture)
 24450,Manganese production and refining (manufacture)
 24450,Manganese wire made by drawing (manufacture)
-1220,Mango growing
-1190,Mangold growing
+01220,Mango growing
+01190,Mangold growing
 22230,Manhole or access covers made of plastic (manufacture)
 46180,Manicure and pedicure preparations (commission agent)
 20420,Manicure and pedicure preparations (manufacture)
@@ -8342,22 +8342,22 @@
 10810,Maple syrup (manufacture)
 46730,Marble (wholesale)
 23700,Marble masonry working (manufacture)
-8110,Marble quarrying (rough trimming and sawing)
+08110,Marble quarrying (rough trimming and sawing)
 23190,Marbles made of glass (manufacture)
 10420,Margarine (manufacture)
 46330,Margarine (wholesale)
 42910,Marina construction
 10410,Marine animal crude oil and fat production (manufacture)
-3210,Marine aquaculture
+03210,Marine aquaculture
 52220,Marine cargo lighterage
 52220,Marine cargo superintendent
 71200,Marine cargo surveyor
 74909,Marine consultant (other than environmental consultancy)
-3110,Marine crustacean and mollusc gathering
+03110,Marine crustacean and mollusc gathering
 19201,Marine diesel oil (manufacture)
 84250,Marine fireboat services
-3110,Marine fishing
-3110,Marine fishing vessels engaged in processing and preserving of fish
+03110,Marine fishing
+03110,Marine fishing vessels engaged in processing and preserving of fish
 65120,Marine insurance
 71200,Marine insurance survey activities
 28110,Marine non-propulsion engines (manufacture)
@@ -8382,7 +8382,7 @@
 73110,Marketing campaigns
 70229,Marketing management consultancy activities
 20590,Marking ink (manufacture)
-8110,Marl mining
+08110,Marl mining
 10390,Marmalade (manufacture)
 13922,Marquee (manufacture)
 77390,Marquee hire
@@ -8415,7 +8415,7 @@
 20510,Match (manufacture)
 46499,Matches (wholesale)
 25730,Matchet (manufacture)
-1270,Maté growing
+01270,Maté growing
 46210,"Materials, residues and by-products used as animal feed (wholesale)"
 86900,Maternity clinic
 86101,Maternity hospital (private sector)
@@ -8560,7 +8560,7 @@
 20140,Melamine (manufacture)
 20160,Melamine resins (manufacture)
 10420,Melanges and similar spreads (manufacture)
-1130,Melon growing
+01130,Melon growing
 28210,Melting furnace (manufacture)
 94990,Membership organisations n.e.c.
 26200,Memory store for computers (manufacture)
@@ -8672,7 +8672,7 @@
 26513,Meters for petrol pumps (non-electronic) (manufacture)
 26511,Meters for water (electronic) (manufacture)
 26513,Meters for water (non-electronic) (manufacture)
-6200,Methane extraction from natural gas
+06200,Methane extraction from natural gas
 20140,Methanol (manufacture)
 46750,Methanol (wholesale)
 94910,Methodist Church
@@ -8682,7 +8682,7 @@
 84240,Metropolitan Police Commissioners Office
 49319,"Metropolitan scheduled passenger land transport other than underground, metro and similar systems"
 23990,Mica goods (manufacture)
-8990,Mica mining and quarrying
+08990,Mica mining and quarrying
 23990,Mica slab and sheet processing (manufacture)
 26200,"Mice, joysticks and trackballs (manufacture)"
 21100,"Microbiological cultures, toxins, etc. (manufacture)"
@@ -8751,7 +8751,7 @@
 47990,Milkman (not farmer) (retail)
 17120,Mill board (manufacture)
 23990,Millboard made of asbestos (manufacture)
-1110,Millet growing
+01110,Millet growing
 46420,Millinery (wholesale)
 47710,Millinery dealer (retail)
 46420,Millinery importer (wholesale)
@@ -8794,13 +8794,13 @@
 45112,Minibuses with a weight not exceeding 3.5 tonnes (used) (retail)
 45112,Minibuses with a weight not exceeding 3.5 tonnes (used) (wholesale)
 26200,Mini-computers (manufacture)
-9900,"Mining and quarrying of residual class 08990, support services provided on a fee or contract basis"
+09900,"Mining and quarrying of residual class 08990, support services provided on a fee or contract basis"
 71129,Mining engineering design projects
 77390,Mining equipment rental and operating leasing
 30200,Mining locomotives and mining rail cars (manufacture)
 28921,Mining machinery (manufacture)
 46630,Mining machinery and equipment (wholesale)
-7290,Mining of non-ferrous metal ore
+07290,Mining of non-ferrous metal ore
 72190,Mining research establishment
 84130,Mining services administration and regulation (public sector)
 43120,Mining site preparation and overburden removal
@@ -8821,7 +8821,7 @@
 26513,Mitre (manufacture)
 11030,Mixed beverages containing fruit wines (manufacture)
 47190,Mixed business retailing both food and non food goods but non-food predominating (retail)
-1500,Mixed farming
+01500,Mixed farming
 20110,Mixed industrial gases (manufacture)
 28960,Mixing machine for working rubber or plastic (manufacture)
 29202,Mobile bank (not self propelled) (manufacture)
@@ -8861,18 +8861,18 @@
 13200,Mohair worsted weaving (manufacture)
 10910,Molassed feeding stuff containing more than 30% molasses (manufacture)
 10810,Molasses (manufacture)
-1610,Mole catching contractors on agricultural land
+01610,Mole catching contractors on agricultural land
 28921,Moles for mining (manufacture)
 14200,Moleskin finishing (manufacture)
-1490,"Mollusc farming, except aquatic molluscs"
+01490,"Mollusc farming, except aquatic molluscs"
 10200,Mollusc preservation (other than by freezing) (manufacture)
 10200,Mollusc preservation by freezing (manufacture)
 20200,Molluscicides (manufacture)
 47230,Molluscs (retail)
-3210,Molluscs and other aquatic animals cultured in sea water
+03210,Molluscs and other aquatic animals cultured in sea water
 46380,Molluscs distribution (wholesale)
 24450,Molybdenum (manufacture)
-7290,Molybdenum mining and preparation
+07290,Molybdenum mining and preparation
 94910,Monastery
 66120,Money changer
 64921,Money lender
@@ -8921,7 +8921,7 @@
 23190,Mosaic cubes made of glass (manufacture)
 23310,Mosaic glazed tiles (manufacture)
 94910,Mosque
-2300,Moss gathering
+02300,Moss gathering
 23990,Moss litter (manufacture)
 46760,Moss litter (wholesale)
 71200,MOT testing station
@@ -9046,12 +9046,12 @@
 28220,Moving walkways (manufacture)
 28302,Mowers for agricultural use (manufacture)
 28302,"Mowers for lawns, parks and sports grounds (manufacture)"
-9100,Mud logging services
+09100,Mud logging services
 28921,Mudline suspension and tie-back equipment (manufacture)
 23200,Muffles (refractory product) (manufacture)
 14200,Muffs made of fur (manufacture)
-1250,Mulberry growing
-1430,Mule farming and breeding
+01250,Mulberry growing
+01430,Mule farming and breeding
 46150,Multi parameter monitors (including their portable versions) for monitoring patients viatal signs (commission agent)
 26400,Multi parameter monitors (including their portable versions) for monitoring patients viatal signs (manufacture)
 46439,Multi parameter monitors (including their portable versions) for monitoring patients viatal signs (wholesale)
@@ -9062,7 +9062,7 @@
 82190,Multigraphing
 17120,Multi-layer paper obtained by compression (manufacture)
 23120,Multiple insulating glass (manufacture)
-23120,Multiple-walled insulating units of glass (manufacture)
+23120 ,Multiple-walled insulating units of glass (manufacture)
 26301,Multiplexers for telephone exchanges (manufacture)
 84130,Multipurpose development project services administration (public sector)
 17211,Multi-wall paper sack (manufacture)
@@ -9071,9 +9071,9 @@
 91020,Museums of all kinds
 91020,"Museums of furniture, costumes, ceramics, silverware"
 91020,Museums of jewellery
-2300,Mushroom (wild) gathering
-1130,Mushroom growing (cultivated)
-1300,Mushroom spawn growing
+02300,Mushroom (wild) gathering
+01130,Mushroom growing (cultivated)
+01300,Mushroom spawn growing
 47210,Mushrooms (retail)
 46310,Mushrooms (wholesale)
 59200,Music (printed) publishing
@@ -9110,15 +9110,15 @@
 13300,Muslin gassing (manufacture)
 13300,Muslin mending (manufacture)
 13200,Muslin weaving (manufacture)
-3110,Mussel gathering
-3220,"Mussel production, freshwater"
-3210,"Mussel production, marine"
+03110,Mussel gathering
+03220,"Mussel production, freshwater"
+03210,"Mussel production, marine"
 10840,Mustard (manufacture)
 10840,Mustard flour and meal (manufacture)
 10410,Mustard oil production (manufacture)
 28930,Mustard processing machine (manufacture)
 10410,Mustard seed crushing (manufacture)
-1110,Mustard seed growing
+01110,Mustard seed growing
 66300,Mutual funds management
 32500,Myograph (manufacture)
 56290,NAAFI canteen
@@ -9158,18 +9158,18 @@
 94990,National trust (the)
 91020,National trust garden (property)
 94990,National union of students (not trading activities)
-8910,Native sulphur mining
+08910,Native sulphur mining
 46180,"Natural cork in plates, sheets, strips, crushed, granulated or ground (commission agent)"
 72190,Natural environment research council
 35220,Natural gas booster/compression station
-6200,Natural gas condensates separation
+06200,Natural gas condensates separation
 35220,Natural gas distribution
 71122,Natural gas exploration
-6200,Natural gas production well
+06200,Natural gas production well
 35220,Natural gas storage
 91020,Natural history museum
 20530,Natural material used in flavours or perfumes (manufacture)
-3110,Natural pearls gathering of
+03110,Natural pearls gathering of
 72190,Natural sciences research and experimental development (other than biotechnological)
 32990,Natural sponge preparation (manufacture)
 46120,Natural uranium and plutonium and their compounds (commission agent)
@@ -9187,7 +9187,7 @@
 10410,Neatsfoot oil (manufacture)
 14190,Necktie (manufacture)
 14190,Neckwear for women (manufacture)
-1240,Nectarine growing
+01240,Nectarine growing
 28150,Needle roller bearings (manufacture)
 28140,Needle valves (manufacture)
 13990,Needlefelt (other than carpet underlay) (manufacture)
@@ -9237,10 +9237,10 @@
 27200,NiCad batteries (manufacture)
 24450,Nickel (manufacture)
 24450,Nickel alloys (manufacture)
-7290,Nickel mining and preparation
+07290,Nickel mining and preparation
 24440,Nickel silver (manufacture)
 24450,Nickel wire made by drawing (manufacture)
-1110,Niger seed growing
+01110,Niger seed growing
 25990,Night safe (manufacture)
 56301,Night-clubs (licensed to sell alcohol)
 14142,Night-dresses for women and girls (manufacture)
@@ -9289,9 +9289,9 @@
 27400,Non-electrical lighting equipment (manufacture)
 28290,Non-electrical welding and soldering equipment (manufacture)
 24540,Non-ferrous metal foundry (manufacture)
-9900,"Non-ferrous metal ore mining of class 07290, support services provided on a fee or contract basis"
-7290,Non-ferrous metal ore quarrying
-7290,Non-ferrous metal ores mining and preparation
+09900,"Non-ferrous metal ore mining of class 07290, support services provided on a fee or contract basis"
+07290,Non-ferrous metal ore quarrying
+07290,Non-ferrous metal ores mining and preparation
 24450,Non-ferrous other metals production (manufacture)
 46180,Non-invasive ventilation (NIV) full-face and oronasal masks (commission agent)
 32500,Non-invasive ventilation (NIV) full-face and oronasal masks (manufacture)
@@ -9309,7 +9309,7 @@
 47990,Non-store auctions (retail)
 47990,Non-store commission agents (retail)
 20160,Non-vulcanisable thermoplastic elastomers (manufacture)
-2300,"Non-wood products, gathering from the wild"
+02300,"Non-wood products, gathering from the wild"
 13950,Non-woven bonded fibre fabrics (manufacture)
 22220,Non-woven liners made of polyethylene (manufacture)
 22220,Non-woven sacks made of polyethylene (manufacture)
@@ -9344,7 +9344,7 @@
 47789,Numismatist (retail)
 14120,Nuns' clothing (manufacture)
 86900,Nurse (private)
-1300,Nursery (horticulture)
+01300,Nursery (horticulture)
 32300,Nursery play equipment (manufacture)
 85100,Nursery schools
 13923,Nursery square (manufacture)
@@ -9363,22 +9363,22 @@
 10390,Nut processing and preservation (except in sugar) (manufacture)
 28930,Nut processing machines and equipment (manufacture)
 10390,"Nut shelling, grinding and preparing (manufacture)"
-1280,"Nutmeg, mace and cardamoms growing"
+01280,"Nutmeg, mace and cardamoms growing"
 10390,Nuts preserved by freezing (manufacture)
-2300,"Nuts, gathering from the wild"
+02300,"Nuts, gathering from the wild"
 21100,O-acetylsalicylic acids (manufacture)
 10720,Oat cake (manufacture)
 10611,Oat flour and meal (manufacture)
 10611,"Oat grinding, rolling, crushing or flaking (manufacture)"
 10611,Oats (manufacture)
-1110,Oats growing
+01110,Oats growing
 26701,Observation telescopes (manufacture)
 88100,Mental health occupation and training centre  (non-charitable)
 88100,Mental health Occupation and training centres  (charitable)
 86900,Occupational therapist (private)
 26511,Oceanographic or hydrological instruments (electronic) (manufacture)
 26513,Oceanographic or hydrological instruments (non-electronic) (manufacture)
-8910,Ochre pit
+08910,Ochre pit
 20120,Ochres (pigments) (manufacture)
 20530,Odoriferous products (manufacture)
 47250,Off licence (not public house) (retail)
@@ -9429,21 +9429,21 @@
 26513,Ohmmeter (manufacture)
 10410,Oil (edible) (manufacture)
 20590,Oil additive (manufacture)
-9100,"Oil and gas exploration in connection with oil and gas extraction, including traditional prospecting"
-9100,Oil and gas extraction service activities provided on a fee or contract basis
-9100,Oil and gas field fire fighting services
-9100,"Oil and gas well casing, cementing, tubing and lining services"
-9100,Oil and gas well cementing services
-9100,Oil and gas well coiled-tubing wellwork
-9100,Oil and gas well conductor driving services
-9100,"Oil and gas well cutting, casing and abandonment services"
-9100,Oil and gas well pipe refurbishment services
-9100,Oil and gas well sleeving repair services
+09100,"Oil and gas exploration in connection with oil and gas extraction, including traditional prospecting"
+09100,Oil and gas extraction service activities provided on a fee or contract basis
+09100,Oil and gas field fire fighting services
+09100,"Oil and gas well casing, cementing, tubing and lining services"
+09100,Oil and gas well cementing services
+09100,Oil and gas well coiled-tubing wellwork
+09100,Oil and gas well conductor driving services
+09100,"Oil and gas well cutting, casing and abandonment services"
+09100,Oil and gas well pipe refurbishment services
+09100,Oil and gas well sleeving repair services
 19209,Oil based lubricating oils (manufacture)
 23990,Oil based sealants (manufacture)
 46210,Oil cake (wholesale)
 20411,Oil dispersant (manufacture)
-9100,Oil extraction service activities
+09100,Oil extraction service activities
 77390,Oil field equipment rental and operating leasing
 28290,Oil filter for motor vehicle (manufacture)
 28210,Oil fuel burner (manufacture)
@@ -9451,25 +9451,25 @@
 47789,Oil merchant (retail)
 46719,Oil merchant (wholesale)
 10410,Oil nut meal production (manufacture)
-1260,Oil palms growing
+01260,Oil palms growing
 49500,Oil pipeline terminal operating (for petroleum)
 30110,Oil platform fabrication of steel plate (manufacture)
-6100,Oil platform operation
+06100,Oil platform operation
 30110,Oil platform structural sections (manufacture)
 43999,Oil production platform (fixed concrete or composite steel/concrete) construction
-6100,Oil production well or platform operating
+06100,Oil production well or platform operating
 19201,Oil refinery (manufacture)
 28290,Oil refining industry machinery (other than plant) (manufacture)
 10410,Oil seed cake and meal (manufacture)
 10410,Oil seed crushing (manufacture)
 46210,Oil seeds (wholesale)
-1110,Oil seeds growing
-6100,Oil shale mine
-6100,Oil shale retorting
+01110,Oil seeds growing
+06100,Oil shale mine
+06100,Oil shale retorting
 39000,Oil spill clearance on land
 39000,Oil spill pollution control services
 39000,"Oil spills at sea containment, dispersion and clean up services"
-6100,Oil stabilisation plant operation
+06100,Oil stabilisation plant operation
 25290,Oil storage tank made of metal for domestic use exceeding 300 litres (manufacture)
 46120,Oil trading (commodity broking) (commission agent)
 10410,Oilcakes and other residual products of oil production (manufacture)
@@ -9488,7 +9488,7 @@
 20140,Oleine (manufacture)
 20301,Oleo resinous paint (manufacture)
 10410,Oleo stearin (manufacture)
-1260,Olive growing
+01260,Olive growing
 10410,Olive oil (crude) production (manufacture)
 10410,Olive oil from self produced olives (if value of production exceeds that of growing) (manufacture)
 10410,Olive oil refining (manufacture)
@@ -9497,7 +9497,7 @@
 45200,Omnibus repair depot
 49319,Omnibus service
 74203,One hour photo shop (not part of camera shop)
-1130,Onion growing
+01130,Onion growing
 58190,On-line advertising material publishing
 58110,On-line book publishing
 58190,On-line catalogue publishing
@@ -9522,9 +9522,9 @@
 85590,Open and Distance Learning Quality Council
 24330,Open sections made of steel formed on a roll mill (manufacture)
 85421,Open University
-5102,Opencast coal disposal point
-5102,Opencast coal site
-5102,Opencast coal working
+05102,Opencast coal disposal point
+05102,Opencast coal site
+05102,Opencast coal working
 64304,Open-ended investment companies
 90040,Opera house
 90010,Opera production
@@ -9585,7 +9585,7 @@
 21200,Oral contraceptives (manufacture)
 20420,Oral hygiene preparations (manufacture)
 86230,Oral pathology
-1230,Orange growing
+01230,Orange growing
 11070,Orangeade production (manufacture)
 30300,Orbital stations (manufacture)
 90010,Orchestras
@@ -9612,14 +9612,14 @@
 20140,Organo-sulphur compounds (manufacture)
 47789,Oriental goods (retail)
 16210,Oriented strand board (OSB) and other particle board (manufacture)
-9900,Ornamental and building stone quarrying support services provided on a fee or contract basis
-8110,"Ornamental and building stone, breaking and crushing"
+09900,Ornamental and building stone quarrying support services provided on a fee or contract basis
+08110,"Ornamental and building stone, breaking and crushing"
 13960,Ornamental braids (manufacture)
 23410,Ornamental ceramic ware (manufacture)
 23310,Ornamental earthenware glazed tiles (manufacture)
-3220,"Ornamental fish farming, freshwater"
-3210,"Ornamental fish farming, marine"
-1300,Ornamental tree and shrub growing
+03220,"Ornamental fish farming, freshwater"
+03210,"Ornamental fish farming, marine"
+01300,Ornamental tree and shrub growing
 13960,Ornamental trimmings (manufacture)
 43390,Ornamentation fitting work
 22290,Ornaments made of plastic (manufacture)
@@ -9638,12 +9638,12 @@
 32500,Orthopedic and prosthetic devices (manufacture)
 26511,Oscilloscope (manufacture)
 16290,Osier articles (manufacture)
-2100,Osier growing for fuel
+02100,Osier growing for fuel
 16290,Osier preparation (manufacture)
 25110,Ossature in metal for construction (manufacture)
 86900,Osteopath (not registered medical practitioner)
 86220,Osteopath (registered medical practitioner)
-1490,Ostriches raising and breeding
+01490,Ostriches raising and breeding
 85590,Other adult and other education n.e.c.
 24100,Other alloy steel (manufacture)
 46160,"Other garments, knitted or crocheted (commission agent)"
@@ -9663,7 +9663,7 @@
 46180,Other therapeutic respiration apparatus (commission agent)
 32500,Other therapeutic respiration apparatus (Manufacture) 
 46460,Other therapeutic respiration apparatus (wholesale)
-1220,Other tropical and subtropical fruit growing
+01220,Other tropical and subtropical fruit growing
 31090,Ottoman (manufacture)
 82200,Outbound call centres
 27400,Outdoor and road lighting (manufacture)
@@ -9722,12 +9722,12 @@
 20140,Oxygen-function compounds (dual or poly) (manufacture)
 20140,Oxygen-function compounds including aldehydes (manufacture)
 56101,Oyster bar (licensed)
-3220,"Oyster cultivation, freshwater"
-3210,"Oyster cultivation, marine"
-3220,"Oyster fishery, freshwater"
-3210,"Oyster fishery, marine"
-3220,"Oyster spat production, freshwater"
-3210,"Oyster spat production, marine"
+03220,"Oyster cultivation, freshwater"
+03210,"Oyster cultivation, marine"
+03220,"Oyster fishery, freshwater"
+03210,"Oyster fishery, marine"
+03220,"Oyster spat production, freshwater"
+03210,"Oyster spat production, marine"
 46380,Oysters (wholesale)
 32500,Ozone therapy apparatus (manufacture)
 26600,Pacemaker (electro medical) (manufacture)
@@ -9775,7 +9775,7 @@
 30110,Painting of ships (manufacture)
 46130,Paints and varnishes (commission agent)
 72190,Palaeontologist (consultant)
-2200,Pale fencing production (unprocessed form)
+02200,Pale fencing production (unprocessed form)
 24410,Palladium (manufacture)
 28220,Pallet hoist (manufacture)
 77390,Pallet rental
@@ -9803,7 +9803,7 @@
 23620,Panels made of plaster (manufacture)
 14142,Panty (manufacture)
 14310,Pantyhose (manufacture)
-1220,Papaya growing
+01220,Papaya growing
 17120,Paper (not sensitized) (manufacture)
 47620,Paper (retail)
 17120,Paper (uncut) for household use (manufacture)
@@ -9876,8 +9876,8 @@
 69109,Parliamentary agent
 43330,Parquet floor laying (not by manufacturer)
 16220,Parquet flooring (manufacture)
-1130,Parsley growing
-1130,Parsnip growing
+01130,Parsley growing
+01130,Parsnip growing
 27900,Particle accelerator (manufacture)
 16210,Particleboard agglomerated with non-mineral binding substances (manufacture)
 25120,Partitioning made of metal (manufacture)
@@ -9957,7 +9957,7 @@
 47749,"Patient monitoring devices (irradiation, electromedical or electrotherapeutic equipment) (retail)"
 46460,"Patient monitoring devices (irradiation, electromedical or electrotherapeutic equipment) (wholesale)  "
 17290,Pattern card (manufacture)
-2100,Paulownia growing
+02100,Paulownia growing
 96090,Pavement artist
 23190,Paving blocks made of glass (manufacture)
 16230,Paving blocks made of wood (manufacture)
@@ -9973,10 +9973,10 @@
 66190,Paying agent
 69202,Payroll bureau
 56103,Pea and pie vendor
-1110,Pea growing
+01110,Pea growing
 28930,Pea splitters (manufacture)
 10612,"Pea splitting, milling or grinding (manufacture)"
-1240,Peach growing
+01240,Peach growing
 14190,Peak cap (manufacture)
 47910,Peaked cap (internet) (retail)
 14190,Peaked cap (manufacture)  
@@ -9984,22 +9984,22 @@
 47710,Peaked cap  (retail)
 46420,Peaked cap  (wholesale)
 10390,Peanut butter (manufacture)
-1110,Peanut growing
-1240,Pear growing
+01110,Peanut growing
+01240,Pear growing
 32120,Pearl drilling (manufacture)
-3110,Pearl gathering
+03110,Pearl gathering
 32120,Pearl stringing (manufacture)
 32120,Pearls production (manufacture)
 46719,Peat (wholesale)
-8920,Peat agglomeration
+08920,Peat agglomeration
 19201,Peat briquettes (manufacture)
-8920,Peat cutting and digging
-8920,Peat extraction
-9900,"Peat extraction support services, provided on a fee or contract basis"
+08920,Peat cutting and digging
+08920,Peat extraction
+09900,"Peat extraction support services, provided on a fee or contract basis"
 23990,"Peat products (pots or for chemical use, etc.) (manufacture)"
-8920,"Peat, preparation to facilitate transport or storage"
-8920,"Peat, preparation to improve quality"
-8120,Pebble dredging
+08920,"Peat, preparation to facilitate transport or storage"
+08920,"Peat, preparation to improve quality"
+08120,Pebble dredging
 65120,Pecuniary loss insurance
 25990,Pedal bins made of metal (manufacture)
 22290,Pedal bins made of plastic (manufacture)
@@ -10038,7 +10038,7 @@
 28140,Penstock valves (manufacture)
 75000,People's dispensary for sick animals (not animal care units)
 10840,Pepper (ground) (manufacture)
-1280,Pepper growing
+01280,Pepper growing
 10840,Pepper substitute (manufacture)
 46170,"Peptic substances, mucilages and thickeners (commission agent)"
 20590,Peptone derivatives (manufacture)
@@ -10086,7 +10086,7 @@
 28131,"Peristaltic pumps for enteral nutrition (manufacture)
 "
 46690,Peristaltic pumps for enteral nutrition (wholesale)
-3110,Periwinkle gathering
+03110,Periwinkle gathering
 23440,Permanent magnets (ceramic and ferrite) (manufacture)
 25990,Permanent magnets (metallic) (manufacture)
 46690,"Permanent magnets and electro-magnetic couplings, clutches and brakes (wholesale)"
@@ -10102,17 +10102,17 @@
 30120,Personal watercraft (manufacture)
 30400,Personnel carrier (armoured fighting vehicle) (manufacture)
 78200,Personnel provision (temporary employment agency)
-1610,Pest control in connection with agriculture
+01610,Pest control in connection with agriculture
 81291,Pest control services (except agricultural)
 81291,Pest destruction service (not especially for agriculture)
 20130,Pesticide inorganic chemicals (excluding formulated preparations) (manufacture)
 20140,Pesticide organic chemicals (excluding formulated preparations) (manufacture)
 20200,Pesticides and other agrochemical products (manufacture)
-1490,"Pet animal breeding, other than fish"
+01490,"Pet animal breeding, other than fish"
 10920,Pet animal feeds produced from slaughter waste (manufacture)
 46380,Pet animal food (wholesale)
 47760,Pet animals (retail)
-1490,Pet bird raising and breeding
+01490,Pet bird raising and breeding
 10920,Pet fish feeds (manufacture)
 47760,Pet food (retail)
 10920,Pet food including canned (manufacture)
@@ -10127,7 +10127,7 @@
 47300,Petrol filling station
 28110,Petrol industrial engines (manufacture)
 28131,Petrol station pump (manufacture)
-9100,Petroleum and natural gas mining support activities
+09100,Petroleum and natural gas mining support activities
 46711,Petroleum and petroleum products exporter (wholesale)
 46711,Petroleum and petroleum products importer (wholesale)
 19201,Petroleum briquettes (manufacture)
@@ -10148,8 +10148,8 @@
 46711,Petroleum products distribution (wholesale)
 19201,Petroleum refining (manufacture)
 19209,Petroleum societies without refineries (manufacture)
-9100,Petroleum test well drilling
-9100,Petroleum well drilling
+09100,Petroleum test well drilling
+09100,Petroleum well drilling
 71122,Petrophysical interpretation activities
 14142,Petticoat (manufacture)
 31090,Pew (manufacture)
@@ -10161,7 +10161,7 @@
 21100,Pharmaceutical chemicals (manufacture)
 47730,Pharmaceutical chemist (retail)
 46460,Pharmaceutical chemist (wholesale)
-1280,Pharmaceutical crops growing
+01280,Pharmaceutical crops growing
 23190,Pharmaceutical glassware (other than containers) (manufacture)
 46180,Pharmaceutical goods (commission agent)
 46460,Pharmaceutical goods exporter (wholesale)
@@ -10183,7 +10183,7 @@
 47789,Philatelist (retail)
 26120,Phonecards and similar cards containing integrated circuits (smart cards) (manufacture)
 18129,Phonetic printing (manufacture)
-8910,Phosphates (natural) mining
+08910,Phosphates (natural) mining
 20150,Phosphates of ammonium carbonates (manufacture)
 46120,Phosphates of triammonium (commission agent)
 20150,Phosphates of triammonium carbonates (manufacture)
@@ -10281,7 +10281,7 @@
 47591,Pianofortes (retail)
 10390,Piccalilli production (manufacture)
 25730,Pick (manufacture)
-2200,Pickets (of wood) production (unprocessed form)
+02200,Pickets (of wood) production (unprocessed form)
 15120,Picking bands made of leather (manufacture)
 10390,Pickle including beetroot and onion (manufacture)
 10390,Pickling of fruit and vegetables (manufacture)
@@ -10310,10 +10310,10 @@
 46120,Piezo-electric quartz (commission agent)
 20130,Piezo-electric quartz (manufacture)
 46750,Piezo-electric quartz (wholesale)
-1460,Pig farming
+01460,Pig farming
 46230,Pig jobber (wholesale)
-1460,Pig raising and breeding
-1110,Pigeon pea growing
+01460,Pig raising and breeding
+01110,Pigeon pea growing
 20301,Pigments (prepared) (manufacture)
 46230,Pigs (wholesale)
 10720,Pikelet making (manufacture)
@@ -10340,7 +10340,7 @@
 25920,Pilfer-proof metal caps (manufacture)
 43999,Piling (building)
 43999,Piling contractor (civil engineering)
-2200,Pilings (of wood) production (uprocessed form)
+02200,Pilings (of wood) production (uprocessed form)
 25110,Pilings (tubular welded) (manufacture)
 23200,Pillars made of ceramic (manufacture)
 30910,Pillion seats for motorcycles (manufacture)
@@ -10351,7 +10351,7 @@
 52220,Pilotage activities
 13923,Pin cushion (manufacture)
 25730,Pincers (manufacture)
-1220,Pineapple growing
+01220,Pineapple growing
 25710,Pinking shears (manufacture)
 25930,Pins made of metal (manufacture)
 32401,Pin-tables (manufacture)
@@ -10368,7 +10368,7 @@
 22190,Pipe stems of hard rubber (manufacture)
 25300,Pipe system construction for steam generators (manufacture)
 12000,Pipe tobacco (manufacture)
-8120,Pipeclay pit
+08120,Pipeclay pit
 71200,Pipeline and ancillary equipment testing activities
 42210,Pipeline construction
 42210,Pipeline contracting
@@ -10392,7 +10392,7 @@
 23190,Pipettes made of glass (manufacture)
 13200,Pique weaving (manufacture)
 28940,Pirns (textile machinery accessory) (manufacture)
-1250,Pistachio growing
+01250,Pistachio growing
 25400,Pistol (manufacture)
 28110,Piston for industrial engine (manufacture)
 28110,Piston for motor vehicle engine (manufacture)
@@ -10401,7 +10401,7 @@
 28110,Piston rings for all internal combustion engines (manufacture)
 28110,Pistons for all internal combustion engines (manufacture)
 28921,Pit bottom machinery (manufacture)
-2200,Pit props (of wood) production (unprocessed form)
+02200,Pit props (of wood) production (unprocessed form)
 46730,Pit props (wholesale)
 19100,Pitch and pitch coke (manufacture)
 32200,Pitch pipes (manufacture)
@@ -10424,25 +10424,25 @@
 16100,Plank (manufacture)
 28490,Plank glueing machines (manufacture)
 77390,Plant and equipment for industrial use hire
-1300,Plant growing for bulbs
-1300,Plant growing for cuttings and slips
-1300,Plant growing for roots
-1300,Plant growing for tubers
+01300,Plant growing for bulbs
+01300,Plant growing for cuttings and slips
+01300,Plant growing for roots
+01300,Plant growing for tubers
 20200,Plant growth regulators (manufacture)
 46750,Plant growth regulators (wholesale)
 77320,Plant hire for construction rental (without operator)
 43999,Plant hire for construction rental with operator
 20200,Plant hormone (manufacture)
 10822,Plant parts preserving in sugar (manufacture)
-1300,Plant propagation
+01300,Plant propagation
 25110,Plant support of fabricated steelwork (manufacture)
 28302,Planter for agricultural use (manufacture)
 81300,"Planting, laying out and maintenance of gardens, parks and green areas for sports installations"
 47760,Plants (retail)
 46220,Plants (wholesale)
-1160,"Plants bearing vegetable fibres, retting of"
-1300,Plants for planting or ornamental purposes
-1280,"Plants used chiefly in pharmacy or for insecticidal, fungicidal or similar purposes"
+01160,"Plants bearing vegetable fibres, retting of"
+01300,Plants for planting or ornamental purposes
+01280,"Plants used chiefly in pharmacy or for insecticidal, fungicidal or similar purposes"
 26309,Plasma monitor semi manufacture
 23520,Plaster (manufacture)
 46730,Plaster (wholesale)
@@ -10512,7 +10512,7 @@
 25610,Plating (metal finishing) (manufacture)
 24410,Platinum (manufacture)
 24410,Platinum group metals (manufacture)
-7290,Platinum mining and preparation
+07290,Platinum mining and preparation
 32409,Playballs made of rubber (manufacture)
 32300,Playground equipment (manufacture)
 88910,Playgroup (charitable)
@@ -10538,10 +10538,10 @@
 26110,Plug (electronic) (manufacture)
 27330,Plug and socket (electric) (manufacture)
 28140,Plug valves (manufacture)
-9100,Plugging and abandoning oil and gas wells
+09100,Plugging and abandoning oil and gas wells
 46439,"Plugs, sockets and other apparatus for protecting electrical circuits for domestic use (wholesale)"
 46690,"Plugs, sockets and the like, for switching or protecting industrial electrical circuits (wholesale)"
-1240,Plum growing
+01240,Plum growing
 46740,Plumbers' merchant (wholesale)
 25990,Plumbing and pipe fittings made of metal (not cast) (manufacture)
 43220,Plumbing contractor
@@ -10579,8 +10579,8 @@
 26511,Polarimeters (electronic) (manufacture)
 26513,Polarimeters (non-electronic) (manufacture)
 32500,Polarising elements (manufacture)
-2200,Pole fencing production (unprocessed form)
-2200,Poles (of wood) production (unprocessed form)
+02200,Pole fencing production (unprocessed form)
+02200,Poles (of wood) production (unprocessed form)
 84240,Police authorities
 88990,Police court mission
 71200,Police laboratories
@@ -10644,8 +10644,8 @@
 20160,Polyvinyl acetate (PVA) (manufacture)
 20520,Polyvinyl acetate and co-polymer adhesives (manufacture)
 20160,Polyvinyl chloride (PVC) (manufacture)
-1240,Pome fruit growing
-1230,Pomelo growing
+01240,Pome fruit growing
+01230,Pomelo growing
 10822,Pomfret (pontefract) cakes (manufacture)
 13960,Pompons (manufacture)
 30110,Pontoons construction (manufacture)
@@ -10700,20 +10700,20 @@
 58190,Poster publishing
 18130,Poster writing (manufacture)
 85422,Post-graduate college
-1630,Post-harvest crop activities
-2200,Posts (of wood) production (unprocessed form)
+01630,Post-harvest crop activities
+02200,Posts (of wood) production (unprocessed form)
 23610,Posts made of precast concrete (manufacture)
 85410,Post-secondary non-tertiary vocational education
-8910,Potash mine
+08910,Potash mine
 20150,Potassic straight fertiliser (manufacture)
 20130,Potassium compounds (manufacture)
 20150,Potassium salts (manufacture)
-8910,Potassium salts (natural) mining
+08910,Potassium salts (natural) mining
 10310,"Potato chip production (frozen, raw, steamed or boiled) (manufacture)"
 10310,Potato crisp (manufacture)
 10910,Potato dehydrating for animal feed (manufacture)
 10310,Potato flour and meal (manufacture)
-1130,Potato growing
+01130,Potato growing
 28302,Potato harvester and sorter (manufacture)
 10310,Potato peeling (industrial) (manufacture)
 82920,Potato powder/flake packing (inert atmosphere)
@@ -10735,7 +10735,7 @@
 22220,Pots made of plastic (not flower pots) (manufacture)
 10130,Potted meat. (manufacture)
 10200,Potted shrimp (manufacture)
-8120,Potters' clay mine or quarry
+08120,Potters' clay mine or quarry
 47599,Pottery (retail)
 46440,Pottery (wholesale)
 23410,Pottery for domestic use (manufacture)
@@ -10753,14 +10753,14 @@
 46320,Poultry (wholesale)
 47220,Poultry and game (retail)
 10130,Poultry canning (manufacture)
-1629,Poultry caponising
+01629,Poultry caponising
 10850,Poultry dishes (manufacture)
 10120,Poultry dressing (manufacture)
-1629,Poultry egg hatching (automated)
-1470,Poultry farming
+01629,Poultry egg hatching (automated)
+01470,Poultry farming
 10120,Poultry fat (edible) rendering (manufacture)
 10910,Poultry grit (manufacture)
-1470,Poultry hatcheries
+01470,Poultry hatcheries
 16230,Poultry house made of wood (manufacture)
 28302,Poultry keeping machinery (manufacture)
 10120,Poultry meat preparation (manufacture)
@@ -10768,7 +10768,7 @@
 10120,Poultry packing (manufacture)
 10130,Poultry potting (manufacture)
 28930,Poultry processing machines and equipment (manufacture)
-1470,Poultry raising and breeding
+01470,Poultry raising and breeding
 10120,Poultry slaughtering (manufacture)
 46210,Poultry spice (wholesale)
 46610,Poultry-keeping machines (wholesale)
@@ -10820,7 +10820,7 @@
 46730,Precast concrete products (wholesale)
 32120,Precious and semi-precious stones in the worked state production (manufacture)
 24410,Precious metal foil laminates (manufacture)
-7290,Precious metal ores mining and preparation
+07290,Precious metal ores mining and preparation
 24410,Precious metals production (manufacture)
 32120,Precious stone cutting (manufacture)
 46760,Precious stones (wholesale)
@@ -11056,9 +11056,9 @@
 27400,Projector lamp (manufacture)
 93199,Promotion of sporting events
 82190,Proof reading
-1629,"Propagation, growth and output of animals, promotion service activities"
+01629,"Propagation, growth and output of animals, promotion service activities"
 19201,Propane (manufacture)
-6200,Propane extraction from natural gas
+06200,Propane extraction from natural gas
 46711,Propane gas (wholesale)
 20510,Propellant powder (manufacture)
 46120,Propellant powders and prepared explosives (commission agent)
@@ -11204,19 +11204,19 @@
 28950,Pulp making machinery (manufacture)
 17110,Pulping recycled paper (manufacture)
 31010,Pulpit (manufacture)
-2100,Pulpwood production
+02100,Pulpwood production
 26513,Pulse (signal) generators (non-electronic) (manufacture)
 46310,Pulses (wholesale)
 28923,Pulverising machinery (not for mines) (manufacture)
 28990,Pulverising machinery for the chemical industry (manufacture)
-8990,Pumice extraction
+08990,Pumice extraction
 23910,Pumice stones (bonded) (manufacture)
 28131,Pump (not for hydraulic or for internal combustion engine) (manufacture)
 28120,Pump for hydraulic equipment (manufacture)
 15120,Pump leather washer (manufacture)
 28131,Pump parts (manufacture)
 49500,Pump stations operation
-9100,Pumping of oil and gas wells
+09100,Pumping of oil and gas wells
 46690,Pumping plant (wholesale)
 28131,"Pumps and parts (non-electric) for oil, gas, petrol or water on motor vehicles (manufacture)"
 46630,Pumps for concrete (wholesale)
@@ -11250,19 +11250,19 @@
 43999,Pylon erection
 23610,Pylons made of precast concrete (manufacture)
 20140,Pyridine base (manufacture)
-8910,Pyrites and pyrrhotite extraction and preparation
+08910,Pyrites and pyrrhotite extraction and preparation
 26513,Pyrometer (non-electronic) (manufacture)
 20510,Pyrotechnics (manufacture)
-1490,Quail egg production
+01490,Quail egg production
 94910,Quakers associations
 74909,Quality assurance consultancy activities
 71200,Quality control
 74902,Quantity surveying activities
-9900,Quarry blasting
+09900,Quarry blasting
 23320,Quarry floor brick (manufacture)
 23320,Quarry tile made of clay (manufacture)
 26110,Quartz crystal (electronic) (manufacture)
-8990,Quartz mining and quarrying
+08990,Quartz mining and quarrying
 21100,Quaternary ammonium salts and fatty amines (manufacture)
 46180,Quaternary ammonium salts and hydroxides (commission agent)
 46460,Quaternary ammonium salts and hydroxides (wholesale)
@@ -11275,13 +11275,13 @@
 13923,Quilt (filled) (manufacture)
 13923,Quilt fringing (manufacture)
 13200,Quilt weaving (manufacture)
-1240,Quince growing
+01240,Quince growing
 20140,Quinones (manufacture)
-1490,Rabbit and other fur animal raising n.e.c
-1490,Rabbit breeding
-1610,Rabbit destroying and trapping on agricultural land
+01490,Rabbit and other fur animal raising n.e.c
+01490,Rabbit breeding
+01610,Rabbit destroying and trapping on agricultural land
 10110,Rabbit meat preparation (manufacture)
-1490,Rabbit skin sorting
+01490,Rabbit skin sorting
 10110,Rabbit slaughtering (manufacture)
 93110,Racecourse operation
 93191,Racehorse owner
@@ -11349,7 +11349,7 @@
 18130,Rag book making (manufacture)
 13300,Rag dyeing (manufacture)
 46770,Rag merchant
-8110,Ragstone quarry
+08110,Ragstone quarry
 52211,Rail freight terminals operation
 30200,Rail locomotives (manufacture)
 49100,Rail transport (inter-urban)
@@ -11399,7 +11399,7 @@
 28940,Raising machinery for textiles (manufacture)
 25730,Rakes for garden use (manufacture)
 16290,Rakes made of wood (manufacture)
-1160,Ramie and other vegetable textile fibre growing
+01160,Ramie and other vegetable textile fibre growing
 13200,Ramie weaving (manufacture)
 23200,Ramming material made of refractory (manufacture)
 26701,Range finder (optical) (manufacture)
@@ -11407,21 +11407,21 @@
 26513,Range finders (optical non-electronic) (manufacture)
 26701,Range finders (optical) (manufacture)
 28921,Ranging drum shearer for mining (manufacture)
-1110,Rape growing
+01110,Rape growing
 10410,Rape oil production (manufacture)
 10410,Rape oil refining (manufacture)
 10410,Rape seed crushing (manufacture)
 20110,Rare gases (manufacture)
 13990,Raschel lace (manufacture)
 25730,Rasp (manufacture)
-1250,Raspberry growing
+01250,Raspberry growing
 81291,Rat catcher (not especially for agriculture)
-1610,Rat destroying and trapping on agricultural land
+01610,Rat destroying and trapping on agricultural land
 10730,Ravioli (manufacture)
 10110,Raw bones from knackers (manufacture)
 13300,"Raw cotton bleaching, dyeing or otherwise finishing (manufacture)"
 46120,Raw earth metals (commission agent)
-1490,Raw fur skin production
+01490,Raw fur skin production
 13300,Raw silk dyeing (manufacture)
 46210,Raw wool (wholesale)
 20600,Rayon (manufacture)
@@ -11503,8 +11503,8 @@
 17110,Recycled fibre pulp (manufacture)
 38110,Recycling centres for non-hazardous waste
 88990,Red Cross Society
-1250,Redcurrant growing
-9100,Redrilling oil and gas wells
+01250,Redcurrant growing
+09100,Redrilling oil and gas wells
 32409,Reduced-size (scale) models (manufacture)
 32409,Reduced-size scale model electrical trains (manufacture)
 32409,Reduced-size scale models construction sets (manufacture)
@@ -11514,7 +11514,7 @@
 28990,Reduction gear for marine use (manufacture)
 28940,Reed (textile machinery accessory) (manufacture)
 16290,Reed articles (manufacture)
-2300,"Reed collecting, cutting and gathering"
+02300,"Reed collecting, cutting and gathering"
 32200,Reed for musical instrument (manufacture)
 16290,Reed preparation (manufacture)
 13100,Reeling and washing of silk (manufacture)
@@ -11539,7 +11539,7 @@
 23200,Refractory castable (manufacture)
 23200,Refractory cement (manufacture)
 23200,Refractory ceramic goods (manufacture)
-8120,Refractory clays mining
+08120,Refractory clays mining
 23200,Refractory concretes (manufacture)
 23200,Refractory goods (manufacture)
 23200,Refractory hollow ware (manufacture)
@@ -11631,7 +11631,7 @@
 43999,Renting of other building equipment with operator
 43991,Renting of scaffolds and work platforms with erection and dismantling
 95290,Repair and alteration of clothing
-9100,Repair and dismantling services of derricks
+09100,Repair and dismantling services of derricks
 33110,Repair and maintenance for pipes and pipelines (manufacture)
 42220,Repair and maintenance of above-ground telecommunication lines
 33120,Repair and maintenance of accounting machinery (manufacture)
@@ -11927,8 +11927,8 @@
 18130,Reprographic products production (manufacture)
 18130,Reprographic sketch production (manufacture)
 15110,Reptile leather (manufacture)
-1700,Reptile skin production (from hunting)
-1490,Reptile skin production from ranching operation
+01700,Reptile skin production (from hunting)
+01490,Reptile skin production from ranching operation
 72190,Research and development consultants (other than biotechnological)
 72110,Research and experimental development on bioinformatics
 72110,Research and experimental development on cell and tissue culture and engineering
@@ -11990,7 +11990,7 @@
 87100,Residential nursing care facilities (not directly supervised by medical doctors)
 81100,Residents' property management
 22290,Resin bonded glass fibre mouldings (excluding for motor vehicles) (manufacture)
-2300,Resin gathering
+02300,Resin gathering
 20530,Resinoids (manufacture)
 20160,Resins for paint (manufacture)
 20160,Resins made of urea formaldehyde (manufacture)
@@ -12046,15 +12046,15 @@
 10612,Rice cleaning (manufacture)
 10612,Rice flaking (manufacture)
 10612,Rice flour production (manufacture)
-1120,Rice growing
+01120,Rice growing
 28930,Rice hullers (manufacture)
 10612,Rice husking (manufacture)
 10612,Rice milling (manufacture)
 10890,Rice pudding (canned) (manufacture)
 10612,Rice rolling (manufacture)
 10620,Rice starch (manufacture)
-1610,Rice transplanting
-1610,"Rice transplanting, on a fee or contract basis"
+01610,Rice transplanting
+01610,"Rice transplanting, on a fee or contract basis"
 93290,Richmond Park
 13922,Rick cloths and covers (manufacture)
 32990,Riding caps (manufacture)
@@ -12082,7 +12082,7 @@
 19201,Road coverings derived from crude petroleum or bituminous minerals (manufacture)
 49410,Road haulage contracting for general hire or reward
 49410,Road haulage contractor
-8120,Road metal production (crushed and processed)
+08120,Road metal production (crushed and processed)
 28921,Road ripper for mining (manufacture)
 28923,Road roller (manufacture)
 46630,Road rollers (wholesale)
@@ -12097,7 +12097,7 @@
 52219,Roads operation
 71200,Road-safety testing of motor vehicles
 52219,Roadside assistance for motor vehicles
-8120,Roadstone (coated) production
+08120,Roadstone (coated) production
 46120,Roasted iron pyrites (commission agent)
 46750,Roasted iron pyrites (wholesale)
 27510,Roasters (electric) (manufacture)
@@ -12111,7 +12111,7 @@
 25730,"Rock drilling and earth boring interchangeable tools (e.g. Augers, boring bits, drills) (manufacture)"
 28921,Rock drilling machinery (manufacture)
 43120,Rock removal
-8930,Rock salt production
+08930,Rock salt production
 28921,Rocker shovel for mining (manufacture)
 30300,Rocket (aerospace) (manufacture)
 25400,Rocket launch systems (manufacture)
@@ -12119,7 +12119,7 @@
 23410,Rockingham ware (manufacture)
 23990,Rockwool (manufacture)
 81291,Rodent destroying (not agricultural)
-1610,Rodent destroying and trapping on agricultural land
+01610,Rodent destroying and trapping on agricultural land
 20200,Rodenticide (manufacture)
 93290,Rodeos
 24420,Rods made of aluminium (manufacture)
@@ -12177,9 +12177,9 @@
 25120,"Room partitions made of metal, for floor attachment (manufacture)"
 55900,Rooming and boarding houses
 28302,Root crop harvesting and sorting machinery (manufacture)
-1130,Root vegetable growing
+01130,Root vegetable growing
 28922,Rooter (not agricultural) (manufacture)
-1130,Roots and tubers with a high starch or inulin content
+01130,Roots and tubers with a high starch or inulin content
 46410,Rope (new) (wholesale)
 13940,Rope and cables of textile fibres (manufacture)
 23990,Rope lagging made of asbestos (manufacture)
@@ -12204,12 +12204,12 @@
 28132,Rotating compressors (manufacture)
 30300,Rotor blades for aircraft (manufacture)
 28220,Rough terrain industrial trucks (manufacture)
-8110,Rough trimming and sawing of building and monumental stone
+08110,Rough trimming and sawing of building and monumental stone
 94990,Round Table
 28990,Roundabout for fairground (manufacture)
 24100,Rounds of semi-finished steel for seamless tube production (manufacture)
-2200,Roundwood production (unprocessed form)
-2200,Roundwood production for forest-based manufacturing industries (unprocessed form)
+02200,Roundwood production (unprocessed form)
+02200,Roundwood production for forest-based manufacturing industries (unprocessed form)
 26301,Routers for telecommunications (manufacture)
 28940,Roving frames (manufacture)
 30120,Rowing boat (manufacture)
@@ -12267,7 +12267,7 @@
 22190,Rubber thread (uncovered) (manufacture)
 13960,"Rubber thread and cord, textile covered, coated or sheathed with rubber or plastics (manufacture)"
 13960,Rubber thread or cord covered with textile material (manufacture)
-1290,Rubber trees growing for harvesting of latex
+01290,Rubber trees growing for harvesting of latex
 22110,Rubber tyres for furniture and other uses (manufacture)
 22110,Rubber tyres for mobile machinery (manufacture)
 22110,Rubber tyres for toys (manufacture)
@@ -12277,7 +12277,7 @@
 22190,Rubberised textile fabric (manufacture)
 13300,Rubberising of purchased garments (manufacture)
 20170,"Rubber-like gums (balata, etc.) (manufacture)"
-8990,"Rubbing stone mine, pit or quarry"
+08990,"Rubbing stone mine, pit or quarry"
 38110,Rubbish collection
 47510,Rug making materials (retail)
 96010,Rug shampooing
@@ -12304,7 +12304,7 @@
 10611,Rye (manufacture)
 10611,Rye flaking (manufacture)
 10611,Rye flour and meal (manufacture)
-1110,Rye growing
+01110,Rye growing
 10611,Rye milling (manufacture)
 10611,Rye rolling (manufacture)
 20140,Saccharin sodium (manufacture)
@@ -12343,7 +12343,7 @@
 25930,Safety pins (manufacture)
 25710,Safety razors (manufacture)
 28140,Safety valves (manufacture)
-1110,Safflower seed growing
+01110,Safflower seed growing
 23200,Saggar (manufacture)
 10612,Sago grinding or milling (manufacture)
 32300,Sailboards (manufacture)
@@ -12358,7 +12358,7 @@
 13922,Sails (manufacture)
 46499,Sails (wholesale)
 46180,"Sails for boats, sailboards or landcraft (commission agents)"
-1190,Sainfoin growing
+01190,Sainfoin growing
 11030,Sake (manufacture)
 10840,Salad cream (manufacture)
 10840,Salad dressing (manufacture)
@@ -12382,17 +12382,17 @@
 46180,"Salicylic acids, o-acetylsalicylic acid and their salts and esters (commission agent)"
 21100,Salicylic medicaments (manufacture)
 21100,Salines (manufacture)
-3220,"Salmon and trout fishery (hatchery), freshwater"
-3210,"Salmon and trout fishery (hatchery), marine"
-3110,Salmon netting (marine)
-8930,"Salt crushing, purification and refining by the producer"
-8930,Salt extraction
-8930,Salt mine
-8930,Salt production
-8930,Salt production by evaporation of sea water or other saline waters
-9900,Salt production support services provided on a fee or contract basis
-8930,Salt works
-8930,"Salt, extraction of, from underground including by dissolving and pumping"
+03220,"Salmon and trout fishery (hatchery), freshwater"
+03210,"Salmon and trout fishery (hatchery), marine"
+03110,Salmon netting (marine)
+08930,"Salt crushing, purification and refining by the producer"
+08930,Salt extraction
+08930,Salt mine
+08930,Salt production
+08930,Salt production by evaporation of sea water or other saline waters
+09900,Salt production support services provided on a fee or contract basis
+08930,Salt works
+08930,"Salt, extraction of, from underground including by dissolving and pumping"
 10840,"Salt, processing of into food-grade salt, iodised salt (manufacture)"
 10720,Salted crackers (manufacture)
 46120,Salts of oxometallic or perometallic acids (commission agent)
@@ -12413,17 +12413,17 @@
 28290,Sand blasting machines (manufacture)
 25610,Sand blasting of metals (manufacture)
 24540,Sand casting of non-ferrous base metal (manufacture)
-8120,Sand dredging
-8120,Sand extraction and dredging for industrial use
+08120,Sand dredging
+08120,Sand extraction and dredging for industrial use
 28990,"Sand handling, mixing, treatment or reclamation plant for foundries (manufacture)"
-8120,Sand pit
-8120,Sand quarry
+08120,Sand pit
+08120,Sand quarry
 15200,Sandals (manufacture)
 28490,Sanding and polishing machines for wood (not portable) (manufacture)
 81299,"Sanding or salting of highways, etc."
 28240,Sanding tool (powered portable) (manufacture)
 23910,Sandpaper (manufacture)
-8110,"Sandstone mine, pit or quarry"
+08110,"Sandstone mine, pit or quarry"
 56103,Sandwich bar
 10720,Sandwich cake baking (manufacture)
 24330,Sandwich panels of coated steel sheet (manufacture)
@@ -12485,7 +12485,7 @@
 28410,Sawing machine (metal cutting) (manufacture)
 28490,Sawing machine for wood (manufacture)
 28490,"Sawing machines for stone, ceramics, asbestos-cement or similar materials (manufacture)"
-2200,Sawlog production
+02200,Sawlog production
 16100,Sawmilling (manufacture)
 16100,Sawn fencing (manufacture)
 25730,Saws (hand tools) (manufacture)
@@ -12605,19 +12605,19 @@
 50100,Sea ferry (passenger)
 52290,Sea freight forwarder activities
 30110,Sea going luxury yachts of 100 gross tons or more (manufacture)
-1700,Sea mammal catching (land-based)
-8930,Sea salt production
+01700,Sea mammal catching (land-based)
+08930,Sea salt production
 94990,Sea scout association
-3110,Sea urchin hunting
+03110,Sea urchin hunting
 36000,Sea water desalination
 47230,Seafood and seafood products (retail)
 28930,Sea-food processing machines and equipment (manufacture)
-1700,Seal catching (land-based)
+01700,Seal catching (land-based)
 23990,Sealants (bituminous) (manufacture)
 23990,Sealants (oil based) (manufacture)
 20301,Sealants (other than bituminous or oil based) (manufacture)
 28290,Sealing machinery (manufacture)
-9100,Sealing of oil and gas wells
+09100,Sealing of oil and gas wells
 46499,Sealing or numbering stamps (wholesale)
 32990,Sealing stamps (manufacture)
 32990,Seals for use with sealing wax (manufacture)
@@ -12626,7 +12626,7 @@
 24520,Seamless tubes of steel by centrifugal casting (manufacture)
 27400,Search light (manufacture)
 10840,Seasoning (manufacture)
-3110,Sea-squirt hunting
+03110,Sea-squirt hunting
 31090,Seating (manufacture)
 31010,Seating for office or school (manufacture)
 31090,Seating made of metal (not for road vehicle or aircraft) (manufacture)
@@ -12636,7 +12636,7 @@
 30110,Seats for ships and floating structures (manufacture)
 31010,Seats for theatre (manufacture)
 32990,Seat-sticks (manufacture)
-3110,"Seaweed collecting, cutting and gathering (uncultivated)"
+03110,"Seaweed collecting, cutting and gathering (uncultivated)"
 10200,Seaweed processing (manufacture)
 25730,Secateurs (manufacture)
 27200,Secondary battery (manufacture)
@@ -12678,33 +12678,33 @@
 28290,Sedimentation plant for effluent treatment (manufacture)
 10410,Seed and nut crushing (manufacture)
 28930,Seed cleaner or pre-cleaner for agricultural use (manufacture)
-1640,Seed cleaning and treating (cereals and other crops)
-1640,Seed cleaning and treating (fee or contract basis)
-1640,"Seed cleaning and treating (fruit, nuts, beverage and spice crops)"
-1640,"Seed cleaning and treating (vegetables, horticultural specialties and other nursery products)"
+01640,Seed cleaning and treating (cereals and other crops)
+01640,Seed cleaning and treating (fee or contract basis)
+01640,"Seed cleaning and treating (fruit, nuts, beverage and spice crops)"
+01640,"Seed cleaning and treating (vegetables, horticultural specialties and other nursery products)"
 28930,"Seed cleaning, sorting or grading machines (manufacture)"
 20200,Seed dressing (manufacture)
-1640,Seed drying (cereals and other crops)
-1640,Seed drying (fee or contract basis)
-1640,"Seed drying (fruit, nuts, beverage and spice crops)"
-1640,"Seed drying (vegetables, horticultural specialties and other nursery products)"
-1640,"Seed genetically modified, treatment of these (cereals and other crops)"
-1640,"Seed genetically modified, treatment of these (fee or contract basis)"
-1640,"Seed genetically modified, treatment of these (fruit, nuts, beverage and spice crops)"
-1640,"Seed genetically modified, treatment of these (vegetables, horticultural and other nursery products)"
-1640,Seed grading (cereals and other crops)
-1640,Seed grading (fee or contract basis)
-1640,"Seed grading (fruit, nuts, beverage and spice crops)"
-1640,"Seed grading (vegetables, horticultural specialties and other nursery products)"
-1640,Seed post harvest processing (cereals and other crops)
-1640,Seed post harvest processing (fee or contract basis)
-1640,"Seed post harvest processing (fruit, nuts, beverage and spice crops)"
-1640,"Seed post harvest processing (vegetables, horticultural specialties and other nursery products)"
+01640,Seed drying (cereals and other crops)
+01640,Seed drying (fee or contract basis)
+01640,"Seed drying (fruit, nuts, beverage and spice crops)"
+01640,"Seed drying (vegetables, horticultural specialties and other nursery products)"
+01640,"Seed genetically modified, treatment of these (cereals and other crops)"
+01640,"Seed genetically modified, treatment of these (fee or contract basis)"
+01640,"Seed genetically modified, treatment of these (fruit, nuts, beverage and spice crops)"
+01640,"Seed genetically modified, treatment of these (vegetables, horticultural and other nursery products)"
+01640,Seed grading (cereals and other crops)
+01640,Seed grading (fee or contract basis)
+01640,"Seed grading (fruit, nuts, beverage and spice crops)"
+01640,"Seed grading (vegetables, horticultural specialties and other nursery products)"
+01640,Seed post harvest processing (cereals and other crops)
+01640,Seed post harvest processing (fee or contract basis)
+01640,"Seed post harvest processing (fruit, nuts, beverage and spice crops)"
+01640,"Seed post harvest processing (vegetables, horticultural specialties and other nursery products)"
 46210,Seed potatoes (wholesale)
-1640,Seed processing for propagation (cereals and other crops)
-1640,Seed processing for propagation (fee or contract basis)
-1640,"Seed processing for propagation (fruit, nuts, beverage and spice crops)"
-1640,"Seed processing for propagation (vegetables, horticultural specialties and other nursery products)"
+01640,Seed processing for propagation (cereals and other crops)
+01640,Seed processing for propagation (fee or contract basis)
+01640,"Seed processing for propagation (fruit, nuts, beverage and spice crops)"
+01640,"Seed processing for propagation (vegetables, horticultural specialties and other nursery products)"
 22290,Seed trays made of plastic (manufacture)
 28302,Seeders (manufacture)
 47760,Seeds (retail)
@@ -12738,7 +12738,7 @@
 24450,Semi-manufacturing of manganese (manufacture)
 24450,Semi-manufacturing of nickel (manufacture)
 85320,Seminary
-8990,Semi-precious stones extraction
+08990,Semi-precious stones extraction
 29202,Semi-trailers (manufacture)
 45190,Semi-trailers (retail)
 45190,Semi-trailers (used) (retail)
@@ -12750,7 +12750,7 @@
 20590,Sensitized emulsions for photographic use (manufacture)
 20590,Sensitized paper (manufacture)
 26514,Sensor for electric process control equipment (manufacture)
-9100,Separation terminal operation (natural gas)
+09100,Separation terminal operation (natural gas)
 28930,Separators for the grain milling industry (manufacture)
 37000,Septic tanks emptying and cleaning
 21200,Sera (manufacture)
@@ -12776,8 +12776,8 @@
 25990,Serving dishes made of base metal (manufacture)
 10410,Sesame oil refining (manufacture)
 10410,Sesame seed crushing (manufacture)
-1110,Sesame seed growing
-8110,Sett quarry
+01110,Sesame seed growing
+08110,Sett quarry
 31090,Settee (manufacture)
 28290,Settlement plant for water treatment (manufacture)
 37000,Sewage farm
@@ -12806,7 +12806,7 @@
 43999,Shaft drilling (civil engineering)
 43999,Shaft sinking
 19201,Shale oil refining (manufacture)
-1130,Shallot growing
+01130,Shallot growing
 20420,Shampoo (manufacture)
 46180,"Shampoos, hair lacquers and permanent waving or straightening preparations (commission agent)"
 11070,Shandy (non alcholic) (manufacture)
@@ -12838,15 +12838,15 @@
 25110,Sheds made of metal (manufacture)
 16230,Sheds made of wood (manufacture)
 46230,Sheep (wholesale)
-1629,Sheep agisting (grazing)
+01629,Sheep agisting (grazing)
 32500,Sheep and cattle dressings (manufacture)
 10110,Sheep and lambskin pulling (manufacture)
 20200,Sheep dip (manufacture)
-1450,Sheep farming
-1450,Sheep milk (raw) production
+01450,Sheep farming
+01450,Sheep milk (raw) production
 13940,Sheep net (manufacture)
-1450,Sheep raising and breeding
-1629,Sheep shearing on a fee or contract basis
+01450,Sheep raising and breeding
+01629,Sheep shearing on a fee or contract basis
 25730,Sheep shears (not power) (manufacture)
 15110,Sheep skin preparation (manufacture)
 46730,Sheet glass merchant (wholesale)
@@ -12893,7 +12893,7 @@
 31010,Shelving (non-domestic) (manufacture)
 84230,Sheriff's Court (Scotland)
 69109,Sheriff's officer
-8120,Shingle dredging
+08120,Shingle dredging
 16230,Shingles and shakes (manufacture)
 81291,Ship disinfecting and exterminating activities
 81291,Ship fumigating and scrubbing
@@ -12969,9 +12969,9 @@
 73110,Showroom design
 38320,"Shredding of metal waste, end-of-life vehicles"
 10200,Shrimp preserving (not freezing) (manufacture)
-3220,"Shrimp production (post-larvae), freshwater"
-3210,"Shrimp production (post-larvae), marine"
-3110,Shrimping
+03220,"Shrimp production (post-larvae), freshwater"
+03210,"Shrimp production (post-larvae), marine"
+03110,Shrimping
 46380,Shrimps (wholesale)
 28940,Shrinking machines for textiles (manufacture)
 13300,"Shrinking of textiles and textile articles, including wearing apparel (manufacture)"
@@ -13010,9 +13010,9 @@
 73110,Signwriting
 28302,Silage making machinery (manufacture)
 29320,Silencer for motor vehicle (manufacture)
-8990,Silica stone extraction or quarrying
+08990,Silica stone extraction or quarrying
 46750,"Silicates, borates, perborates and other salts of inorganic acids or peroxoacids (wholesale)"
-8990,Siliceous fossil meals mining
+08990,Siliceous fossil meals mining
 24100,Silico manganese steel (manufacture)
 46120,Silicon and sulphur dioxide (commission agent)
 46750,Silicon and sulphur dioxide (wholesale)
@@ -13031,8 +13031,8 @@
 13100,Silk warping (manufacture)
 13100,Silk waste noil spinning (manufacture)
 13100,Silk winding (manufacture)
-1490,Silk worm cocoon production
-1490,Silk worm raising
+01490,Silk worm cocoon production
+01490,Silk worm raising
 13200,Silk woven cloth (manufacture)
 13100,Silk yarn (manufacture)
 46410,Silk yarn and fabrics (wholesale)
@@ -13042,12 +13042,12 @@
 20160,Siloxanes (manufacture)
 24410,Silver (manufacture)
 32120,Silver burnishing (manufacture)
-7290,Silver mining and preparation
-7290,Silver ore and concentrate extraction and preparation
+07290,Silver mining and preparation
+07290,Silver ore and concentrate extraction and preparation
 27200,Silver oxide cells (manufacture)
 24410,Silver rolled onto base metals production (manufacture)
 32120,Silversmiths' work (manufacture)
-2100,Silviculture and other forestry activities
+02100,Silviculture and other forestry activities
 27900,Simulator (battle) (manufacture)
 27900,Simulator (driving) (manufacture)
 27900,Simulator (other training (except flying trainers)) (manufacture)
@@ -13066,7 +13066,7 @@
 22230,Sinks made of plastic (manufacture)
 25500,Sintering of metals (manufacture)
 29310,Sirens for motor vehicles (manufacture)
-1160,Sisal growing and other textile fibre of the genus agave growing
+01160,Sisal growing and other textile fibre of the genus agave growing
 43120,Site preparation
 85310,Sixth form colleges
 28990,Size reduction equipment for the chemical industry (manufacture)
@@ -13110,9 +13110,9 @@
 23990,Slag wool (manufacture)
 23520,Slaked lime (manufacture)
 46730,Slate (wholesale)
-8110,Slate mine or quarry
+08110,Slate mine or quarry
 23700,Slate polishing (manufacture)
-9900,Slate quarrying support services provided on a fee or contract basis
+09900,Slate quarrying support services provided on a fee or contract basis
 23700,Slate slab and sheet cutting and preparation (manufacture)
 46730,Slate slabs (wholesale)
 23700,Slate working (manufacture)
@@ -13147,7 +13147,7 @@
 28940,Sliver can (textile machinery accessory) (manufacture)
 13100,Sliver dyeing of wool (manufacture)
 13910,Sliver knitted fabric (manufacture)
-1240,Sloe growing
+01240,Sloe growing
 77390,Slot machine rental
 28410,Slotting machine (metal working) (manufacture)
 28110,Slow speed diesel engine for marine use (manufacture)
@@ -13179,7 +13179,7 @@
 56103,Snack bar
 10720,Snack products of puffed or extruded farinaceous or proteinaceous materials (manufacture)
 10720,Snack products whether sweet or salted (manufacture)
-1490,Snail farming
+01490,Snail farming
 32990,Snap fasteners (manufacture)
 93120,Snooker club
 81299,"Snow and ice clearing of highways, etc."
@@ -13303,7 +13303,7 @@
 26511,Sonar (manufacture)
 90030,Song writer
 10520,Sorbet production (manufacture)
-1110,Sorghum growing
+01110,Sorghum growing
 38320,"Sorting and pelleting of plastics to produce secondary raw material for tubes, flower pots, pallets"
 38320,Sorting and pelleting of plastics to produce secondary raw materials
 28923,"Sorting, grinding and mixing machinery for earth, stones and other mineral substances (manufacture)"
@@ -13319,11 +13319,11 @@
 59200,Sound recording studios
 61100,"Sound transmission via cables, broadcasting, relay or satellite"
 10890,Soup containing meat or vegetables or both (manufacture)
-1240,Sour cherry growing
+01240,Sour cherry growing
 47789,Souvenirs (retail)
 10410,Soya bean crushing (manufacture)
 10612,Soya bean grinding (manufacture)
-1110,Soya bean growing
+01110,Soya bean growing
 10612,Soya bean milling (manufacture)
 10410,Soya bean oil (crude) (manufacture)
 10410,Soya bean oil refining (manufacture)
@@ -13400,11 +13400,11 @@
 10840,Spice (purifying) (manufacture)
 46370,Spice (wholesale)
 46170,Spice broker (commission agent)
-1280,Spice crops growing
+01280,Spice crops growing
 24100,Spiegeleisen (manufacture)
 16290,Spills made of wood (manufacture)
 27510,Spin dryer
-1130,Spinach growing
+01130,Spinach growing
 28940,Spindles (textile machinery accessories) (manufacture)
 28940,Spindles and spindle flyers (manufacture)
 13100,"Spinning and manufacture of yarn for weaving, for the trade or for further processing (manufacture)"
@@ -13425,15 +13425,15 @@
 94910,Spiritualist church
 96090,Spiritualists' activities
 32500,Splints (manufacture)
-2200,Split pole production (unprocessed form)
+02200,Split pole production (unprocessed form)
 16100,"Split poles, pickets and other similar products (manufacture)"
 28490,"Splitting or cleaving machines for stone, ceramics, asbestos-cement or similar (manufacture)"
 28490,"Splitting, stamping and fragmenting machines (manufacture)"
-2200,Splitwood production (unprocessed form)
+02200,Splitwood production (unprocessed form)
 25730,Spoke shave (manufacture)
 32990,Sponge bleaching (manufacture)
 13990,Sponge dressing (manufacture)
-3110,Sponge gathering
+03110,Sponge gathering
 46210,Sponge importer (wholesale)
 24100,Sponge iron (manufacture)
 32990,Sponge trimming (manufacture)
@@ -13498,7 +13498,7 @@
 25930,Springs made of steel for upholstery (manufacture)
 28290,Sprinklers for fire extinguishing (manufacture)
 28150,Sprocket chain (manufacture)
-9100,Spudding in for oil wells
+09100,Spudding in for oil wells
 93120,Squash club
 11070,Squash drink (manufacture)
 32300,Squash racket (manufacture)
@@ -13525,7 +13525,7 @@
 25720,Stair rods made of metal (manufacture)
 16230,Stair rods made of wood (manufacture)
 16230,Staircase made of wood (manufacture)
-2200,Stakes (of wood) production (unprocessed form)
+02200,Stakes (of wood) production (unprocessed form)
 47789,Stamp dealer (retail)
 18129,Stamp embossed paper (manufacture)
 17290,Stamp hinges (manufacture)
@@ -13591,7 +13591,7 @@
 28940,Steaming machinery for textiles (manufacture)
 13300,"Steaming of textiles and textile articles, including wearing apparel (manufacture)"
 20140,Stearic acid (manufacture)
-8990,Steatite (talc) mining and quarrying
+08990,Steatite (talc) mining and quarrying
 46720,Steel (wholesale)
 43999,Steel bending
 43999,Steel elements (not self-manufactured) erection
@@ -13688,9 +13688,9 @@
 14200,Stoles made of fur (manufacture)
 23610,Stone articles for use in construction (manufacture)
 43999,Stone carving
-8120,Stone chippings production
-8120,Stone dust production
-1240,Stone fruit growing
+08120,Stone chippings production
+08120,Stone dust production
+01240,Stone fruit growing
 23700,Stone furniture (manufacture)
 43999,Stone setting
 43999,Stone walling
@@ -13743,7 +13743,7 @@
 16290,Straw articles (manufacture)
 14190,Straw hat blocking (manufacture)
 14190,Straw hats (manufacture)
-1250,Strawberry growing
+01250,Strawberry growing
 17120,Strawboard (manufacture)
 17120,Strawpaper (manufacture)
 49319,Street car (scheduled passenger transport)
@@ -13789,9 +13789,9 @@
 25110,Structures for buildings made of aluminium (manufacture)
 25110,Structures for civil engineering made of aluminium (manufacture)
 43310,Stucco application in buildings
-1430,Stud farming
+01430,Stud farming
 25930,Stud link chain (manufacture)
-1629,Stud services on a fee or contract basis
+01629,Stud services on a fee or contract basis
 94990,Student associations
 94910,Student Christian Movement
 55900,Student house accommodation
@@ -13824,10 +13824,10 @@
 46360,Sugar (wholesale)
 46360,Sugar and chocolate and sugar confectionery exporter (wholesale)
 46360,Sugar and chocolate and sugar confectionery importer (wholesale)
-1130,Sugar beet growing
+01130,Sugar beet growing
 28302,Sugar beet harvester (manufacture)
-1130,Sugar beet seed production
-1140,Sugar cane growing
+01130,Sugar beet seed production
+01140,Sugar cane growing
 10822,Sugar confectionery (manufacture)
 47240,Sugar confectionery (retail)
 28930,Sugar confectionery making machinery (manufacture)
@@ -13861,14 +13861,14 @@
 20130,Sulphuric acid (manufacture)
 13922,Sun blinds (manufacture)
 32990,Sun car (manufacture)
-1630,Sun drying of herbs and spices
-1630,Sun drying of tobacco
+01630,Sun drying of herbs and spices
+01630,Sun drying of tobacco
 46499,Sun umbrellas and garden umbrellas (wholesale)
 20420,Sunburn prevention and sun tan preparations (manufacture)
 10410,Sunflower oil refining (manufacture)
 10410,Sunflower seed crushing (manufacture)
-1110,Sunflower seed growing
-1110,Sunflower seed production
+01110,Sunflower seed growing
+01110,Sunflower seed production
 10410,Sunflower-seed oil production (manufacture)
 23190,Sunglass blank (manufacture)
 32500,Sunglasses (manufacture)
@@ -13891,7 +13891,7 @@
 84230,Supreme Courts of the United Kingdon
 20590,Surface active chemicals (excluding finished detergents and scouring powder) (manufacture)
 20411,Surface active preparations (manufacture)
-5102,Surface mining of hard coal
+05102,Surface mining of hard coal
 28410,Surface tempering machines (manufacture)
 26511,Surface tension instruments (electronic) (manufacture)
 26513,Surface tension instruments (non-electronic) (manufacture)
@@ -13943,11 +13943,11 @@
 29320,Suspension springs for motor vehicle (manufacture)
 28410,Swaging machine (metal forming) (manufacture)
 64999,"Swaps, options and other hedging arrangements"
-1130,Swede growing (cultivated)
-1190,Swede growing (fodder)
+01130,Swede growing (cultivated)
+01190,Swede growing (fodder)
 10720,Sweet crackers (manufacture)
-1280,Sweet marjoram growing
-1130,Sweet potato growing
+01280,Sweet marjoram growing
+01130,Sweet potato growing
 10519,Sweetened skimmed whey production (manufacture)
 47240,Sweets (retail)
 10822,Sweets (sugar confectionery) (manufacture)
@@ -13959,8 +13959,8 @@
 93110,Swimming pools
 41201,Swimming pools construction
 14190,Swimwear (manufacture)
-1460,Swine farming
-1460,Swine raising and breeding
+01460,Swine farming
+01460,Swine raising and breeding
 28990,Swings (fairground equipment) (manufacture)
 32300,Swings for playgrounds (manufacture)
 13990,Swiss embroidery (manufacture)
@@ -14064,7 +14064,7 @@
 46770,Tailors' trimmings (wholesale)
 56103,Take away food shop
 56103,Take-out eating places
-8990,Talc mine or quarry
+08990,Talc mine or quarry
 20420,Talcum powder (manufacture)
 46760,Tallow (wholesale)
 26513,Tally counters (non-electronic) (manufacture)
@@ -14072,7 +14072,7 @@
 17220,Tampons made of paper and cellulose wadding (manufacture)
 17220,Tampons made of textile wadding (manufacture)
 30920,Tandems (manufacture)
-1230,Tangerine growing
+01230,Tangerine growing
 30110,Tanker (ship) (manufacture)
 29202,Tanker trailer (motor drawn) (manufacture)
 30200,Tanker wagon for railway (manufacture)
@@ -14090,7 +14090,7 @@
 15110,Tanning of hairless skins and hides (manufacture)
 46750,Tanning preparations (wholesale)
 24450,Tantalum (manufacture)
-7290,Tantalum mining and preparation
+07290,Tantalum mining and preparation
 28140,Tap parts (manufacture)
 13300,Tape bleaching (manufacture)
 28230,Tape dispensers (manufacture)
@@ -14128,7 +14128,7 @@
 47510,Tarpaulins (retail)
 46410,Tarpaulins (wholesale)
 46160,"Tarpaulins, awnings, sunblinds and circus tents (commission agent)"
-1280,Tarragon growing
+01280,Tarragon growing
 10710,Tarts (manufacture)
 13960,Tassels made of textile material (manufacture)
 91020,Tate Britain
@@ -14157,7 +14157,7 @@
 46170,Tea exchange (commission agent)
 10831,Tea extract and essence (manufacture)
 56102,Tea garden (unlicensed)
-1270,Tea growing
+01270,Tea growing
 47290,Tea merchant (retail)
 46370,Tea merchant (wholesale)
 10831,Tea or maté based extracts and preparations (manufacture)
@@ -14176,7 +14176,7 @@
 25990,Teapots made of base metal (manufacture)
 23410,Teapots made of ceramic (manufacture)
 32120,Teapots made of precious metal (manufacture)
-2300,Teasel growing
+02300,Teasel growing
 28940,Teasel rod (textile machinery accessory) (manufacture)
 22190,Teats made of rubber (manufacture)
 71200,Technical and non-destructive testing services
@@ -14308,7 +14308,7 @@
 26511,Test benches (electronic) (manufacture)
 26513,Test benches (non-electronic) (manufacture)
 43130,Test boring for construction
-9100,Test boring incidental to oil and gas extraction
+09100,Test boring incidental to oil and gas extraction
 43130,Test drilling for construction
 23190,Test tube (manufacture)
 30200,Test wagons for railway (manufacture)
@@ -14353,7 +14353,7 @@
 74100,Textile or wallpaper printing designing
 52290,Textile packing incidental to transport
 13923,Textile part of electric blankets (manufacture)
-1160,Textile plants growing
+01160,Textile plants growing
 28940,Textile printing machinery (manufacture)
 46110,Textile raw materials (commission agent)
 20411,Textile soap (manufacture)
@@ -14408,7 +14408,7 @@
 26513,Thermostat (non-electronic) (manufacture)
 20301,Thinners for paint and varnish (manufacture)
 20160,Thiourea resins (manufacture)
-7210,Thorium ores mining
+07210,Thorium ores mining
 46410,Thread (wholesale)
 26701,Thread counters (manufacture)
 13100,"Thread for sewing and embroidery, made of cotton (manufacture)"
@@ -14425,7 +14425,7 @@
 28410,Threading machine (metal cutting) (manufacture)
 25730,Threading tap (manufacture)
 46610,Threshers (wholesale)
-1610,Threshing by contractor
+01610,Threshing by contractor
 28302,Threshing machine (manufacture)
 26110,Thyratron (manufacture)
 27900,Thyristor (manufacture)
@@ -14472,9 +14472,9 @@
 18140,Tillot and seal making (manufacture)
 46130,Timber (commission agent)
 46130,Timber broker (commission agent)
-2400,Timber evaluation
-2400,Timber felling on a fee or contract basis
-2100,Timber growing
+02400,Timber evaluation
+02400,Timber felling on a fee or contract basis
+02100,Timber growing
 46730,Timber importer (wholesale)
 71200,Timber measurer
 46730,Timber merchant (wholesale)
@@ -14494,9 +14494,9 @@
 22190,Timing belt for motor vehicles (manufacture)
 24430,Tin (manufacture)
 24430,Tin foil (manufacture)
-7290,Tin mining and preparation
+07290,Tin mining and preparation
 27510,Tin openers (electric) (manufacture)
-7290,Tin ore and concentrate extraction and preparation
+07290,Tin ore and concentrate extraction and preparation
 18129,Tin printing (manufacture)
 24430,Tin wire made by drawing (manufacture)
 25730,Tinman's snips (manufacture)
@@ -14527,9 +14527,9 @@
 46170,Tobacco broker (commission agent)
 46210,Tobacco exporter (unmanufactured) (wholesale)
 12000,Tobacco for use in pipes and rolled cigarettes (manufacture)
-1150,Tobacco growing
+01150,Tobacco growing
 46210,Tobacco importer (unmanufactured) (wholesale)
-1630,"Tobacco leaves, drying and preparation"
+01630,"Tobacco leaves, drying and preparation"
 46350,Tobacco merchant (wholesale)
 46690,Tobacco preparation and making-up machinery (wholesale)
 28930,Tobacco processing machinery (manufacture)
@@ -14562,7 +14562,7 @@
 46730,Toilets (wholesale)
 52219,"Toll bridge, road or tunnel"
 20140,Toluene (manufacture)
-1130,Tomato growing
+01130,Tomato growing
 26600,Tomographs (manufacture)
 26400,Tone arms (manufacture)
 20120,Toner (pigment) (manufacture)
@@ -14823,12 +14823,12 @@
 37000,"Treatment of waste water (human, industrial, from swimming pools etc.) by various processes."
 36000,Treatment of water for industrial and other purposes
 38220,"Treatment, disposal and storage of radioactive nuclear waste"
-2400,Tree felling on a fee or contract basis
-1290,Tree growing for extraction of sap
-1300,Tree nurseries (except forest tree nurseries)
-2100,Tree nursery (not fruit or ornamental trees)
+02400,Tree felling on a fee or contract basis
+01290,Tree growing for extraction of sap
+01300,Tree nurseries (except forest tree nurseries)
+02100,Tree nursery (not fruit or ornamental trees)
 81300,"Tree pruning, replanting, on a fee or contract basis (except as an agricultural service activity)"
-1300,Tree seedling raising
+01300,Tree seedling raising
 25990,Trellis work made of metal (manufacture)
 16230,Trellis work made of wood (manufacture)
 43120,Trench digging
@@ -14861,10 +14861,10 @@
 49410,Truck rental (with driver)
 77120,Truck rental (without driver)
 77120,Trucks and other heavy vehicles exceeding 3.5 tonnes renting and leasing
-1160,True hemp growing
+01160,True hemp growing
 28490,Trueing and grinding machines for cold working of glass (manufacture)
-1130,Truffles growing
-2300,"Truffles, gathering from the wild"
+01130,Truffles growing
+02300,"Truffles, gathering from the wild"
 25400,Truncheons and night sticks (manufacture)
 15120,Trunk handles made of leather (manufacture)
 15120,Trunks made of leather (manufacture)
@@ -14886,7 +14886,7 @@
 28910,Tube mill plant (manufacture)
 24440,Tube shells made of copper (manufacture)
 86101,Tuberculosis hospital (public sector)
-1130,Tuberous vegetable growing
+01130,Tuberous vegetable growing
 28990,Tubes (valves) or bulbs producing machinery (manufacture)
 24510,Tubes and fittings made of cast iron (manufacture)
 25920,Tubes made of aluminium for packaging (collapsible) (manufacture)
@@ -14950,14 +14950,14 @@
 26400,Tuner for radio and television (other than audio separates) (manufacture)
 10410,Tung oil extraction (manufacture)
 24450,Tungsten (manufacture)
-3110,Tunicate hunting
+03110,Tunicate hunting
 32200,Tuning fork (manufacture)
 95290,Tuning of musical instruments
 23200,Tunnel oven refractory (manufacture)
 28921,Tunnelling machine for mining (manufacture)
 52219,Tunnels operation
 16240,Tuns made of wood (manufacture)
-9100,Turbine drilling services
+09100,Turbine drilling services
 27110,Turbine for electricity generation (manufacture)
 77390,Turbine rental and operating leasing
 28110,Turbine-generator sets (manufacture)
@@ -14968,18 +14968,18 @@
 30300,Turbo-propellers and parts for aircraft (manufacture)
 92000,Turf accountant
 92000,Turf commission agency
-1300,Turf for transplanting
-1470,Turkey farming
-1470,Turkey raising and breeding
+01300,Turf for transplanting
+01470,Turkey farming
+01470,Turkey raising and breeding
 96040,Turkish baths
 10822,Turkish delight (manufacture)
 16290,Turned wood products (manufacture)
 28410,Turning machine (metal cutting) (manufacture)
 28490,"Turning, engraving, carving, etc. machines for stone, ceramics, and similar (manufacture)"
-1130,Turnip growing
+01130,Turnip growing
 28990,Turnstiles (manufacturer)
 26400,Turn-tables (record decks) (manufacture)
-3110,Turtle hunting
+03110,Turtle hunting
 13200,Tweed (manufacture)
 13200,Twill weaving (manufacture)
 14390,Twin sets (knitted) (manufacture)
@@ -15107,10 +15107,10 @@
 31090,Upholstery of chairs and seats (manufacture)
 15110,Upper leather (manufacture)
 20130,Uranium (enriched) (manufacture)
-7210,Uranium and thorium ore concentration
-9900,Uranium and thorium ore mining support services provided on a fee or contract basis
+07210,Uranium and thorium ore concentration
+09900,Uranium and thorium ore mining support services provided on a fee or contract basis
 24460,Uranium metal production from pitchblende or other ores (manufacture)
-7210,Uranium ore mining
+07210,Uranium ore mining
 24460,Uranium smelting and refining (manufacture)
 49311,"Urban area passenger railway transportation by underground, metro and similar systems"
 49319,"Urban area scheduled passenger land transport other than by underground, metro and similar systems"
@@ -15158,9 +15158,9 @@
 77120,Van hire (exceeding 3.5 tonnes without driver)
 77110,Van rental (self drive not exceeding 3.5 tonnes)
 24450,Vanadium (manufacture)
-7290,Vanadium mining and preparation
+07290,Vanadium mining and preparation
 28131,Vane pump (manufacture)
-1280,Vanilla growing
+01280,Vanilla growing
 19201,Vaporising oil (manufacture)
 25300,Vapour generators (manufacture)
 74909,Variety agency
@@ -15181,23 +15181,23 @@
 22290,Vases made of plastic (manufacture)
 20120,Vat dye (manufacture)
 16240,Vats made of wood (manufacture)
-1130,Vegetable bulb growing
+01130,Vegetable bulb growing
 10390,Vegetable dehydrating for human consumption (manufacture)
 10850,Vegetable dishes (manufacture)
 13100,Vegetable down (manufacture)
 28930,Vegetable fats or oils extraction or preparation machinery (manufacture)
 17110,Vegetable fibre pulp (manufacture)
-2300,Vegetable hair gathering
+02300,Vegetable hair gathering
 28302,Vegetable harvesting and sorting machinery (manufacture)
 10320,Vegetable juice (manufacture)
-2100,Vegetable materials used for plaiting growing
+02100,Vegetable materials used for plaiting growing
 10612,Vegetable milling (manufacture)
 10410,"Vegetable oil processing: blowing, boiling, dehydration, hydrogenation (manufacture)"
 10410,Vegetable oil refining (manufacture)
 46120,Vegetable or resin product derivatives (commission agent)
 46750,Vegetable or resin product derivatives (wholesale)
 10390,Vegetable pickling (manufacture)
-1290,Vegetable plaiting material growing
+01290,Vegetable plaiting material growing
 10390,Vegetable preparation and preserving (manufacture)
 28930,Vegetable processing machines and equipment (manufacture)
 10390,Vegetable quick freezing (manufacture)
@@ -15243,7 +15243,7 @@
 64303,Venture and development capital companies and funds activities
 10730,Vermicelli (manufacture)
 81291,Vermin destroying (not agricultural)
-1610,Vermin destroying and trapping on agricultural land
+01610,Vermin destroying and trapping on agricultural land
 11040,Vermouth (manufacture)
 25300,Vertical boiler (manufacture)
 10831,Vervain herb infusions (manufacture)
@@ -15301,7 +15301,7 @@
 68209,Village hall letting
 28930,Vinegar processing machinery (manufacture)
 10840,"Vinegars (malt, spirit, wine, acetic acid) (manufacture)"
-1210,Vineyards
+01210,Vineyards
 20140,Vinyl acetate (manufacture)
 20160,Vinyl acetate polymers (manufacture)
 20160,Vinyl chloride polymers (manufacture)
@@ -15381,8 +15381,8 @@
 17240,Wallpaper and lining paper (manufacture)
 17120,Wallpaper base (manufacture)
 43330,Wallpaper hanging
-1250,Walnut growing
-1700,Walrus catching (land-based)
+01250,Walnut growing
+01700,Walrus catching (land-based)
 25400,War ammunition (manufacture)
 94990,War veterans' associations
 87300,Warden assisted dwellings for the elderly (charitable)
@@ -15486,9 +15486,9 @@
 42210,Water well drilling
 22190,Waterbed mattresses of rubber (manufacture)
 50200,Waterborne freight transport (except for inland waterway service)
-1130,Watercress growing
+01130,Watercress growing
 22290,Watering cans made of plastic (manufacture)
-1130,Watermelon growing
+01130,Watermelon growing
 17120,Waterproof paper (manufacture)
 13922,Waterproofed covers made of canvas (manufacture)
 43999,Waterproofing of buildings
@@ -15568,7 +15568,7 @@
 28921,Wellhead running tools (manufacture)
 28921,Wellheads (manufacture)
 15200,Wellington boot (manufacture)
-9100,Well-perforating services
+09100,Well-perforating services
 94910,Wesleyan reform union
 27200,Wet cell batteries (manufacture)
 10620,Wet corn milling (manufacture)
@@ -15581,10 +15581,10 @@
 32990,Whalebone cutting and splitting (manufacture)
 30110,Whaler (manufacture)
 10110,Whales processing on land or on specialised vessels (manufacture)
-3110,Whaling
+03110,Whaling
 52220,Wharfinger
 10611,Wheat flake (manufacture)
-1110,Wheat growing
+01110,Wheat growing
 10611,Wheat milling (manufacture)
 10611,Wheat offal (manufacture)
 10611,Wheat pellets (manufacture)
@@ -15605,7 +15605,7 @@
 30920,Wheels for pedal cycles (manufacture)
 10519,Whey (sweetened skimmed) production (manufacture)
 95290,'While-you-wait' printing of textile articles (manufacture)
-8110,Whinstone quarry
+08110,Whinstone quarry
 15120,Whips (manufacture)
 46499,Whips and riding crops (wholesale)
 11010,Whisky (manufacture)
@@ -15614,15 +15614,15 @@
 32200,Whistles (manufacture)
 28230,White boards (manufacture)
 10822,White chocolate (manufacture)
-1250,White currant growing
+01250,White currant growing
 20130,White lead (not in paste form) (manufacture)
 20301,White lead in paste form (manufacture)
 24450,White metal (manufacture)
-8930,White salt production
+08930,White salt production
 19201,White spirit (manufacture)
 10810,White sugar (manufacture)
 32910,Whitewash brush (manufacture)
-8110,Whiting and prepared chalk production
+08110,Whiting and prepared chalk production
 46390,Wholesale grocer (wholesale)
 46900,Wholesale of a variety of goods without any particular specialisation (wholesale)
 16290,Wicker baskets (manufacture)
@@ -15634,9 +15634,9 @@
 19201,Wide cut gasoline (manufacture)
 24100,Wide slabs made of semi-finished steel (manufacture)
 32990,Wig (manufacture)
-1700,Wild frog catching
+01700,Wild frog catching
 91040,Wildlife preservation services
-2100,Willow growing
+02100,Willow growing
 13931,Wilton carpet (manufacture)
 13200,Winceyette weaving (manufacture)
 28220,Winch (manufacture)
@@ -15684,7 +15684,7 @@
 46690,"Wine, cider, fruit beverage production machinery (wholesale)"
 28930,"Wine, cider, fruit juice, etc. Press (manufacture)"
 30300,Wings for aircraft (manufacture)
-3110,Winkle gathering
+03110,Winkle gathering
 28302,Winnower for agricultural use (manufacture)
 28930,Winnowers for milling (manufacture)
 93110,Winter sport arenas and stadiums
@@ -15714,7 +15714,7 @@
 27330,Wiring accessories (manufacture)
 27330,Wiring devices (manufacture)
 29310,Wiring sets (manufacture)
-2100,Withy growing
+02100,Withy growing
 24450,Wolfram (manufacture)
 47710,Women's bespoke tailor (retail)
 47710,Women's clothier and outfitter (retail)
@@ -15741,12 +15741,12 @@
 16100,Wood drying (manufacture)
 90030,Wood engraver (artistic)
 16100,Wood flour (manufacture)
-2200,"Wood gathering and production, for energy"
+02200,"Wood gathering and production, for energy"
 16100,"Wood grooving, milling, planing, sawing etc. (manufacture)"
 16100,Wood impregnation (manufacture)
 46730,Wood in the rough (wholesale)
-2200,Wood in the rough production (untreated)
-2200,"Wood logging, etc. within forestry site"
+02200,Wood in the rough production (untreated)
+02200,"Wood logging, etc. within forestry site"
 16100,Wood machining (manufacture)
 16290,Wood marquetry (manufacture)
 16100,Wood mill (manufacture)
@@ -15784,7 +15784,7 @@
 32200,Woodwind instruments (manufacture)
 28490,Woodworking machinery (manufacture)
 10110,Wool (fellmongery) (manufacture)
-1450,Wool (raw) production
+01450,Wool (raw) production
 46110,Wool broker (commission agent)
 28940,Wool carbonisers (manufacture)
 13100,Wool carbonising (manufacture)
@@ -15857,8 +15857,8 @@
 14120,Workwear (manufacture)
 14120,Workwear clothing for women (manufacture)
 99000,World bank
-1490,Worm (other than marine) farming
-3210,"Worm farms, marine"
+01490,Worm (other than marine) farming
+03210,"Worm farms, marine"
 13100,Worsted carding (manufacture)
 13100,Worsted doubling (manufacture)
 13100,Worsted spinning and twisting (manufacture)
@@ -15909,7 +15909,7 @@
 47789,Yacht chandler (retail)
 93120,Yacht club
 46499,Yachts (wholesale)
-1130,Yam growing
+01130,Yam growing
 46160,Yarn (commission agent)
 13100,Yarn (core spun on the cotton system) (manufacture)
 22190,Yarn (rubberised) (manufacture)
@@ -15928,7 +15928,7 @@
 10890,Yeast and vegetable extract (manufacture)
 10890,Yeast preparation (manufacture)
 46170,Yeasts and prepared baking powders (commission agent)
-7210,Yellowcake production
+07210,Yellowcake production
 24460,Yellowcake to uranium tetrafluoride and hexafluoride conversion (manufacture)
 94990,YMCA (not hostel)
 55900,YMCA hostel
@@ -15945,7 +15945,7 @@
 32500,Zimmer frames and other walking aids (manufacture)
 24430,Zinc (manufacture)
 46720,Zinc (wholesale)
-7290,Zinc mining and preparation
+07290,Zinc mining and preparation
 20120,Zinc oxide (manufacture)
 46750,Zinc oxide and peroxide (wholesale)
 20301,Zinc paint (manufacture)
