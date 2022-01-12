@@ -16,9 +16,13 @@ then
     exit 1
 fi
 
-script_dir=$(dirname "$0")
+if [[ -z "${SIC_CODE_DATABASE}" ]]
+then
+    echo "ERROR: SIC_CODE_DATABASE environmental variable NOT set"
+    exit 1
+fi
 
-mongo_db=sic_code
+script_dir=$(dirname "$0")
 
 import_csv() {
     local csv_filename="$1"
@@ -36,7 +40,7 @@ import_csv() {
     docker cp "${csv_file_full_path}" "${MONGO_DOCKER_NAME}:/tmp/${csv_filename}"
 
     echo "Importing the CSV to Collection ${mongo_collection} with drop option \"${drop_option}\""
-    docker exec "${MONGO_DOCKER_NAME}" mongoimport --db ${mongo_db} --collection ${mongo_collection} --file /tmp/${csv_filename} ${drop_option} --type=csv --headerline --columnsHaveTypes
+    docker exec "${MONGO_DOCKER_NAME}" mongoimport --db ${SIC_CODE_DATABASE} --collection ${mongo_collection} --file /tmp/${csv_filename} ${drop_option} --type=csv --headerline --columnsHaveTypes
 
 }
 
@@ -54,8 +58,8 @@ create_combined_sic_activites() {
     echo "Copying over JavaScript file ${javascript_file_full_path} to Docker container"
     docker cp "${javascript_file_full_path}" "${MONGO_DOCKER_NAME}:/tmp/${javascript_file}"
 
-    echo "Creating new combined collection in ${mongo_db} database"
-    docker exec "${MONGO_DOCKER_NAME}" mongo localhost:27017/${mongo_db} /tmp/${javascript_file}
+    echo "Creating new combined collection in ${SIC_CODE_DATABASE} database"
+    docker exec "${MONGO_DOCKER_NAME}" mongo localhost:27017/${SIC_CODE_DATABASE} /tmp/${javascript_file}
 
 }
 

@@ -27,19 +27,18 @@ This Node.js application is based on the [Node Web Starter](https://github.com/c
 
 ### Quick start
 
-Populate the database
+Populate the database:
 
-Run docker with a Mongo container running (making sure that you have the correct setting for MONGO_DOCKER_NAME)
+1. Run docker with a Mongo container running (making sure that you have the correct setting for the environmental variable MONGO_DOCKER_NAME)
+2. Run the script `./scripts/refresh-mongo-db.sh`
 
-Run the script `./scripts/refresh-mongo-db.sh`
-
-Install the dependencies
+Install the dependencies:
 
   `make init`
 
-And then start the application
+And then start the application:
 
-  `npm start`
+  `npm start` or  `npm run dev` (uses `nodemon`)
 
 Then go to [http://localhost:3000](http://localhost:3000).
 
@@ -49,12 +48,16 @@ The following is a list of environment variables for the service to run:
 
 Name                                        | Description                                                            | Example Value
 ------------------------------------------- | ---------------------------------------------------------------------- | ------------------------
+SIC_CODE_MONGO_URL                          | Base URL of the Mongo Database                                         | `mongodb://chs.local:27017`
+SIC_CODE_DATABASE                           | Mongo Database name                                                    | `sic_code`
+SIC_CODE_WEB_PORT                           | Application port number                                                | 3000 (default)
 
 The following is a list of environmental variables required to load the database
 
 Name                                        | Description                                                            | Example Value
 ------------------------------------------- | ---------------------------------------------------------------------- | ------------------------
 MONGO_DOCKER_NAME                           | Name of the MongoDB Docker container                                   | docker-mongo_1
+SIC_CODE_DATABASE                           | Mongo Database name                                                    | sic_code
 
 ### Datafiles
 

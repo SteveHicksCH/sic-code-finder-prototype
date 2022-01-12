@@ -5,23 +5,24 @@ db.economic_activity_sic_codes.aggregate([
     { $lookup:
         {
            from: "condensed_sic_codes",
-           localField: "sic_code",
-           foreignField: "sic_code",
-           as: "sic_record"
+           localField: "sicCode",
+           foreignField: "sicCode",
+           as: "sicRecord"
         }
     },
     {
-        $unwind:"$sic_record"
+        $unwind:"$sicRecord"
     },
     {
         $project:{
             "_id":1,
-            "sic_code" : 1,
-            "activity_description" : 1,
-            "sic_description" : "$sic_record.sic_description"
+            "sicCode" : 1,
+            "activityDescription" : 1,
+            "activityDescriptionLowerCase" : { $toLower: "$activityDescription"},
+            "sicDescription" : "$sicRecord.sicDescription"
         }
     },
     { $out : "combined_sic_activities"}
 ]);
 
-db.combined_sic_activities.createIndex( { "sic_code" : 1 } )
+db.combined_sic_activities.createIndex( { "sicCode" : 1 } )

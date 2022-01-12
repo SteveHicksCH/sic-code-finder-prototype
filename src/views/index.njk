@@ -1,5 +1,56 @@
 {% extends "base.njk" %}
 
+{% from "govuk/components/input/macro.njk" import govukInput %}
+{% from "govuk/components/button/macro.njk" import govukButton %}
+{% from "govuk/components/table/macro.njk" import govukTable %}
+
+{% block pageTitle %}
+  SIC Code Search
+{% endblock %}
+
 {% block content %}
-<h1 class="govuk-heading-xl">SIC Code Search</h1>
+<h3 class="govuk-heading-xl">SIC Code Search</h3>
+
+<form method="POST" action="/">
+
+    {{ govukInput({
+    label: {
+        text: "Enter keyword to search for SIC code",
+        classes: "govuk-label--l",
+        isPageHeading: true
+    },
+    id: "sic-code-search-name",
+    name: "sicCodeSearchName",
+    value: searchText
+    }) }}
+    
+    {{ govukButton({
+    text: "Search"
+    }) }}
+</form>
+
+{% if matches|length %}
+   {{ govukTable({
+        caption: "Matching SIC Codes",
+        captionClasses: "govuk-table__caption--m",
+        head: [
+          {
+            text: "SIC Code"
+          },
+          {
+            text: "SIC Description"
+          },
+          {
+            text: "Economic Activity"
+          }
+        ],
+        rows: matches
+      }) }}
+
+{% endif %}
+
+{% if not matches|length %}
+   <h3 class="govuk-heading-m">No Matches</h3>
+{% endif %}
+
 {% endblock %}
