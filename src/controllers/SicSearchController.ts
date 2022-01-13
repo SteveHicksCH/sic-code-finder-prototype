@@ -20,7 +20,6 @@ export class SicSearchController {
         const matchOptions = req.body.matchOptions ?? "or"
 
         const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
-        //console.log("Controller Results ", databaseMatches, " size ", databaseMatches.length)
 
         const matches = databaseMatches.map(obj => [{
             text: obj.sicCode
@@ -29,8 +28,6 @@ export class SicSearchController {
         }, {
             text: obj.activityDescription
         }]);
-
-        //console.log ("For output", matches, " size ", matches.length);
 
         res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches, matchOptions: matchOptions});
     };
