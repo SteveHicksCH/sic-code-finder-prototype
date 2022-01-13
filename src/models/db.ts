@@ -2,8 +2,6 @@ const mongoose = require('mongoose');
 
 import config from "../config";
 
-//mongoose.connect(config.dbURI, {useNewUrlParser: true});
-
 const connect = () => {
     setTimeout(() => mongoose.connect(config.dbURI, { useNewUrlParser: true }), 1000);
   }

@@ -3,6 +3,8 @@
 {% from "govuk/components/input/macro.njk" import govukInput %}
 {% from "govuk/components/button/macro.njk" import govukButton %}
 {% from "govuk/components/table/macro.njk" import govukTable %}
+{% from "govuk/components/checkboxes/macro.njk" import govukCheckboxes %}
+
 
 {% block pageTitle %}
   SIC Code Search
@@ -15,7 +17,7 @@
 
     {{ govukInput({
     label: {
-        text: "Enter keyword to search for SIC code",
+        text: "Enter keyword(s) to search for SIC code",
         classes: "govuk-label--l",
         isPageHeading: true
     },
@@ -23,6 +25,25 @@
     name: "sicCodeSearchName",
     value: searchText
     }) }}
+
+{{ govukCheckboxes({
+  idPrefix: "match-options",
+  name: "matchOptions",
+  fieldset: {
+    legend: {
+      text: "Match Options",
+      isPageHeading: true,
+      classes: "govuk-fieldset__legend--m"
+    }
+  },
+  items: [
+    {
+      value: "and",
+      text: "Only match when all keywords are found",
+      checked: true if matchOptions === 'and'
+    }
+  ]
+}) }}
     
     {{ govukButton({
     text: "Search"
@@ -46,11 +67,8 @@
         ],
         rows: matches
       }) }}
-
-{% endif %}
-
-{% if not matches|length %}
-   <h3 class="govuk-heading-m">No Matches</h3>
+{% elif matches %}
+     <h3 class="govuk-heading-m">No Matches</h3>
 {% endif %}
 
 {% endblock %}

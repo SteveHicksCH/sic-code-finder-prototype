@@ -12,15 +12,15 @@ export class SicSearchController {
 
     public renderView = (req: Request, res: Response) => {
         console.log("in render view");
-        res.render("index", {searchText: ""});
+        res.render("index", {searchText: "", matches: undefined, matchOptions: "or"});
     };
 
     public search = async (req: Request, res: Response, next: NextFunction) => {
-        console.log("searching for SIC codes using [" + req.body.sicCodeSearchName + "]");
+        console.log("searching for SIC codes using [" + req.body.sicCodeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
+        const matchOptions = req.body.matchOptions ?? "or"
 
-        const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName);
-
-        console.log("Controller Results ", databaseMatches, " size ", databaseMatches.length)
+        const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
+        //console.log("Controller Results ", databaseMatches, " size ", databaseMatches.length)
 
         const matches = databaseMatches.map(obj => [{
             text: obj.sicCode
@@ -30,9 +30,9 @@ export class SicSearchController {
             text: obj.activityDescription
         }]);
 
-        console.log ("For output", matches, " size ", matches.length);
+        //console.log ("For output", matches, " size ", matches.length);
 
-        res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches});
+        res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches, matchOptions: matchOptions});
     };
 
 }
