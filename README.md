@@ -2,7 +2,9 @@
 
 ## Overview
 
-This web app allows you to enter keywords for a SIC code lookup
+This web app allows you to enter keywords for a SIC code lookup based on the economic activities that make up a SIC Code.
+
+![Application Schematic Diagram](sic-code-finder-diagram.png)
 
 This Node.js application is based on the [Node Web Starter](https://github.com/companieshouse/node-web-starter) template and uses:
 
