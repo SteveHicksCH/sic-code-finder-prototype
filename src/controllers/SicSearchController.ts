@@ -21,7 +21,17 @@ export class SicSearchController {
 
         const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
 
-        const matches = databaseMatches.map(obj => [{
+        let resultsWithCount = databaseMatches.map(obj => ({
+            _id: obj._id,
+            sicCode: obj.sicCode,
+            sicDescription: obj.sicDescription,
+            activityDescription: obj.activityDescription,
+            count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activityDescriptionLowerCase.split(' '))
+        }));
+
+        let sortedResults = resultsWithCount.sort((a, b) => b.count-a.count);         
+
+        const matches = sortedResults.map(obj => [{
             text: obj.sicCode
         }, {
             text: obj.sicDescription
@@ -29,7 +39,15 @@ export class SicSearchController {
             text: obj.activityDescription
         }]);
 
+        console.log("matches", matches);     
+
         res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches, matchOptions: matchOptions});
     };
+
+    private numberOccurances(keywords: string[], descriptions: string[]): number {
+        const matchedWords = keywords.filter((word) => descriptions.includes(word));
+        console.log(matchedWords);
+        return matchedWords.length;
+    }
 
 }
