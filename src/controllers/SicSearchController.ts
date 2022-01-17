@@ -26,7 +26,7 @@ export class SicSearchController {
             sicCode: obj.sicCode,
             sicDescription: obj.sicDescription,
             activityDescription: obj.activityDescription,
-            count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activityDescriptionLowerCase.split(' '))
+            count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activityDescriptionLowerCase)
         }));
 
         let sortedResults = resultsWithCount.sort((a, b) => b.count-a.count);         
@@ -44,10 +44,8 @@ export class SicSearchController {
         res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches, matchOptions: matchOptions});
     };
 
-    private numberOccurances(keywords: string[], descriptions: string[]): number {
-        const matchedWords = keywords.filter((word) => descriptions.includes(word));
-        console.log(matchedWords);
-        return matchedWords.length;
+    private numberOccurances(keywords: string[], descriptions: string): number {
+        return keywords.filter((k) => (descriptions.includes(k))).length;
     }
 
 }
