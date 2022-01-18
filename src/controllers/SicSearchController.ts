@@ -45,7 +45,7 @@ export class SicSearchController {
     };
 
     private numberOccurances(keywords: string[], descriptions: string): number {
-        return keywords.filter((k) => (descriptions.includes(k))).length;
+        return keywords.filter(k => descriptions.includes(k) ).length;
     }
 
 }
