@@ -1,19 +1,19 @@
 const mongoose = require('mongoose');
 
 const combinedSicActivitySchema = new mongoose.Schema({
-    sicCode: {
+    sic_code: {
         type: String,
         required: true
     },
-    sicDescription: {
+    sic_description: {
         type: String,
         required: true
     },
-    activityDescription: {
+    activity_description: {
         type: String,
         required: true
     },
-    activityDescriptionLowerCase: {
+    activity_description_lower_case: {
         type: String,
         required: true
     }

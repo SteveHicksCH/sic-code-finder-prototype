@@ -16,27 +16,27 @@ export class SicSearchController {
     };
 
     public search = async (req: Request, res: Response, next: NextFunction) => {
-        console.log("searching for SIC codes using [" + req.body.sicCodeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
+        console.log("searching for SIC codes using [" + req.body.sic_codeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
         const matchOptions = req.body.matchOptions ?? "or"
 
         const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
 
         let resultsWithCount = databaseMatches.map(obj => ({
             _id: obj._id,
-            sicCode: obj.sicCode,
-            sicDescription: obj.sicDescription,
-            activityDescription: obj.activityDescription,
-            count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activityDescriptionLowerCase)
+            sic_code: obj.sic_code,
+            sic_description: obj.sic_description,
+            activity_description: obj.activity_description,
+            count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activity_description_lower_case)
         }));
 
         let sortedResults = resultsWithCount.sort((a, b) => b.count-a.count);         
 
         const matches = sortedResults.map(obj => [{
-            text: obj.sicCode
+            text: obj.sic_code
         }, {
-            text: obj.sicDescription
+            text: obj.sic_description
         }, {
-            text: obj.activityDescription
+            text: obj.activity_description
         }]);
 
         console.log("matches", matches);     
