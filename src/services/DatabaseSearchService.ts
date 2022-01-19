@@ -15,7 +15,7 @@ export class DatabaseSearchService {
         console.log("service search [" + keywords + "] with regex [", regex, "] with match option [", matchOptions, "]");
 
         const CombinedSicActivity = mongoose.model('CombinedSicActivity');
-        return CombinedSicActivity.find({ "activityDescriptionLowerCase" : { $regex : new RegExp(regex) }});
+        return CombinedSicActivity.find({ "activity_description_lower_case" : { $regex : new RegExp(regex) }});
     }
 
 }
