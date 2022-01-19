@@ -16,32 +16,42 @@ export class SicSearchController {
     };
 
     public search = async (req: Request, res: Response, next: NextFunction) => {
-        console.log("searching for SIC codes using [" + req.body.sicCodeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
+        console.log("Searching for SIC codes using [" + req.body.sicCodeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
         const matchOptions = req.body.matchOptions ?? "or"
 
-        const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
+        try {
 
-        let resultsWithCount = databaseMatches.map(obj => ({
-            _id: obj._id,
-            sic_code: obj.sic_code,
-            sic_description: obj.sic_description,
-            activity_description: obj.activity_description,
-            count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activity_description_lower_case)
-        }));
+            const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
 
-        let sortedResults = resultsWithCount.sort((a, b) => b.count-a.count);         
+            let resultsWithCount = databaseMatches.map(obj => ({
+                _id: obj._id,
+                sic_code: obj.sic_code,
+                sic_description: obj.sic_description,
+                activity_description: obj.activity_description,
+                count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activity_description_lower_case)
+            }));
 
-        const matches = sortedResults.map(obj => [{
-            text: obj.sic_code
-        }, {
-            text: obj.sic_description
-        }, {
-            text: obj.activity_description
-        }]);
+            let sortedResults = resultsWithCount.sort((a, b) => b.count-a.count);         
 
-        console.log("matches", matches);     
+            const matches = sortedResults.map(obj => [{
+                text: obj.sic_code
+            }, {
+                text: obj.sic_description
+            }, {
+                text: obj.activity_description
+            }]);
 
-        res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches, matchOptions: matchOptions});
+            console.log("matches", matches);     
+
+            res.render("index", {searchText: req.body.sicCodeSearchName, matches: matches, matchOptions: matchOptions});
+        }
+        catch (error) {
+            console.log("error", error.message);     
+            res.render("index", {searchText: req.body.sicCodeSearchName, matchOptions: matchOptions, errors: error});
+        }
+        finally {
+            console.log("finally called");
+        }
     };
 
     private numberOccurances(keywords: string[], descriptions: string): number {

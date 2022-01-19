@@ -5,7 +5,6 @@
 {% from "govuk/components/table/macro.njk" import govukTable %}
 {% from "govuk/components/checkboxes/macro.njk" import govukCheckboxes %}
 
-
 {% block pageTitle %}
   SIC Code Search
 {% endblock %}
@@ -14,6 +13,10 @@
 <h3 class="govuk-heading-xl">SIC Code Search</h3>
 
 <form method="POST" action="/">
+
+    {%if errors %}
+      <p class="govuk-error-summary">A Server Error occured when trying to find your SIC Code</p>
+    {% endif %}
 
     {{ govukInput({
     label: {
