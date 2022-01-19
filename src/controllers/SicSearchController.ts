@@ -16,7 +16,7 @@ export class SicSearchController {
     };
 
     public search = async (req: Request, res: Response, next: NextFunction) => {
-        console.log("searching for SIC codes using [" + req.body.sic_codeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
+        console.log("searching for SIC codes using [" + req.body.sicCodeSearchName + "], matchOptions = [" + req.body.matchOptions + "] " );
         const matchOptions = req.body.matchOptions ?? "or"
 
         const databaseMatches = await this.databaseSearchService.search(req.body.sicCodeSearchName, matchOptions);
