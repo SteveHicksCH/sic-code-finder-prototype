@@ -2,7 +2,7 @@
 
 ## Overview
 
-This web app allows you to enter keywords for a SIC code lookup based on the economic activities that make up a SIC Code.
+This web app allows you to enter keywords for a SIC code lookup based on the economic activities that make up a SIC Code. A SIC Code is an abbreviation of "Standard industrial classification of economic activities"
 
 ![Application Schematic Diagram](sic-code-finder-diagram.png)
 
