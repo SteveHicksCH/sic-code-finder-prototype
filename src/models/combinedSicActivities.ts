@@ -13,7 +13,7 @@ const combinedSicActivitySchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    activity_description_lower_case: {
+    activity_description_search_field: {
         type: String,
         required: true
     }

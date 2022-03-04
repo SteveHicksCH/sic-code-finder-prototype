@@ -18,7 +18,7 @@ db.economic_activity_sic_codes.aggregate([
             "_id":1,
             "sic_code" : 1,
             "activity_description" : 1,
-            "activity_description_lower_case" : { $toLower: "$activity_description"},
+            "activity_description_search_field" : { $toLower: "$activity_description"},
             "sic_description" : "$sicRecord.sic_description"
         }
     },

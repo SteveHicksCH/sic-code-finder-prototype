@@ -28,7 +28,7 @@ export class SicSearchController {
                 sic_code: obj.sic_code,
                 sic_description: obj.sic_description,
                 activity_description: obj.activity_description,
-                count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activity_description_lower_case)
+                count: this.numberOccurances(req.body.sicCodeSearchName.toLowerCase().split(' '), obj.activity_description_search_field)
             }));
 
             let sortedResults = resultsWithCount.sort((a, b) => b.count-a.count);         
